@@ -1,5 +1,6 @@
 from settings import *
 import requests
+import json
 
 
 def wakfu_version():
