@@ -26,7 +26,7 @@ def	import_online_data():
 		if data:
 			with open(f"{path}/{CATEGORYS[i]}.json", "w", encoding="utf-8") \
 					as imported_json:
-				json.dump(data, imported_json, ensure_ascii=False)
+				json.dump(data, imported_json, ensure_ascii = False, indent = 4)
 			print(f"{path}/{CATEGORYS[i]}.json written")
 		i += 1
 
