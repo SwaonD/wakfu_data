@@ -18,6 +18,7 @@ def	import_online_data():
 	i = 0
 	while i < len(CATEGORYS):
 		if tools.does_path_exist(f"{path}/{CATEGORYS[i]}.json"):
+			i += 1
 			continue
 		url = DATA_URL.replace("<version>", version) \
 				.replace("<category>", CATEGORYS[i])
@@ -25,7 +26,7 @@ def	import_online_data():
 		if data:
 			with open(f"{path}/{CATEGORYS[i]}.json", "w", encoding="utf-8") \
 					as imported_json:
-				json.dump(data, imported_json)
+				json.dump(data, imported_json, ensure_ascii=False)
 			print(f"{path}/{CATEGORYS[i]}.json written")
 		i += 1
 

@@ -9,4 +9,4 @@ def mkdir(path):
 		print(f"folder '{path}' already exist")
 
 def does_path_exist(path):
-	return Path(path).exists() # pb lorsque path exist ?
+	return Path(path).exists()

@@ -5,7 +5,7 @@ def get_json_data_with_url(url):
 	content = None
 	response = requests.get(url)
 	if response.status_code == 200:
-		content = response.text # pb utf 8 ici
+		content = response.content
 	if content:
 		data = json.loads(content)
 		return data
