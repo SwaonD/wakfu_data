@@ -6,7 +6,7 @@ from core.tools.json_tools import get_json_data_with_url
 from core.tools.tools import mkdir
 from core.data_version import get_version
 
-def	generate_online_data():
+def	generate_online_json():
 	version = get_version()
 	path = f"{DATA_PATH}/imported/{version}"
 	mkdir(path)
@@ -26,4 +26,4 @@ def	generate_online_data():
 		i += 1
 
 if __name__ == "__main__":
-	generate_online_data()
+	generate_online_json()
