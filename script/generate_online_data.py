@@ -1,21 +1,15 @@
 import json
 from pathlib import Path
 
-from settings import DATA_URL, CATEGORYS, VERSION_URL, DATA_PATH
-import json_tools
-import tools
+from core.settings import DATA_URL, CATEGORYS, DATA_PATH
+from core.tools.json_tools import get_json_data_with_url
+from core.tools.tools import mkdir
+from core.data_version import get_version
 
-def wakfu_version():
-	data = json_tools.get_json_data_with_url(VERSION_URL)
-	if data:
-		return data["version"]
-	else:
-		return None
-
-def	import_online_data():
-	version = wakfu_version()
+def	generate_online_data():
+	version = get_version()
 	path = f"{DATA_PATH}/imported/{version}"
-	tools.mkdir(path)
+	mkdir(path)
 	i = 0
 	while i < len(CATEGORYS):
 		if Path(f"{path}/{CATEGORYS[i]}.json").exists():
@@ -23,7 +17,7 @@ def	import_online_data():
 			continue
 		url = DATA_URL.replace("<version>", version) \
 				.replace("<category>", CATEGORYS[i])
-		data = json_tools.get_json_data_with_url(url)
+		data = get_json_data_with_url(url)
 		if data:
 			with open(f"{path}/{CATEGORYS[i]}.json", "w", encoding="utf-8") \
 					as imported_json:
@@ -31,3 +25,5 @@ def	import_online_data():
 			print(f"{path}/{CATEGORYS[i]}.json written")
 		i += 1
 
+if __name__ == "__main__":
+	generate_online_data()
