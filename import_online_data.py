@@ -1,6 +1,7 @@
 import json
+from pathlib import Path
 
-from settings import DATA_URL, CATEGORYS, VERSION_URL
+from settings import DATA_URL, CATEGORYS, VERSION_URL, DATA_PATH
 import json_tools
 import tools
 
@@ -13,11 +14,11 @@ def wakfu_version():
 
 def	import_online_data():
 	version = wakfu_version()
-	path = f"./data/imported/{version}"
+	path = f"{DATA_PATH}/imported/{version}"
 	tools.mkdir(path)
 	i = 0
 	while i < len(CATEGORYS):
-		if tools.does_path_exist(f"{path}/{CATEGORYS[i]}.json"):
+		if Path(f"{path}/{CATEGORYS[i]}.json").exists():
 			i += 1
 			continue
 		url = DATA_URL.replace("<version>", version) \
