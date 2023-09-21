@@ -1,5 +1,8 @@
 [
 	{
+		"definition": {
+			"id": 1000000
+		},
 		"title": {
 			"fr": "Féca",
 			"en": "Feca",
@@ -8,6 +11,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000001
+		},
 		"title": {
 			"fr": "Osamodas",
 			"en": "Osamodas",
@@ -16,6 +22,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000002
+		},
 		"title": {
 			"fr": "Enutrof",
 			"en": "Enutrof",
@@ -24,6 +33,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000003
+		},
 		"title": {
 			"fr": "Sram",
 			"en": "Sram",
@@ -32,6 +44,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000004
+		},
 		"title": {
 			"fr": "Xélor",
 			"en": "Xelor",
@@ -40,6 +55,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000005
+		},
 		"title": {
 			"fr": "Ecaflip",
 			"en": "Ecaflip",
@@ -48,6 +66,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000006
+		},
 		"title": {
 			"fr": "Eniripsa",
 			"en": "Eniripsa",
@@ -56,6 +77,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000007
+		},
 		"title": {
 			"fr": "Iop",
 			"en": "Iop",
@@ -64,6 +88,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000008
+		},
 		"title": {
 			"fr": "Crâ",
 			"en": "Cra",
@@ -72,6 +99,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000009
+		},
 		"title": {
 			"fr": "Sadida",
 			"en": "Sadida",
@@ -80,6 +110,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000010
+		},
 		"title": {
 			"fr": "Sacrieur",
 			"en": "Sacrier",
@@ -88,6 +121,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000011
+		},
 		"title": {
 			"fr": "Pandawa",
 			"en": "Pandawa",
@@ -96,6 +132,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000012
+		},
 		"title": {
 			"fr": "Roublard",
 			"en": "Rogue",
@@ -104,6 +143,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000013
+		},
 		"title": {
 			"fr": "Zobal",
 			"en": "Masqueraider",
@@ -112,6 +154,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000014
+		},
 		"title": {
 			"fr": "Ouginak",
 			"en": "Ouginak",
@@ -120,6 +165,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000015
+		},
 		"title": {
 			"fr": "Steamer",
 			"en": "Forggernaut",
@@ -128,6 +176,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000016
+		},
 		"title": {
 			"fr": "Eliotrope",
 			"en": "Eliotrope",
@@ -136,6 +187,9 @@
 		}
 	},
 	{
+		"definition": {
+			"id": 1000017
+		},
 		"title": {
 			"fr": "Huppermage",
 			"en": "Huppermage",

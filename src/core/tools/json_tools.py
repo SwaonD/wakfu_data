@@ -13,8 +13,8 @@ def get_json_data_with_url(url):
 		print(f"get_json_data_with_url failed with url={url}")
 		return None
 
-def	get_json_data_with_path(path):
-	with open(path, 'r', encoding="utf-8") as file:
+def	get_json_data_with_path(path, mode = "r"):
+	with open(path, mode, encoding="utf-8") as file:
 		content = file.read()
 	if content:
 		data = json.loads(content)
@@ -22,3 +22,5 @@ def	get_json_data_with_path(path):
 	else:
 		print(f"get_json_data_with_path failed with path={path}")
 		return None
+
+# create function to place any key to any position in the object

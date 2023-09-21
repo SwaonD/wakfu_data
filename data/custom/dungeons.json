@@ -1,6 +1,10 @@
 [
 	{
-		"level": 5,
+		"definition": {
+			"id": 1100000,
+			"level": 5,
+			"level_min": 3
+		},
 		"title": {
 			"fr": "Donjon d'Incarnam",
 			"en": "Incarnam Dungeon",
@@ -9,7 +13,11 @@
 		}
 	},
 	{
-		"level": 20,
+		"definition": {
+			"id": 1100001,
+			"level": 20,
+			"level_min": 9
+		},
 		"title": {
 			"fr": "Chez la Mère Michou",
 			"en": "Grandmeow's House",
@@ -18,7 +26,11 @@
 		}
 	},
 	{
-		"level": 20,
+		"definition": {
+			"id": 1100002,
+			"level": 20,
+			"level_min": 12
+		},
 		"title": {
 			"fr": "Pâturages des Bouftous",
 			"en": "Gobball Pastures",
@@ -27,7 +39,11 @@
 		}
 	},
 	{
-		"level": 20,
+		"definition": {
+			"id": 1100003,
+			"level": 20,
+			"level_min": 12
+		},
 		"title": {
 			"fr": "Le Tofulailler",
 			"en": "The Tofuhouse",
@@ -36,7 +52,11 @@
 		}
 	},
 	{
-		"level": 20,
+		"definition": {
+			"id": 1100004,
+			"level": 20,
+			"level_min": 12
+		},
 		"title": {
 			"fr": "Larventura",
 			"en": "Larventura",
@@ -45,7 +65,11 @@
 		}
 	},
 	{
-		"level": 35,
+		"definition": {
+			"id": 1100005,
+			"level": 35,
+			"level_min": 21
+		},
 		"title": {
 			"fr": "Donjon des Abraknes",
 			"en": "Treechnee Dungeon",
@@ -54,7 +78,11 @@
 		}
 	},
 	{
-		"level": 35,
+		"definition": {
+			"id": 1100006,
+			"level": 35,
+			"level_min": 21
+		},
 		"title": {
 			"fr": "Le Caveau Relevé",
 			"en": "The Raised Vault",
@@ -63,7 +91,11 @@
 		}
 	},
 	{
-		"level": 35,
+		"definition": {
+			"id": 1100007,
+			"level": 35,
+			"level_min": 21
+		},
 		"title": {
 			"fr": "Piou Lahoupe",
 			"en": "Hoola Hoopiwi",
@@ -72,7 +104,11 @@
 		}
 	},
 	{
-		"level": 35,
+		"definition": {
+			"id": 1100008,
+			"level": 35,
+			"level_min": 21
+		},
 		"title": {
 			"fr": "Brèche Dimensionnelle de Tainéla",
 			"en": "Tainela Dimensional Rift",
@@ -81,7 +117,11 @@
 		}
 	},
 	{
-		"level": 50,
+		"definition": {
+			"id": 1100009,
+			"level": 50,
+			"level_min": 36
+		},
 		"title": {
 			"fr": "Le Papaturage Royal",
 			"en": "The Royal Pasturizer",
@@ -90,7 +130,11 @@
 		}
 	},
 	{
-		"level": 50,
+		"definition": {
+			"id": 1100010,
+			"level": 50,
+			"level_min": 36
+		},
 		"title": {
 			"fr": "La Montagne Adezieu",
 			"en": "The Hill Hazize",
@@ -99,7 +143,11 @@
 		}
 	},
 	{
-		"level": 50,
+		"definition": {
+			"id": 1100011,
+			"level": 50,
+			"level_min": 36
+		},
 		"title": {
 			"fr": "Les Champs Pourchan",
 			"en": "Sureberry Fields",
@@ -108,7 +156,11 @@
 		}
 	},
 	{
-		"level": 50,
+		"definition": {
+			"id": 1100012,
+			"level": 50,
+			"level_min": 36
+		},
 		"title": {
 			"fr": "La Tour Minérale",
 			"en": "The Mineral Tower",
@@ -117,7 +169,11 @@
 		}
 	},
 	{
-		"level": 50,
+		"definition": {
+			"id": 1100013,
+			"level": 50,
+			"level_min": 36
+		},
 		"title": {
 			"fr": "Donjon équipage du Poulpe",
 			"en": "Octopus Crew Dungeon",
@@ -126,7 +182,11 @@
 		}
 	},
 	{
-		"level": 50,
+		"definition": {
+			"id": 1100014,
+			"level": 50,
+			"level_min": 36
+		},
 		"title": {
 			"fr": "Donjon Mort-Brûlés",
 			"en": "Deathburn Dungeon",
@@ -135,7 +195,11 @@
 		}
 	},
 	{
-		"level": 65,
+		"definition": {
+			"id": 1100015,
+			"level": 65,
+			"level_min": 51
+		},
 		"title": {
 			"fr": "L'Antre Oubliée",
 			"en": "The Forgotten Lair",
@@ -144,7 +208,11 @@
 		}
 	},
 	{
-		"level": 65,
+		"definition": {
+			"id": 1100016,
+			"level": 65,
+			"level_min": 51
+		},
 		"title": {
 			"fr": "Donjon Bwork",
 			"en": "Bwork Dungeon",
@@ -153,7 +221,11 @@
 		}
 	},
 	{
-		"level": 65,
+		"definition": {
+			"id": 1100017,
+			"level": 65,
+			"level_min": 51
+		},
 		"title": {
 			"fr": "La Skouale Sèche",
 			"en": "Dry Selachii",
@@ -162,7 +234,11 @@
 		}
 	},
 	{
-		"level": 65,
+		"definition": {
+			"id": 1100018,
+			"level": 65,
+			"level_min": 51
+		},
 		"title": {
 			"fr": "Donjon Mollusky",
 			"en": "Mollusky Dungeon",
@@ -171,7 +247,11 @@
 		}
 	},
 	{
-		"level": 65,
+		"definition": {
+			"id": 1100019,
+			"level": 65,
+			"level_min": 51
+		},
 		"title": {
 			"fr": "Tour des Miss Moches",
 			"en": "Miss Ugly Tower",
@@ -180,7 +260,11 @@
 		}
 	},
 	{
-		"level": 65,
+		"definition": {
+			"id": 1100020,
+			"level": 65,
+			"level_min": 51
+		},
 		"title": {
 			"fr": "Kokokolantha",
 			"en": "Kokokobana",
@@ -189,7 +273,11 @@
 		}
 	},
 	{
-		"level": 65,
+		"definition": {
+			"id": 1100021,
+			"level": 65,
+			"level_min": 51
+		},
 		"title": {
 			"fr": "Château des Cwabes",
 			"en": "Cwab's Castle",
@@ -198,7 +286,11 @@
 		}
 	},
 	{
-		"level": 65,
+		"definition": {
+			"id": 1100022,
+			"level": 65,
+			"level_min": 51
+		},
 		"title": {
 			"fr": "Donjon Marteaux-Aigris",
 			"en": "Bitter-Hammer Dungeon",
@@ -207,7 +299,11 @@
 		}
 	},
 	{
-		"level": 80,
+		"definition": {
+			"id": 1100023,
+			"level": 80,
+			"level_min": 66
+		},
 		"title": {
 			"fr": "Les Ratacombes",
 			"en": "The Ratatombs",
@@ -216,7 +312,11 @@
 		}
 	},
 	{
-		"level": 80,
+		"definition": {
+			"id": 1100024,
+			"level": 80,
+			"level_min": 66
+		},
 		"title": {
 			"fr": "Antre d'Excarnus",
 			"en": "Excarnus's Lair",
@@ -225,7 +325,11 @@
 		}
 	},
 	{
-		"level": 80,
+		"definition": {
+			"id": 1100025,
+			"level": 80,
+			"level_min": 66
+		},
 		"title": {
 			"fr": "Temple du Grand Orrok",
 			"en": "Temple of the Grand Orrok",
@@ -234,7 +338,11 @@
 		}
 	},
 	{
-		"level": 80,
+		"definition": {
+			"id": 1100026,
+			"level": 80,
+			"level_min": 66
+		},
 		"title": {
 			"fr": "La Corbeau-Cave",
 			"en": "Cro-Cave",
@@ -243,7 +351,11 @@
 		}
 	},
 	{
-		"level": 80,
+		"definition": {
+			"id": 1100027,
+			"level": 80,
+			"level_min": 66
+		},
 		"title": {
 			"fr": "Truchière Abandonnée",
 			"en": "Abandoned Strichery",
@@ -252,7 +364,11 @@
 		}
 	},
 	{
-		"level": 80,
+		"definition": {
+			"id": 1100028,
+			"level": 80,
+			"level_min": 66
+		},
 		"title": {
 			"fr": "Domaine du Petit Groin",
 			"en": "Boarthroom Estate",
@@ -261,7 +377,11 @@
 		}
 	},
 	{
-		"level": 80,
+		"definition": {
+			"id": 1100029,
+			"level": 80,
+			"level_min": 66
+		},
 		"title": {
 			"fr": "Palais du Tsu",
 			"en": "Tsu's Palace",
@@ -270,7 +390,11 @@
 		}
 	},
 	{
-		"level": 80,
+		"definition": {
+			"id": 1100030,
+			"level": 80,
+			"level_min": 66
+		},
 		"title": {
 			"fr": "Autel de la Lune",
 			"en": "Lunar Altar",
@@ -279,7 +403,11 @@
 		}
 	},
 	{
-		"level": 80,
+		"definition": {
+			"id": 1100031,
+			"level": 80,
+			"level_min": 66
+		},
 		"title": {
 			"fr": "Donjon Arakne",
 			"en": "Arachnee Dungeon",
@@ -288,7 +416,11 @@
 		}
 	},
 	{
-		"level": 80,
+		"definition": {
+			"id": 1100032,
+			"level": 80,
+			"level_min": 66
+		},
 		"title": {
 			"fr": "Brèche Dimensionnelle de Sufokia",
 			"en": "Sufokia Dimensional Rift",
@@ -297,7 +429,11 @@
 		}
 	},
 	{
-		"level": 95,
+		"definition": {
+			"id": 1100033,
+			"level": 95,
+			"level_min": 81
+		},
 		"title": {
 			"fr": "Sliptorium",
 			"en": "The Undieworld",
@@ -306,7 +442,11 @@
 		}
 	},
 	{
-		"level": 95,
+		"definition": {
+			"id": 1100034,
+			"level": 95,
+			"level_min": 81
+		},
 		"title": {
 			"fr": "Le Misolée",
 			"en": "Miseryum",
@@ -315,7 +455,11 @@
 		}
 	},
 	{
-		"level": 95,
+		"definition": {
+			"id": 1100035,
+			"level": 95,
+			"level_min": 81
+		},
 		"title": {
 			"fr": "Château de Wagnar",
 			"en": "Wagnar's Castle",
@@ -324,7 +468,11 @@
 		}
 	},
 	{
-		"level": 95,
+		"definition": {
+			"id": 1100036,
+			"level": 95,
+			"level_min": 81
+		},
 		"title": {
 			"fr": "Académie Trool",
 			"en": "Trool Academy",
@@ -333,7 +481,11 @@
 		}
 	},
 	{
-		"level": 95,
+		"definition": {
+			"id": 1100037,
+			"level": 95,
+			"level_min": 81
+		},
 		"title": {
 			"fr": "Le Hammamamoule",
 			"en": "Mussly Hammam",
@@ -342,7 +494,11 @@
 		}
 	},
 	{
-		"level": 95,
+		"definition": {
+			"id": 1100038,
+			"level": 95,
+			"level_min": 81
+		},
 		"title": {
 			"fr": "Caverne des Slekymoses",
 			"en": "Schnekymosis Cavern",
@@ -351,7 +507,11 @@
 		}
 	},
 	{
-		"level": 95,
+		"definition": {
+			"id": 1100039,
+			"level": 95,
+			"level_min": 81
+		},
 		"title": {
 			"fr": "Scarrière Abandonnée",
 			"en": "Abandoned Scarapit",
@@ -360,7 +520,11 @@
 		}
 	},
 	{
-		"level": 95,
+		"definition": {
+			"id": 1100040,
+			"level": 95,
+			"level_min": 81
+		},
 		"title": {
 			"fr": "Nécropoil de Morbax",
 			"en": "Morbax Neplopolis",
@@ -369,7 +533,11 @@
 		}
 	},
 	{
-		"level": 95,
+		"definition": {
+			"id": 1100041,
+			"level": 95,
+			"level_min": 81
+		},
 		"title": {
 			"fr": "Antre du Meulou",
 			"en": "Moowolf's Lair",
@@ -378,7 +546,11 @@
 		}
 	},
 	{
-		"level": 110,
+		"definition": {
+			"id": 1100042,
+			"level": 110,
+			"level_min": 96
+		},
 		"title": {
 			"fr": "Repaire des Super-Vilains",
 			"en": "Supervillains' Lair",
@@ -387,7 +559,11 @@
 		}
 	},
 	{
-		"level": 110,
+		"definition": {
+			"id": 1100043,
+			"level": 110,
+			"level_min": 96
+		},
 		"title": {
 			"fr": "L'Arène Dansante",
 			"en": "Dancehall Arena",
@@ -396,7 +572,11 @@
 		}
 	},
 	{
-		"level": 110,
+		"definition": {
+			"id": 1100044,
+			"level": 110,
+			"level_min": 96
+		},
 		"title": {
 			"fr": "Les Glaglacier Cornu",
 			"en": "The Horned Glacier",
@@ -405,7 +585,11 @@
 		}
 	},
 	{
-		"level": 110,
+		"definition": {
+			"id": 1100045,
+			"level": 110,
+			"level_min": 96
+		},
 		"title": {
 			"fr": "Niche du Yech'tiWawa",
 			"en": "The Yech'Ti'Wawa's Kennel",
@@ -414,7 +598,11 @@
 		}
 	},
 	{
-		"level": 110,
+		"definition": {
+			"id": 1100046,
+			"level": 110,
+			"level_min": 96
+		},
 		"title": {
 			"fr": "Donjon Gelée",
 			"en": "Jelly Dungeon",
@@ -423,7 +611,11 @@
 		}
 	},
 	{
-		"level": 110,
+		"definition": {
+			"id": 1100047,
+			"level": 110,
+			"level_min": 96
+		},
 		"title": {
 			"fr": "Antre du Corbeau Noir",
 			"en": "The Black Crow's Lair",
@@ -432,7 +624,11 @@
 		}
 	},
 	{
-		"level": 110,
+		"definition": {
+			"id": 1100048,
+			"level": 110,
+			"level_min": 96
+		},
 		"title": {
 			"fr": "Repaire des Magik Riktus",
 			"en": "Magik Riktus Den",
@@ -441,7 +637,11 @@
 		}
 	},
 	{
-		"level": 110,
+		"definition": {
+			"id": 1100049,
+			"level": 110,
+			"level_min": 96
+		},
 		"title": {
 			"fr": "Antre du Boufrog",
 			"en": "The Gobbalrog's Lair",
@@ -450,7 +650,11 @@
 		}
 	},
 	{
-		"level": 110,
+		"definition": {
+			"id": 1100050,
+			"level": 110,
+			"level_min": 96
+		},
 		"title": {
 			"fr": "Chuchobase",
 			"en": "Hushquarters",
@@ -459,7 +663,11 @@
 		}
 	},
 	{
-		"level": 125,
+		"definition": {
+			"id": 1100051,
+			"level": 125,
+			"level_min": 111
+		},
 		"title": {
 			"fr": "Antre du Dragon-Cochon",
 			"en": "Dragon Pig's Den",
@@ -468,7 +676,11 @@
 		}
 	},
 	{
-		"level": 125,
+		"definition": {
+			"id": 1100052,
+			"level": 125,
+			"level_min": 111
+		},
 		"title": {
 			"fr": "Le Pot d'Hagën-Glass",
 			"en": "Hagen Daz's Pot",
@@ -477,7 +689,11 @@
 		}
 	},
 	{
-		"level": 125,
+		"definition": {
+			"id": 1100053,
+			"level": 125,
+			"level_min": 111
+		},
 		"title": {
 			"fr": "Aile de l'Ambassadrice",
 			"en": "Ambassador's Wing",
@@ -486,7 +702,11 @@
 		}
 	},
 	{
-		"level": 125,
+		"definition": {
+			"id": 1100054,
+			"level": 125,
+			"level_min": 111
+		},
 		"title": {
 			"fr": "La Tour Gelée",
 			"en": "The Frozen Tower",
@@ -495,7 +715,11 @@
 		}
 	},
 	{
-		"level": 125,
+		"definition": {
+			"id": 1100055,
+			"level": 125,
+			"level_min": 111
+		},
 		"title": {
 			"fr": "Donjon Cacterre",
 			"en": "Castuc Dungeon",
@@ -504,7 +728,11 @@
 		}
 	},
 	{
-		"level": 125,
+		"definition": {
+			"id": 1100056,
+			"level": 125,
+			"level_min": 111
+		},
 		"title": {
 			"fr": "Fosse du Tourmenteur",
 			"en": "Tormentor Pit",
@@ -513,7 +741,11 @@
 		}
 	},
 	{
-		"level": 125,
+		"definition": {
+			"id": 1100057,
+			"level": 125,
+			"level_min": 111
+		},
 		"title": {
 			"fr": "Caverne Smarrante",
 			"en": "The Whirlway Station",
@@ -522,7 +754,11 @@
 		}
 	},
 	{
-		"level": 125,
+		"definition": {
+			"id": 1100058,
+			"level": 125,
+			"level_min": 111
+		},
 		"title": {
 			"fr": "Donjon Flaqueux",
 			"en": "Puddly Dungeon",
@@ -531,7 +767,11 @@
 		}
 	},
 	{
-		"level": 125,
+		"definition": {
+			"id": 1100059,
+			"level": 125,
+			"level_min": 111
+		},
 		"title": {
 			"fr": "La Pichine",
 			"en": "The Snaptrap",
@@ -540,7 +780,11 @@
 		}
 	},
 	{
-		"level": 125,
+		"definition": {
+			"id": 1100060,
+			"level": 125,
+			"level_min": 111
+		},
 		"title": {
 			"fr": "Brèche Dimensionnelle de Frigost",
 			"en": "Frigost Dimensional Rift",
@@ -549,7 +793,11 @@
 		}
 	},
 	{
-		"level": 125,
+		"definition": {
+			"id": 1100061,
+			"level": 125,
+			"level_min": 111
+		},
 		"title": {
 			"fr": "Brèche Dimensionnelle d'Amakna",
 			"en": "Amakna Dimensional Rift",
@@ -558,7 +806,11 @@
 		}
 	},
 	{
-		"level": 140,
+		"definition": {
+			"id": 1100062,
+			"level": 140,
+			"level_min": 126
+		},
 		"title": {
 			"fr": "Temple de l'Empeleul Lenald",
 			"en": "Lenald Empelol's Temple",
@@ -567,7 +819,11 @@
 		}
 	},
 	{
-		"level": 140,
+		"definition": {
+			"id": 1100063,
+			"level": 140,
+			"level_min": 126
+		},
 		"title": {
 			"fr": "Donjon Black Wabbit",
 			"en": "Black Wabbit Dungeon",
@@ -576,7 +832,11 @@
 		}
 	},
 	{
-		"level": 140,
+		"definition": {
+			"id": 1100064,
+			"level": 140,
+			"level_min": 126
+		},
 		"title": {
 			"fr": "Donjon Wabbit",
 			"en": "Wabbit Dungeon",
@@ -585,7 +845,11 @@
 		}
 	},
 	{
-		"level": 140,
+		"definition": {
+			"id": 1100065,
+			"level": 140,
+			"level_min": 126
+		},
 		"title": {
 			"fr": "Sanctuaire de Mihmol",
 			"en": "Flaxhid's Sanctuary",
@@ -594,7 +858,11 @@
 		}
 	},
 	{
-		"level": 140,
+		"definition": {
+			"id": 1100066,
+			"level": 140,
+			"level_min": 126
+		},
 		"title": {
 			"fr": "Donjon Noirespore",
 			"en": "Blackspore Dungeon",
@@ -603,7 +871,11 @@
 		}
 	},
 	{
-		"level": 140,
+		"definition": {
+			"id": 1100067,
+			"level": 140,
+			"level_min": 126
+		},
 		"title": {
 			"fr": "Domaine de la Trouffe Salée",
 			"en": "Dirty Trouffe Estate",
@@ -612,7 +884,11 @@
 		}
 	},
 	{
-		"level": 140,
+		"definition": {
+			"id": 1100068,
+			"level": 140,
+			"level_min": 126
+		},
 		"title": {
 			"fr": "Donjon Abraknyde",
 			"en": "Treechnid Dungeon",
@@ -621,7 +897,11 @@
 		}
 	},
 	{
-		"level": 155,
+		"definition": {
+			"id": 1100069,
+			"level": 155,
+			"level_min": 141
+		},
 		"title": {
 			"fr": "Le Vignoble Ignoble",
 			"en": "The Villainy Vineyards",
@@ -630,7 +910,11 @@
 		}
 	},
 	{
-		"level": 155,
+		"definition": {
+			"id": 1100070,
+			"level": 155,
+			"level_min": 141
+		},
 		"title": {
 			"fr": "Château du Wa Wabbit",
 			"en": "Wa Wabbit's Castle",
@@ -639,7 +923,11 @@
 		}
 	},
 	{
-		"level": 155,
+		"definition": {
+			"id": 1100071,
+			"level": 155,
+			"level_min": 141
+		},
 		"title": {
 			"fr": "Wasewve de Cavottes Abandonnée",
 			"en": "Abandoned Cawwot Stowewoom",
@@ -648,7 +936,11 @@
 		}
 	},
 	{
-		"level": 155,
+		"definition": {
+			"id": 1100072,
+			"level": 155,
+			"level_min": 141
+		},
 		"title": {
 			"fr": "Donjon Srambad",
 			"en": "Srambad Dungeon",
@@ -657,7 +949,11 @@
 		}
 	},
 	{
-		"level": 155,
+		"definition": {
+			"id": 1100073,
+			"level": 155,
+			"level_min": 141
+		},
 		"title": {
 			"fr": "Donjon Enutrosor",
 			"en": "Enurado Dungeon",
@@ -666,7 +962,11 @@
 		}
 	},
 	{
-		"level": 155,
+		"definition": {
+			"id": 1100074,
+			"level": 155,
+			"level_min": 141
+		},
 		"title": {
 			"fr": "Blopéra",
 			"en": "Blopera",
@@ -675,7 +975,11 @@
 		}
 	},
 	{
-		"level": 155,
+		"definition": {
+			"id": 1100075,
+			"level": 155,
+			"level_min": 141
+		},
 		"title": {
 			"fr": "Source du Mal",
 			"en": "Wellspring of Evil",
@@ -684,7 +988,11 @@
 		}
 	},
 	{
-		"level": 155,
+		"definition": {
+			"id": 1100076,
+			"level": 155,
+			"level_min": 141
+		},
 		"title": {
 			"fr": "Brèche Dimensionnelle de Bonta",
 			"en": "Bonta Dimensional Rift",
@@ -693,7 +1001,11 @@
 		}
 	},
 	{
-		"level": 170,
+		"definition": {
+			"id": 1100077,
+			"level": 170,
+			"level_min": 156
+		},
 		"title": {
 			"fr": "Fabrique Méka",
 			"en": "Mecha Factory",
@@ -702,7 +1014,11 @@
 		}
 	},
 	{
-		"level": 170,
+		"definition": {
+			"id": 1100078,
+			"level": 170,
+			"level_min": 156
+		},
 		"title": {
 			"fr": "Donjon E-Bou",
 			"en": "Ow El Dungeon",
@@ -711,7 +1027,11 @@
 		}
 	},
 	{
-		"level": 170,
+		"definition": {
+			"id": 1100079,
+			"level": 170,
+			"level_min": 156
+		},
 		"title": {
 			"fr": "Plateau des Haut-Vents",
 			"en": "High Wind Plateau",
@@ -720,7 +1040,11 @@
 		}
 	},
 	{
-		"level": 170,
+		"definition": {
+			"id": 1100080,
+			"level": 170,
+			"level_min": 156
+		},
 		"title": {
 			"fr": "Repaire de Kali",
 			"en": "Kali's Lair",
@@ -729,7 +1053,11 @@
 		}
 	},
 	{
-		"level": 170,
+		"definition": {
+			"id": 1100081,
+			"level": 170,
+			"level_min": 156
+		},
 		"title": {
 			"fr": "Donjon Riktus Elite",
 			"en": "Elite Riktus Dungeon",
@@ -738,7 +1066,11 @@
 		}
 	},
 	{
-		"level": 170,
+		"definition": {
+			"id": 1100082,
+			"level": 170,
+			"level_min": 156
+		},
 		"title": {
 			"fr": "Roub'Bar",
 			"en": "Bistrogue",
@@ -747,7 +1079,11 @@
 		}
 	},
 	{
-		"level": 170,
+		"definition": {
+			"id": 1100083,
+			"level": 170,
+			"level_min": 156
+		},
 		"title": {
 			"fr": "Le Lampionaute",
 			"en": "The Zeppelantern",
@@ -756,7 +1092,11 @@
 		}
 	},
 	{
-		"level": 170,
+		"definition": {
+			"id": 1100084,
+			"level": 170,
+			"level_min": 156
+		},
 		"title": {
 			"fr": "La Patapoutrerie",
 			"en": "The Stalagmotel",
@@ -765,7 +1105,11 @@
 		}
 	},
 	{
-		"level": 185,
+		"definition": {
+			"id": 1100085,
+			"level": 185,
+			"level_min": 171
+		},
 		"title": {
 			"fr": "Cime du Grand Totem",
 			"en": "Top of Giant Totem",
@@ -774,7 +1118,11 @@
 		}
 	},
 	{
-		"level": 185,
+		"definition": {
+			"id": 1100086,
+			"level": 185,
+			"level_min": 171
+		},
 		"title": {
 			"fr": "Donjon des Crocodailles",
 			"en": "Crocodyl Dungeon",
@@ -783,7 +1131,11 @@
 		}
 	},
 	{
-		"level": 185,
+		"definition": {
+			"id": 1100087,
+			"level": 185,
+			"level_min": 171
+		},
 		"title": {
 			"fr": "Donjon des Kannivores",
 			"en": "Kannivore Dungeon",
@@ -792,7 +1144,11 @@
 		}
 	},
 	{
-		"level": 185,
+		"definition": {
+			"id": 1100088,
+			"level": 185,
+			"level_min": 171
+		},
 		"title": {
 			"fr": "Donjon des Kannibouls",
 			"en": "Kanniball Dungeon",
@@ -801,7 +1157,11 @@
 		}
 	},
 	{
-		"level": 185,
+		"definition": {
+			"id": 1100089,
+			"level": 185,
+			"level_min": 171
+		},
 		"title": {
 			"fr": "Donjon des Tropikes",
 			"en": "Tropickle Dungeon",
@@ -810,7 +1170,11 @@
 		}
 	},
 	{
-		"level": 185,
+		"definition": {
+			"id": 1100090,
+			"level": 185,
+			"level_min": 171
+		},
 		"title": {
 			"fr": "Cité Interdite",
 			"en": "Forbidden City",
@@ -819,7 +1183,11 @@
 		}
 	},
 	{
-		"level": 185,
+		"definition": {
+			"id": 1100091,
+			"level": 185,
+			"level_min": 171
+		},
 		"title": {
 			"fr": "Donjon Gerbouille",
 			"en": "Gerbean Dungeon",
@@ -828,7 +1196,11 @@
 		}
 	},
 	{
-		"level": 185,
+		"definition": {
+			"id": 1100092,
+			"level": 185,
+			"level_min": 171
+		},
 		"title": {
 			"fr": "Brèche Dimensionnelle de Moon",
 			"en": "Moon Dimensional Rift",
@@ -837,7 +1209,11 @@
 		}
 	},
 	{
-		"level": 200,
+		"definition": {
+			"id": 1100093,
+			"level": 200,
+			"level_min": 186
+		},
 		"title": {
 			"fr": "Antre de Nogord l'Ezarélé",
 			"en": "Nogord Wungleezared's Lair",
@@ -846,7 +1222,11 @@
 		}
 	},
 	{
-		"level": 200,
+		"definition": {
+			"id": 1100094,
+			"level": 200,
+			"level_min": 186
+		},
 		"title": {
 			"fr": "Tanière des Blérox",
 			"en": "Badgeroxes' Lair",
@@ -855,7 +1235,11 @@
 		}
 	},
 	{
-		"level": 200,
+		"definition": {
+			"id": 1100095,
+			"level": 200,
+			"level_min": 186
+		},
 		"title": {
 			"fr": "Volcan Or'Hodruin",
 			"en": "Or'Hodruin Volcano",
@@ -864,7 +1248,11 @@
 		}
 	},
 	{
-		"level": 200,
+		"definition": {
+			"id": 1100096,
+			"level": 200,
+			"level_min": 186
+		},
 		"title": {
 			"fr": "Pointe du Mont Zinit",
 			"en": "Mount Zinit Peak",
@@ -873,7 +1261,11 @@
 		}
 	},
 	{
-		"level": 200,
+		"definition": {
+			"id": 1100097,
+			"level": 200,
+			"level_min": 186
+		},
 		"title": {
 			"fr": "Sanctuaire des Dragoeufs",
 			"en": "Dreggons' Sanctuary",
@@ -882,7 +1274,11 @@
 		}
 	},
 	{
-		"level": 200,
+		"definition": {
+			"id": 1100098,
+			"level": 200,
+			"level_min": 186
+		},
 		"title": {
 			"fr": "La Crête Givrée",
 			"en": "Iced-Over Crest",
@@ -891,7 +1287,11 @@
 		}
 	},
 	{
-		"level": 200,
+		"definition": {
+			"id": 1100099,
+			"level": 200,
+			"level_min": 186
+		},
 		"title": {
 			"fr": "La Tour Minérale",
 			"en": "The Minerall Tower",
@@ -900,7 +1300,11 @@
 		}
 	},
 	{
-		"level": 200,
+		"definition": {
+			"id": 1100100,
+			"level": 200,
+			"level_min": 186
+		},
 		"title": {
 			"fr": "Tombeau de Pandala",
 			"en": "Pandala Tomb",
@@ -909,7 +1313,11 @@
 		}
 	},
 	{
-		"level": 200,
+		"definition": {
+			"id": 1100101,
+			"level": 200,
+			"level_min": 186
+		},
 		"title": {
 			"fr": "Canyon des Fléopards",
 			"en": "Blightopard Canyon",
@@ -918,7 +1326,11 @@
 		}
 	},
 	{
-		"level": 200,
+		"definition": {
+			"id": 1100102,
+			"level": 200,
+			"level_min": 186
+		},
 		"title": {
 			"fr": "Usine Hibourg",
 			"en": "Bubourg Factory",
@@ -927,7 +1339,11 @@
 		}
 	},
 	{
-		"level": 200,
+		"definition": {
+			"id": 1100103,
+			"level": 200,
+			"level_min": 186
+		},
 		"title": {
 			"fr": "Dimension-Objet d'Ombrage",
 			"en": "Shadofang Item Dimension",
@@ -936,7 +1352,11 @@
 		}
 	},
 	{
-		"level": 215,
+		"definition": {
+			"id": 1100104,
+			"level": 215,
+			"level_min": 201
+		},
 		"title": {
 			"fr": "La Tour Minérale",
 			"en": "The Mineral Tower",
@@ -945,7 +1365,11 @@
 		}
 	},
 	{
-		"level": 215,
+		"definition": {
+			"id": 1100105,
+			"level": 215,
+			"level_min": 201
+		},
 		"title": {
 			"fr": "Donjon Toundrasoirs",
 			"en": "Tundrazor Dungeon",
@@ -954,7 +1378,11 @@
 		}
 	},
 	{
-		"level": 215,
+		"definition": {
+			"id": 1100106,
+			"level": 215,
+			"level_min": 201
+		},
 		"title": {
 			"fr": "Donjon Crustrargneux",
 			"en": "Crabstacean Dungeon",
@@ -963,7 +1391,11 @@
 		}
 	},
 	{
-		"level": 215,
+		"definition": {
+			"id": 1100107,
+			"level": 215,
+			"level_min": 201
+		},
 		"title": {
 			"fr": "Donjon Cagnardeurs",
 			"en": "Sunsloth Dungeon",
@@ -972,7 +1404,11 @@
 		}
 	},
 	{
-		"level": 215,
+		"definition": {
+			"id": 1100108,
+			"level": 215,
+			"level_min": 201
+		},
 		"title": {
 			"fr": "Donjon Vandaliénés",
 			"en": "Vandalophrenic Dungeon",
@@ -981,7 +1417,11 @@
 		}
 	},
 	{
-		"level": 215,
+		"definition": {
+			"id": 1100109,
+			"level": 215,
+			"level_min": 201
+		},
 		"title": {
 			"fr": "Donjon Plantigardes",
 			"en": "Plantiguard Dungeon",
@@ -990,7 +1430,11 @@
 		}
 	},
 	{
-		"level": 215,
+		"definition": {
+			"id": 1100110,
+			"level": 215,
+			"level_min": 201
+		},
 		"title": {
 			"fr": "Donjon Mansots",
 			"en": "Pingwin Dungeon",
@@ -999,7 +1443,11 @@
 		}
 	},
 	{
-		"level": 215,
+		"definition": {
+			"id": 1100111,
+			"level": 215,
+			"level_min": 201
+		},
 		"title": {
 			"fr": "Donjon Carapattes",
 			"en": "Scramshell Dungeon",
@@ -1008,7 +1456,11 @@
 		}
 	},
 	{
-		"level": 215,
+		"definition": {
+			"id": 1100112,
+			"level": 215,
+			"level_min": 201
+		},
 		"title": {
 			"fr": "Brèche Dimensionnelle du Mont Zinit",
 			"en": "Mount Zinit Dimensional Rift",
@@ -1017,7 +1469,11 @@
 		}
 	},
 	{
-		"level": 215,
+		"definition": {
+			"id": 1100113,
+			"level": 215,
+			"level_min": 201
+		},
 		"title": {
 			"fr": "Brèche Dimensionnelle d'Osamosa",
 			"en": "Osamosa Dimensional Rift",
@@ -1026,7 +1482,11 @@
 		}
 	},
 	{
-		"level": 230,
+		"definition": {
+			"id": 1100114,
+			"level": 230,
+			"level_min": 216
+		},
 		"title": {
 			"fr": "Donjon Phytomorphes",
 			"en": "Phytomorph Dungeon",
@@ -1035,7 +1495,11 @@
 		}
 	},
 	{
-		"level": 230,
+		"definition": {
+			"id": 1100115,
+			"level": 230,
+			"level_min": 216
+		},
 		"title": {
 			"fr": "Donjon Vidéants",
 			"en": "Voidivion Dungeon",
@@ -1044,7 +1508,11 @@
 		}
 	},
 	{
-		"level": 230,
+		"definition": {
+			"id": 1100116,
+			"level": 230,
+			"level_min": 216
+		},
 		"title": {
 			"fr": "Donjon Démhorribles",
 			"en": "Horridemon Dungeon",
@@ -1053,7 +1521,11 @@
 		}
 	},
 	{
-		"level": 230,
+		"definition": {
+			"id": 1100117,
+			"level": 230,
+			"level_min": 216
+		},
 		"title": {
 			"fr": "Donjon Égarés ?",
 			"en": "Streye Dungeon?",
@@ -1062,7 +1534,11 @@
 		}
 	},
 	{
-		"level": 230,
+		"definition": {
+			"id": 1100118,
+			"level": 230,
+			"level_min": 216
+		},
 		"title": {
 			"fr": "Donjon Ravageurs",
 			"en": "Destroyer Dungeon",
@@ -1071,7 +1547,11 @@
 		}
 	},
 	{
-		"level": 230,
+		"definition": {
+			"id": 1100119,
+			"level": 230,
+			"level_min": 216
+		},
 		"title": {
 			"fr": "Palais de Rushu",
 			"en": "Rushu's Palace",
@@ -1080,7 +1560,11 @@
 		}
 	},
 	{
-		"level": 230,
+		"definition": {
+			"id": 1100120,
+			"level": 230,
+			"level_min": 216
+		},
 		"title": {
 			"fr": "Brèche Dimensionnelle de la Shukrute",
 			"en": "Shustuft Crust Dimensional Rift",
@@ -1089,7 +1573,11 @@
 		}
 	},
 	{
-		"level": 230,
+		"definition": {
+			"id": 1100121,
+			"level": 230,
+			"level_min": 216
+		},
 		"title": {
 			"fr": "Donjon Steamers",
 			"en": "Foggernaut Dungeon",
@@ -1098,7 +1586,11 @@
 		}
 	},
 	{
-		"level": 230,
+		"definition": {
+			"id": 1100122,
+			"level": 230,
+			"level_min": 216
+		},
 		"title": {
 			"fr": "Donjon Poisseux Abyssaux",
 			"en": "Abyssal Creeper Dungeon",
