@@ -14,8 +14,8 @@ def	get_json_data_with_url(url: str) -> dict:
 		print(f"get_json_data_with_url failed with url={url}")
 		return None
 
-def	get_json_data_with_path(path: str, mode: str = "r") -> dict:
-	with open(path, mode, encoding="utf-8") as file:
+def	get_json_data_with_path(path: str) -> dict:
+	with open(path, 'r', encoding="utf-8") as file:
 		content = file.read()
 	if content:
 		data = json.loads(content)
@@ -28,7 +28,7 @@ def	write_json_in_copy(json_path: str, data: dict):
 	parent_dir = Path(json_path).parent
 	copy_name = f"{Path(json_path).stem}_copy{Path(json_path).suffix}"
 	copy_path = parent_dir.joinpath(copy_name)
-	with open(copy_path, "w", encoding = "utf-8") as f:
+	with open(copy_path, 'w', encoding = "utf-8") as f:
 		json.dump(data, f, ensure_ascii = False, indent = 4)
 
 def	get_reordered_keys(parent_key: dict, child_keys: list) -> dict:

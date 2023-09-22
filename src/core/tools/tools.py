@@ -1,6 +1,6 @@
 from pathlib import Path
 
-def mkdir(path):
+def mkdir(path: str):
 	path_object = Path(path)
 	if not path_object.exists():
 		path_object.mkdir(parents=True, exist_ok=True)
