@@ -1,310 +1,310 @@
 [
-    {
-        "definition": {
-            "id": 10000239
-        },
-        "title": {
-            "fr": "Amakna",
-            "en": "Amakna",
-            "es": "Amakna",
-            "pt": "Amakna"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000240
-        },
-        "title": {
-            "fr": "Kelba",
-            "en": "Kelba",
-            "es": "Kelba",
-            "pt": "Kelba"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000241
-        },
-        "title": {
-            "fr": "Royaume Sadida",
-            "en": "Sadida Kingdom",
-            "es": "Reino Sadida",
-            "pt": "Reino Sadida"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000242
-        },
-        "title": {
-            "fr": "Ile aux moines",
-            "en": "Monk Island",
-            "es": "Isla de los Monjes",
-            "pt": "Ilha dos Monges"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000243
-        },
-        "title": {
-            "fr": "Katrepat",
-            "en": "Forfut",
-            "es": "Kuatropatas",
-            "pt": "Dezist"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000244
-        },
-        "title": {
-            "fr": "Ile Sberg",
-            "en": "Chillberg Island",
-            "es": "Isla Berg",
-            "pt": "Ilha Bergue"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000245
-        },
-        "title": {
-            "fr": "Bilbyza",
-            "en": "Bilbiza",
-            "es": "Bilbyza",
-            "pt": "Bilbyza"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000246
-        },
-        "title": {
-            "fr": "Royaume Chuchoku",
-            "en": "Shhhudoku Kingdom",
-            "es": "Reino Susurrante",
-            "pt": "Reino de Shiudoku"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000247
-        },
-        "title": {
-            "fr": "Ile des Wabbits",
-            "en": "Wabbit Islands",
-            "es": "Isla de los Wabbits",
-            "pt": "Ilha dos Wabbits"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000248
-        },
-        "title": {
-            "fr": "Domaine Sauvage",
-            "en": "Wild Estate",
-            "es": "Tierras Salvajes",
-            "pt": "Domínio Selvagem"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000249
-        },
-        "title": {
-            "fr": "Saharach",
-            "en": "Ohwymi",
-            "es": "Picahari",
-            "pt": "Espetárida"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000250
-        },
-        "title": {
-            "fr": "Enutrosor",
-            "en": "Enurado",
-            "es": "Anutropía",
-            "pt": "Enutropia"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000251
-        },
-        "title": {
-            "fr": "Astrub",
-            "en": "Astrub",
-            "es": "Astrub",
-            "pt": "Astrub"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000252
-        },
-        "title": {
-            "fr": "Xélorium - Passé",
-            "en": "Xelorium - Past",
-            "es": "Xelorium - Pasado",
-            "pt": "Xelorium - Passado"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000253
-        },
-        "title": {
-            "fr": "Xélorium - Présent",
-            "en": "Xelorium - Present",
-            "es": "Xelorium - Presente",
-            "pt": "Xelorium - Presente"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000254
-        },
-        "title": {
-            "fr": "Moon",
-            "en": "Moon",
-            "es": "Moon",
-            "pt": "Moon"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000255
-        },
-        "title": {
-            "fr": "Haut Flanc",
-            "en": "Upper Slope",
-            "es": "Ladera alta",
-            "pt": "Encosta Alta"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000256
-        },
-        "title": {
-            "fr": "Mont Zinit",
-            "en": "Mount Zinit",
-            "es": "Monte Zinit",
-            "pt": "Monte Zinit"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000257
-        },
-        "title": {
-            "fr": "Bas Flanc",
-            "en": "Lower Slope",
-            "es": "Ladera baja",
-            "pt": "Encosta Baixa"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000258
-        },
-        "title": {
-            "fr": "Sommet",
-            "en": "Summit",
-            "es": "Cima",
-            "pt": "Cume"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000259
-        },
-        "title": {
-            "fr": "Srambad",
-            "en": "Srambad",
-            "es": "Sramvil",
-            "pt": "Sramvil"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000260
-        },
-        "title": {
-            "fr": "Shukrute",
-            "en": "Shustuft Crust",
-            "es": "Fab'hugruta",
-            "pt": "Shukrute"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000261
-        },
-        "title": {
-            "fr": "Bonta",
-            "en": "Bonta",
-            "es": "Bonta",
-            "pt": "Bonta"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000262
-        },
-        "title": {
-            "fr": "Sufokia",
-            "en": "Sufokia",
-            "es": "Sufokia",
-            "pt": "Sufokia"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000263
-        },
-        "title": {
-            "fr": "Brâkmar",
-            "en": "Brakmar",
-            "es": "Brakmar",
-            "pt": "Brakmar"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000264
-        },
-        "title": {
-            "fr": "Pandalousie",
-            "en": "Pandalucia",
-            "es": "Pandalucía",
-            "pt": "Pandaluzia"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000265
-        },
-        "title": {
-            "fr": "Osamosa",
-            "en": "Osamosa",
-            "es": "Osamosa",
-            "pt": "Osamosa"
-        }
-    },
-    {
-        "definition": {
-            "id": 10000266
-        },
-        "title": {
-            "fr": "Ereboria",
-            "en": "Ereboria",
-            "es": "Ereboria",
-            "pt": "Ereboria"
-        }
-    }
+	{
+		"definition": {
+			"id": 10000239
+		},
+		"title": {
+			"fr": "Amakna",
+			"en": "Amakna",
+			"es": "Amakna",
+			"pt": "Amakna"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000240
+		},
+		"title": {
+			"fr": "Kelba",
+			"en": "Kelba",
+			"es": "Kelba",
+			"pt": "Kelba"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000241
+		},
+		"title": {
+			"fr": "Royaume Sadida",
+			"en": "Sadida Kingdom",
+			"es": "Reino Sadida",
+			"pt": "Reino Sadida"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000242
+		},
+		"title": {
+			"fr": "Ile aux moines",
+			"en": "Monk Island",
+			"es": "Isla de los Monjes",
+			"pt": "Ilha dos Monges"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000243
+		},
+		"title": {
+			"fr": "Katrepat",
+			"en": "Forfut",
+			"es": "Kuatropatas",
+			"pt": "Dezist"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000244
+		},
+		"title": {
+			"fr": "Ile Sberg",
+			"en": "Chillberg Island",
+			"es": "Isla Berg",
+			"pt": "Ilha Bergue"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000245
+		},
+		"title": {
+			"fr": "Bilbyza",
+			"en": "Bilbiza",
+			"es": "Bilbyza",
+			"pt": "Bilbyza"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000246
+		},
+		"title": {
+			"fr": "Royaume Chuchoku",
+			"en": "Shhhudoku Kingdom",
+			"es": "Reino Susurrante",
+			"pt": "Reino de Shiudoku"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000247
+		},
+		"title": {
+			"fr": "Ile des Wabbits",
+			"en": "Wabbit Islands",
+			"es": "Isla de los Wabbits",
+			"pt": "Ilha dos Wabbits"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000248
+		},
+		"title": {
+			"fr": "Domaine Sauvage",
+			"en": "Wild Estate",
+			"es": "Tierras Salvajes",
+			"pt": "Domínio Selvagem"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000249
+		},
+		"title": {
+			"fr": "Saharach",
+			"en": "Ohwymi",
+			"es": "Picahari",
+			"pt": "Espetárida"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000250
+		},
+		"title": {
+			"fr": "Enutrosor",
+			"en": "Enurado",
+			"es": "Anutropía",
+			"pt": "Enutropia"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000251
+		},
+		"title": {
+			"fr": "Astrub",
+			"en": "Astrub",
+			"es": "Astrub",
+			"pt": "Astrub"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000252
+		},
+		"title": {
+			"fr": "Xélorium - Passé",
+			"en": "Xelorium - Past",
+			"es": "Xelorium - Pasado",
+			"pt": "Xelorium - Passado"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000253
+		},
+		"title": {
+			"fr": "Xélorium - Présent",
+			"en": "Xelorium - Present",
+			"es": "Xelorium - Presente",
+			"pt": "Xelorium - Presente"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000254
+		},
+		"title": {
+			"fr": "Moon",
+			"en": "Moon",
+			"es": "Moon",
+			"pt": "Moon"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000255
+		},
+		"title": {
+			"fr": "Haut Flanc",
+			"en": "Upper Slope",
+			"es": "Ladera alta",
+			"pt": "Encosta Alta"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000256
+		},
+		"title": {
+			"fr": "Mont Zinit",
+			"en": "Mount Zinit",
+			"es": "Monte Zinit",
+			"pt": "Monte Zinit"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000257
+		},
+		"title": {
+			"fr": "Bas Flanc",
+			"en": "Lower Slope",
+			"es": "Ladera baja",
+			"pt": "Encosta Baixa"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000258
+		},
+		"title": {
+			"fr": "Sommet",
+			"en": "Summit",
+			"es": "Cima",
+			"pt": "Cume"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000259
+		},
+		"title": {
+			"fr": "Srambad",
+			"en": "Srambad",
+			"es": "Sramvil",
+			"pt": "Sramvil"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000260
+		},
+		"title": {
+			"fr": "Shukrute",
+			"en": "Shustuft Crust",
+			"es": "Fab'hugruta",
+			"pt": "Shukrute"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000261
+		},
+		"title": {
+			"fr": "Bonta",
+			"en": "Bonta",
+			"es": "Bonta",
+			"pt": "Bonta"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000262
+		},
+		"title": {
+			"fr": "Sufokia",
+			"en": "Sufokia",
+			"es": "Sufokia",
+			"pt": "Sufokia"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000263
+		},
+		"title": {
+			"fr": "Brâkmar",
+			"en": "Brakmar",
+			"es": "Brakmar",
+			"pt": "Brakmar"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000264
+		},
+		"title": {
+			"fr": "Pandalousie",
+			"en": "Pandalucia",
+			"es": "Pandalucía",
+			"pt": "Pandaluzia"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000265
+		},
+		"title": {
+			"fr": "Osamosa",
+			"en": "Osamosa",
+			"es": "Osamosa",
+			"pt": "Osamosa"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000266
+		},
+		"title": {
+			"fr": "Ereboria",
+			"en": "Ereboria",
+			"es": "Ereboria",
+			"pt": "Ereboria"
+		}
+	}
 ]
