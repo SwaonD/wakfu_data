@@ -64,7 +64,7 @@ def put_key_at_position(parent_key: dict, new_key: str, value, pos: int) \
 		-> dict:
 	"""
     Returns:
-        dict: new_parent
+        new_parent: dict
     """
 	new_parent_key = {}
 	key_added = False
