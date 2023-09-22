@@ -62,6 +62,10 @@ def	get_reordered_keys(parent_key: dict, child_keys: list) -> dict:
 
 def put_key_at_position(parent_key: dict, new_key: str, value, pos: int) \
 		-> dict:
+	"""
+    Returns:
+        dict: new_parent
+    """
 	new_parent_key = {}
 	key_added = False
 	for i, key in enumerate(parent_key.keys()):
