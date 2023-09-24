@@ -61,3 +61,5 @@ if __name__ == "__main__":
 	argv = sys.argv
 	if len(argv) >= 2:
 		generate_ids(sys.argv[1])
+	else:
+		print("Please, give the file name")
