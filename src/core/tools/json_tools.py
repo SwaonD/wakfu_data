@@ -2,6 +2,8 @@ import json
 import requests
 from pathlib import Path
 
+from ..settings import COPY_ADD
+
 def	get_json_data_with_url(url: str) -> dict:
 	content = None
 	response = requests.get(url)
@@ -26,7 +28,7 @@ def	get_json_data_with_path(path: str) -> dict:
 
 def	write_json_in_copy(json_path: str, data: dict):
 	parent_dir = Path(json_path).parent
-	copy_name = f"{Path(json_path).stem}_copy{Path(json_path).suffix}"
+	copy_name = f"{Path(json_path).stem}{COPY_ADD}{Path(json_path).suffix}"
 	copy_path = parent_dir.joinpath(copy_name)
 	with open(copy_path, 'w', encoding = "utf-8") as f:
 		json.dump(data, f, ensure_ascii = False, indent = 4)

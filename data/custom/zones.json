@@ -2,8 +2,9 @@
 	{
 		"definition": {
 			"id": 10000239,
-			"level_min": 36,
-			"level_max": 110
+			"levelMin": 36,
+			"levelMax": 110,
+			"typeId": "island"
 		},
 		"title": {
 			"fr": "Amakna",
@@ -15,8 +16,8 @@
 	{
 		"definition": {
 			"id": 10000344,
-			"level_min": 36,
-			"level_max": 170
+			"levelMin": 36,
+			"levelMax": 170
 		},
 		"title": {
 			"fr": "Mine d'Amakna",
@@ -28,8 +29,8 @@
 	{
 		"definition": {
 			"id": 10000345,
-			"level_min": 6,
-			"level_max": 20
+			"levelMin": 6,
+			"levelMax": 20
 		},
 		"title": {
 			"fr": "Egouts d'Astrub",
@@ -41,8 +42,8 @@
 	{
 		"definition": {
 			"id": 10000346,
-			"level_min": 1,
-			"level_max": 230
+			"levelMin": 1,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Bibliotemple",
@@ -54,8 +55,8 @@
 	{
 		"definition": {
 			"id": 10000347,
-			"level_min": 81,
-			"level_max": 95
+			"levelMin": 81,
+			"levelMax": 95
 		},
 		"title": {
 			"fr": "Foire du Trool",
@@ -67,8 +68,8 @@
 	{
 		"definition": {
 			"id": 10000348,
-			"level_min": 1,
-			"level_max": 230
+			"levelMin": 1,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Île de Nowel",
@@ -80,8 +81,8 @@
 	{
 		"definition": {
 			"id": 10000349,
-			"level_min": 1,
-			"level_max": 230
+			"levelMin": 1,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Mines de la Pandalousie",
@@ -93,8 +94,8 @@
 	{
 		"definition": {
 			"id": 10000350,
-			"level_min": 126,
-			"level_max": 140
+			"levelMin": 126,
+			"levelMax": 140
 		},
 		"title": {
 			"fr": "La Fungopée",
@@ -106,8 +107,8 @@
 	{
 		"definition": {
 			"id": 10000351,
-			"level_min": 171,
-			"level_max": 185
+			"levelMin": 171,
+			"levelMax": 185
 		},
 		"title": {
 			"fr": "Sous Terrains de l'île de Moon",
@@ -119,8 +120,8 @@
 	{
 		"definition": {
 			"id": 10000352,
-			"level_min": null,
-			"level_max": null
+			"levelMin": null,
+			"levelMax": null
 		},
 		"title": {
 			"fr": "Ile de Rok",
@@ -132,8 +133,8 @@
 	{
 		"definition": {
 			"id": 10000353,
-			"level_min": 126,
-			"level_max": 140
+			"levelMin": 126,
+			"levelMax": 140
 		},
 		"title": {
 			"fr": "Rez de chaussée de l'écolte d'Huppermagie",
@@ -145,8 +146,8 @@
 	{
 		"definition": {
 			"id": 10000354,
-			"level_min": 126,
-			"level_max": 140
+			"levelMin": 126,
+			"levelMax": 140
 		},
 		"title": {
 			"fr": "Etage de l'école d'Huppermagie",
@@ -158,8 +159,8 @@
 	{
 		"definition": {
 			"id": 10000355,
-			"level_min": null,
-			"level_max": null
+			"levelMin": null,
+			"levelMax": null
 		},
 		"title": {
 			"fr": "Monde des Douze",
@@ -171,8 +172,8 @@
 	{
 		"definition": {
 			"id": 10000356,
-			"level_min": null,
-			"level_max": null
+			"levelMin": null,
+			"levelMax": null
 		},
 		"title": {
 			"fr": "Inglorium",
@@ -184,8 +185,8 @@
 	{
 		"definition": {
 			"id": 10000357,
-			"level_min": 1,
-			"level_max": 230
+			"levelMin": 1,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Ecaflipus (Arènes)",
@@ -197,8 +198,8 @@
 	{
 		"definition": {
 			"id": 10000358,
-			"level_min": 1,
-			"level_max": 10
+			"levelMin": 1,
+			"levelMax": 10
 		},
 		"title": {
 			"fr": "Plaines d'Incarnam",
@@ -210,8 +211,8 @@
 	{
 		"definition": {
 			"id": 10000359,
-			"level_min": 111,
-			"level_max": 170
+			"levelMin": 111,
+			"levelMax": 170
 		},
 		"title": {
 			"fr": "Récif des Shushardes",
@@ -223,8 +224,8 @@
 	{
 		"definition": {
 			"id": 10000240,
-			"level_min": 66,
-			"level_max": 80
+			"levelMin": 66,
+			"levelMax": 80
 		},
 		"title": {
 			"fr": "Kelba",
@@ -236,8 +237,8 @@
 	{
 		"definition": {
 			"id": 10000241,
-			"level_min": 1,
-			"level_max": 230
+			"levelMin": 1,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Royaume Sadida",
@@ -249,8 +250,8 @@
 	{
 		"definition": {
 			"id": 10000242,
-			"level_min": 81,
-			"level_max": 95
+			"levelMin": 81,
+			"levelMax": 95
 		},
 		"title": {
 			"fr": "Ile aux moines",
@@ -262,8 +263,8 @@
 	{
 		"definition": {
 			"id": 10000243,
-			"level_min": 81,
-			"level_max": 95
+			"levelMin": 81,
+			"levelMax": 95
 		},
 		"title": {
 			"fr": "Katrepat",
@@ -275,8 +276,8 @@
 	{
 		"definition": {
 			"id": 10000244,
-			"level_min": 81,
-			"level_max": 125
+			"levelMin": 81,
+			"levelMax": 125
 		},
 		"title": {
 			"fr": "Ile Sberg",
@@ -288,8 +289,8 @@
 	{
 		"definition": {
 			"id": 10000360,
-			"level_min": 111,
-			"level_max": 125
+			"levelMin": 111,
+			"levelMax": 125
 		},
 		"title": {
 			"fr": "Vestiges de la Crevasse Perge",
@@ -301,8 +302,8 @@
 	{
 		"definition": {
 			"id": 10000361,
-			"level_min": 111,
-			"level_max": 125
+			"levelMin": 111,
+			"levelMax": 125
 		},
 		"title": {
 			"fr": "Château de Harebourg",
@@ -314,8 +315,8 @@
 	{
 		"definition": {
 			"id": 10000362,
-			"level_min": 1,
-			"level_max": 230
+			"levelMin": 1,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Tour Minérale",
@@ -327,8 +328,8 @@
 	{
 		"definition": {
 			"id": 10000245,
-			"level_min": 81,
-			"level_max": 110
+			"levelMin": 81,
+			"levelMax": 110
 		},
 		"title": {
 			"fr": "Bilbyza",
@@ -340,8 +341,8 @@
 	{
 		"definition": {
 			"id": 10000363,
-			"level_min": 96,
-			"level_max": 110
+			"levelMin": 96,
+			"levelMax": 110
 		},
 		"title": {
 			"fr": "Galazième Dimension",
@@ -353,8 +354,8 @@
 	{
 		"definition": {
 			"id": 10000246,
-			"level_min": 96,
-			"level_max": 215
+			"levelMin": 96,
+			"levelMax": 215
 		},
 		"title": {
 			"fr": "Royaume Chuchoku",
@@ -366,8 +367,8 @@
 	{
 		"definition": {
 			"id": 10000364,
-			"level_min": 201,
-			"level_max": 215
+			"levelMin": 201,
+			"levelMax": 215
 		},
 		"title": {
 			"fr": "Intérieur de Grampar",
@@ -379,8 +380,8 @@
 	{
 		"definition": {
 			"id": 10000365,
-			"level_min": 201,
-			"level_max": 215
+			"levelMin": 201,
+			"levelMax": 215
 		},
 		"title": {
 			"fr": "Banquise des Mansots",
@@ -392,8 +393,8 @@
 	{
 		"definition": {
 			"id": 10000247,
-			"level_min": 126,
-			"level_max": 155
+			"levelMin": 126,
+			"levelMax": 155
 		},
 		"title": {
 			"fr": "Ile des Wabbits",
@@ -405,8 +406,8 @@
 	{
 		"definition": {
 			"id": 10000366,
-			"level_min": 126,
-			"level_max": 155
+			"levelMin": 126,
+			"levelMax": 155
 		},
 		"title": {
 			"fr": "Souterrains Wabbit",
@@ -418,8 +419,8 @@
 	{
 		"definition": {
 			"id": 10000248,
-			"level_min": 51,
-			"level_max": 65
+			"levelMin": 51,
+			"levelMax": 65
 		},
 		"title": {
 			"fr": "Domaine Sauvage",
@@ -431,8 +432,8 @@
 	{
 		"definition": {
 			"id": 10000249,
-			"level_min": 111,
-			"level_max": 125
+			"levelMin": 111,
+			"levelMax": 125
 		},
 		"title": {
 			"fr": "Saharach",
@@ -444,8 +445,8 @@
 	{
 		"definition": {
 			"id": 10000250,
-			"level_min": 141,
-			"level_max": 155
+			"levelMin": 141,
+			"levelMax": 155
 		},
 		"title": {
 			"fr": "Enutrosor",
@@ -457,8 +458,8 @@
 	{
 		"definition": {
 			"id": 10000251,
-			"level_min": 6,
-			"level_max": 35
+			"levelMin": 6,
+			"levelMax": 35
 		},
 		"title": {
 			"fr": "Astrub",
@@ -470,8 +471,8 @@
 	{
 		"definition": {
 			"id": 10000252,
-			"level_min": 156,
-			"level_max": 170
+			"levelMin": 156,
+			"levelMax": 170
 		},
 		"title": {
 			"fr": "Xélorium - Passé",
@@ -483,8 +484,8 @@
 	{
 		"definition": {
 			"id": 10000253,
-			"level_min": 156,
-			"level_max": 170
+			"levelMin": 156,
+			"levelMax": 170
 		},
 		"title": {
 			"fr": "Xélorium - Présent",
@@ -496,8 +497,8 @@
 	{
 		"definition": {
 			"id": 10000254,
-			"level_min": 171,
-			"level_max": 185
+			"levelMin": 171,
+			"levelMax": 185
 		},
 		"title": {
 			"fr": "Moon",
@@ -509,8 +510,8 @@
 	{
 		"definition": {
 			"id": 10000255,
-			"level_min": 156,
-			"level_max": 200
+			"levelMin": 156,
+			"levelMax": 200
 		},
 		"title": {
 			"fr": "Haut Flanc",
@@ -522,8 +523,8 @@
 	{
 		"definition": {
 			"id": 10000256,
-			"level_min": null,
-			"level_max": null
+			"levelMin": null,
+			"levelMax": null
 		},
 		"title": {
 			"fr": "Mont Zinit",
@@ -535,8 +536,8 @@
 	{
 		"definition": {
 			"id": 10000367,
-			"level_min": 21,
-			"level_max": 35
+			"levelMin": 21,
+			"levelMax": 35
 		},
 		"title": {
 			"fr": "Plage du Zinit",
@@ -548,8 +549,8 @@
 	{
 		"definition": {
 			"id": 10000368,
-			"level_min": 51,
-			"level_max": 65
+			"levelMin": 51,
+			"levelMax": 65
 		},
 		"title": {
 			"fr": "Plage Sauvage",
@@ -561,8 +562,8 @@
 	{
 		"definition": {
 			"id": 10000369,
-			"level_min": 81,
-			"level_max": 95
+			"levelMin": 81,
+			"levelMax": 95
 		},
 		"title": {
 			"fr": "Grotte Slek",
@@ -574,8 +575,8 @@
 	{
 		"definition": {
 			"id": 10000370,
-			"level_min": 186,
-			"level_max": 200
+			"levelMin": 186,
+			"levelMax": 200
 		},
 		"title": {
 			"fr": "Grotte du Dor'Mor",
@@ -587,8 +588,8 @@
 	{
 		"definition": {
 			"id": 10000257,
-			"level_min": 111,
-			"level_max": 140
+			"levelMin": 111,
+			"levelMax": 140
 		},
 		"title": {
 			"fr": "Bas Flanc",
@@ -600,8 +601,8 @@
 	{
 		"definition": {
 			"id": 10000258,
-			"level_min": 186,
-			"level_max": 200
+			"levelMin": 186,
+			"levelMax": 200
 		},
 		"title": {
 			"fr": "Sommet",
@@ -613,8 +614,8 @@
 	{
 		"definition": {
 			"id": 10000259,
-			"level_min": 141,
-			"level_max": 155
+			"levelMin": 141,
+			"levelMax": 155
 		},
 		"title": {
 			"fr": "Srambad",
@@ -626,8 +627,8 @@
 	{
 		"definition": {
 			"id": 10000260,
-			"level_min": null,
-			"level_max": null
+			"levelMin": null,
+			"levelMax": null
 		},
 		"title": {
 			"fr": "Shukrute",
@@ -639,8 +640,8 @@
 	{
 		"definition": {
 			"id": 10000371,
-			"level_min": 216,
-			"level_max": 230
+			"levelMin": 216,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Route des morts",
@@ -652,8 +653,8 @@
 	{
 		"definition": {
 			"id": 10000372,
-			"level_min": 216,
-			"level_max": 230
+			"levelMin": 216,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Spirale du vide",
@@ -665,8 +666,8 @@
 	{
 		"definition": {
 			"id": 10000373,
-			"level_min": 216,
-			"level_max": 230
+			"levelMin": 216,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Citadelle de l'horreur",
@@ -678,8 +679,8 @@
 	{
 		"definition": {
 			"id": 10000374,
-			"level_min": 216,
-			"level_max": 230
+			"levelMin": 216,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Royaume du désespoir",
@@ -691,8 +692,8 @@
 	{
 		"definition": {
 			"id": 10000375,
-			"level_min": 4541,
-			"level_max": 12002
+			"levelMin": 4541,
+			"levelMax": 12002
 		},
 		"title": {
 			"fr": "Démentia",
@@ -704,8 +705,8 @@
 	{
 		"definition": {
 			"id": 10000376,
-			"level_min": 216,
-			"level_max": 230
+			"levelMin": 216,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Croisée des âmes déchues",
@@ -717,8 +718,8 @@
 	{
 		"definition": {
 			"id": 10000377,
-			"level_min": 111,
-			"level_max": 170
+			"levelMin": 111,
+			"levelMax": 170
 		},
 		"title": {
 			"fr": "Territoire de Sthulhu",
@@ -730,8 +731,8 @@
 	{
 		"definition": {
 			"id": 10000378,
-			"level_min": null,
-			"level_max": null
+			"levelMin": null,
+			"levelMax": null
 		},
 		"title": {
 			"fr": "Palais de Rushu",
@@ -743,8 +744,8 @@
 	{
 		"definition": {
 			"id": 10000261,
-			"level_min": 66,
-			"level_max": 140
+			"levelMin": 66,
+			"levelMax": 140
 		},
 		"title": {
 			"fr": "Bonta",
@@ -756,8 +757,8 @@
 	{
 		"definition": {
 			"id": 10000379,
-			"level_min": 66,
-			"level_max": 170
+			"levelMin": 66,
+			"levelMax": 170
 		},
 		"title": {
 			"fr": "Mine de Bonta",
@@ -769,8 +770,8 @@
 	{
 		"definition": {
 			"id": 10000262,
-			"level_min": 51,
-			"level_max": 126
+			"levelMin": 51,
+			"levelMax": 126
 		},
 		"title": {
 			"fr": "Sufokia",
@@ -782,8 +783,8 @@
 	{
 		"definition": {
 			"id": 10000380,
-			"level_min": 111,
-			"level_max": 170
+			"levelMin": 111,
+			"levelMax": 170
 		},
 		"title": {
 			"fr": "Mine de Sufokia",
@@ -795,8 +796,8 @@
 	{
 		"definition": {
 			"id": 10000263,
-			"level_min": 81,
-			"level_max": 155
+			"levelMin": 81,
+			"levelMax": 155
 		},
 		"title": {
 			"fr": "Brâkmar",
@@ -808,8 +809,8 @@
 	{
 		"definition": {
 			"id": 10000381,
-			"level_min": 81,
-			"level_max": 170
+			"levelMin": 81,
+			"levelMax": 170
 		},
 		"title": {
 			"fr": "Mine de Brâkmar",
@@ -821,8 +822,8 @@
 	{
 		"definition": {
 			"id": 10000264,
-			"level_min": 1,
-			"level_max": 230
+			"levelMin": 1,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Vallée de la Pandalousie",
@@ -834,8 +835,8 @@
 	{
 		"definition": {
 			"id": 10000265,
-			"level_min": 201,
-			"level_max": 215
+			"levelMin": 201,
+			"levelMax": 215
 		},
 		"title": {
 			"fr": "Osamosa",
@@ -847,8 +848,8 @@
 	{
 		"definition": {
 			"id": 10000266,
-			"level_min": null,
-			"level_max": null
+			"levelMin": null,
+			"levelMax": null
 		},
 		"title": {
 			"fr": "Ereboria, l'ile maudite",
@@ -860,8 +861,8 @@
 	{
 		"definition": {
 			"id": 10000382,
-			"level_min": 216,
-			"level_max": 230
+			"levelMin": 216,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Prison Maritime",
@@ -873,8 +874,8 @@
 	{
 		"definition": {
 			"id": 10000383,
-			"level_min": 216,
-			"level_max": 230
+			"levelMin": 216,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Mine néo-Sufokienne",
@@ -886,8 +887,8 @@
 	{
 		"definition": {
 			"id": 10000384,
-			"level_min": 36,
-			"level_max": 50
+			"levelMin": 36,
+			"levelMax": 50
 		},
 		"title": {
 			"fr": "Port d'Ereboria",
@@ -899,8 +900,8 @@
 	{
 		"definition": {
 			"id": 10000385,
-			"level_min": 36,
-			"level_max": 50
+			"levelMin": 36,
+			"levelMax": 50
 		},
 		"title": {
 			"fr": "Plage des pirates",
@@ -912,8 +913,8 @@
 	{
 		"definition": {
 			"id": 10000386,
-			"level_min": 51,
-			"level_max": 65
+			"levelMin": 51,
+			"levelMax": 65
 		},
 		"title": {
 			"fr": "Caverne des Marteaux-Aigris",
@@ -925,8 +926,8 @@
 	{
 		"definition": {
 			"id": 10000387,
-			"level_min": 36,
-			"level_max": 50
+			"levelMin": 36,
+			"levelMax": 50
 		},
 		"title": {
 			"fr": "Plage maudite",

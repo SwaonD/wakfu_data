@@ -2,8 +2,8 @@
 	{
 		"definition": {
 			"zones_id": 10000251,
-			"level_min": 6,
-			"level_max": 12
+			"levelMin": 6,
+			"levelMax": 12
 		},
 		"title": {
 			"fr": "Cité d'Astrub",
@@ -16,8 +16,8 @@
 		"definition": {
 			"id": 10000267,
 			"zones_id": 10000251,
-			"level_min": 6,
-			"level_max": 20
+			"levelMin": 6,
+			"levelMax": 20
 		},
 		"title": {
 			"fr": "Egouts d'Astrub",
@@ -30,8 +30,8 @@
 		"definition": {
 			"id": 10000268,
 			"zones_id": 10000251,
-			"level_min": 6,
-			"level_max": 20
+			"levelMin": 6,
+			"levelMax": 20
 		},
 		"title": {
 			"fr": "Champs d'Astrub",
@@ -44,8 +44,8 @@
 		"definition": {
 			"id": 10000269,
 			"zones_id": 10000251,
-			"level_min": 6,
-			"level_max": 20
+			"levelMin": 6,
+			"levelMax": 20
 		},
 		"title": {
 			"fr": "Tainela",
@@ -58,8 +58,8 @@
 		"definition": {
 			"id": 10000270,
 			"zones_id": 10000251,
-			"level_min": 6,
-			"level_max": 20
+			"levelMin": 6,
+			"levelMax": 20
 		},
 		"title": {
 			"fr": "Cimetière d'Astrub",
@@ -72,8 +72,8 @@
 		"definition": {
 			"id": 10000271,
 			"zones_id": 10000251,
-			"level_min": 6,
-			"level_max": 20
+			"levelMin": 6,
+			"levelMax": 20
 		},
 		"title": {
 			"fr": "Plaines d'Astrub",
@@ -85,8 +85,8 @@
 	{
 		"definition": {
 			"zones_id": 10000251,
-			"level_min": 6,
-			"level_max": 20
+			"levelMin": 6,
+			"levelMax": 20
 		},
 		"title": {
 			"fr": "Hameau des Pêcheurs",
@@ -99,8 +99,8 @@
 		"definition": {
 			"id": 10000272,
 			"zones_id": 10000251,
-			"level_min": 21,
-			"level_max": 35
+			"levelMin": 21,
+			"levelMax": 35
 		},
 		"title": {
 			"fr": "Forêt d'Astrub",
@@ -113,8 +113,8 @@
 		"definition": {
 			"id": 10000273,
 			"zones_id": 10000251,
-			"level_min": 21,
-			"level_max": 35
+			"levelMin": 21,
+			"levelMax": 35
 		},
 		"title": {
 			"fr": "Montagnes d'Astrub",
@@ -126,8 +126,8 @@
 	{
 		"definition": {
 			"zones_id": 10000239,
-			"level_min": null,
-			"level_max": null
+			"levelMin": null,
+			"levelMax": null
 		},
 		"title": {
 			"fr": "Capitale d'Amakna",
@@ -140,8 +140,8 @@
 		"definition": {
 			"id": 10000274,
 			"zones_id": 10000239,
-			"level_min": 36,
-			"level_max": 50
+			"levelMin": 36,
+			"levelMax": 50
 		},
 		"title": {
 			"fr": "Champs qui chantent",
@@ -154,8 +154,8 @@
 		"definition": {
 			"id": 10000275,
 			"zones_id": 10000239,
-			"level_min": 36,
-			"level_max": 50
+			"levelMin": 36,
+			"levelMax": 50
 		},
 		"title": {
 			"fr": "Forêt d'Emelka",
@@ -168,8 +168,8 @@
 		"definition": {
 			"id": 10000276,
 			"zones_id": 10000239,
-			"level_min": 36,
-			"level_max": 50
+			"levelMin": 36,
+			"levelMax": 50
 		},
 		"title": {
 			"fr": "Galeries",
@@ -182,8 +182,8 @@
 		"definition": {
 			"id": 10000277,
 			"zones_id": 10000266,
-			"level_min": 36,
-			"level_max": 50
+			"levelMin": 36,
+			"levelMax": 50
 		},
 		"title": {
 			"fr": "Plage des pirates",
@@ -196,8 +196,8 @@
 		"definition": {
 			"id": 10000278,
 			"zones_id": 10000266,
-			"level_min": 36,
-			"level_max": 50
+			"levelMin": 36,
+			"levelMax": 50
 		},
 		"title": {
 			"fr": "Plage maudite",
@@ -210,8 +210,8 @@
 		"definition": {
 			"id": 10000279,
 			"zones_id": 10000241,
-			"level_min": 51,
-			"level_max": 80
+			"levelMin": 51,
+			"levelMax": 80
 		},
 		"title": {
 			"fr": "Clairière des Mulous",
@@ -224,8 +224,8 @@
 		"definition": {
 			"id": 10000280,
 			"zones_id": 10000256,
-			"level_min": 51,
-			"level_max": 65
+			"levelMin": 51,
+			"levelMax": 65
 		},
 		"title": {
 			"fr": "Plage Sauvage",
@@ -238,8 +238,8 @@
 		"definition": {
 			"id": 10000281,
 			"zones_id": 10000262,
-			"level_min": 51,
-			"level_max": 65
+			"levelMin": 51,
+			"levelMax": 65
 		},
 		"title": {
 			"fr": "La Dune Kane",
@@ -252,8 +252,8 @@
 		"definition": {
 			"id": 10000282,
 			"zones_id": 10000266,
-			"level_min": 51,
-			"level_max": 65
+			"levelMin": 51,
+			"levelMax": 65
 		},
 		"title": {
 			"fr": "Caverne des Marteaux-Aigris",
@@ -266,8 +266,8 @@
 		"definition": {
 			"id": 10000283,
 			"zones_id": 10000240,
-			"level_min": 66,
-			"level_max": 80
+			"levelMin": 66,
+			"levelMax": 80
 		},
 		"title": {
 			"fr": "Landes de Kelba",
@@ -280,8 +280,8 @@
 		"definition": {
 			"id": 10000284,
 			"zones_id": 10000240,
-			"level_min": 66,
-			"level_max": 80
+			"levelMin": 66,
+			"levelMax": 80
 		},
 		"title": {
 			"fr": "Pics de Kelba",
@@ -294,8 +294,8 @@
 		"definition": {
 			"id": 10000285,
 			"zones_id": 10000261,
-			"level_min": 66,
-			"level_max": 80
+			"levelMin": 66,
+			"levelMax": 80
 		},
 		"title": {
 			"fr": "Plaines de Cania",
@@ -308,8 +308,8 @@
 		"definition": {
 			"id": 10000286,
 			"zones_id": 10000261,
-			"level_min": 66,
-			"level_max": 80
+			"levelMin": 66,
+			"levelMax": 80
 		},
 		"title": {
 			"fr": "Kara",
@@ -322,8 +322,8 @@
 		"definition": {
 			"id": 10000287,
 			"zones_id": 10000261,
-			"level_min": 66,
-			"level_max": 80
+			"levelMin": 66,
+			"levelMax": 80
 		},
 		"title": {
 			"fr": "Galeries",
@@ -336,8 +336,8 @@
 		"definition": {
 			"id": 10000288,
 			"zones_id": 10000241,
-			"level_min": 66,
-			"level_max": 80
+			"levelMin": 66,
+			"levelMax": 80
 		},
 		"title": {
 			"fr": "Colline Entoilée",
@@ -350,8 +350,8 @@
 		"definition": {
 			"id": 10000289,
 			"zones_id": 10000242,
-			"level_min": 81,
-			"level_max": 95
+			"levelMin": 81,
+			"levelMax": 95
 		},
 		"title": {
 			"fr": "Couvent Tripotant",
@@ -364,8 +364,8 @@
 		"definition": {
 			"id": 10000290,
 			"zones_id": 10000244,
-			"level_min": 81,
-			"level_max": 95
+			"levelMin": 81,
+			"levelMax": 95
 		},
 		"title": {
 			"fr": "La Banquise",
@@ -378,8 +378,8 @@
 		"definition": {
 			"id": 10000291,
 			"zones_id": 10000245,
-			"level_min": 81,
-			"level_max": 110
+			"levelMin": 81,
+			"levelMax": 110
 		},
 		"title": {
 			"fr": "Costa Del Gelax",
@@ -392,8 +392,8 @@
 		"definition": {
 			"id": 10000292,
 			"zones_id": 10000256,
-			"level_min": 81,
-			"level_max": 95
+			"levelMin": 81,
+			"levelMax": 95
 		},
 		"title": {
 			"fr": "Grotte Slek",
@@ -406,8 +406,8 @@
 		"definition": {
 			"id": 10000293,
 			"zones_id": 10000263,
-			"level_min": 81,
-			"level_max": 95
+			"levelMin": 81,
+			"levelMax": 95
 		},
 		"title": {
 			"fr": "Champs Pabong",
@@ -420,8 +420,8 @@
 		"definition": {
 			"id": 10000294,
 			"zones_id": 10000263,
-			"level_min": 81,
-			"level_max": 95
+			"levelMin": 81,
+			"levelMax": 95
 		},
 		"title": {
 			"fr": "Landes de Sidimote",
@@ -434,8 +434,8 @@
 		"definition": {
 			"id": 10000295,
 			"zones_id": 10000263,
-			"level_min": 81,
-			"level_max": 95
+			"levelMin": 81,
+			"levelMax": 95
 		},
 		"title": {
 			"fr": "Galeries",
@@ -448,8 +448,8 @@
 		"definition": {
 			"id": 10000296,
 			"zones_id": 10000244,
-			"level_min": 96,
-			"level_max": 110
+			"levelMin": 96,
+			"levelMax": 110
 		},
 		"title": {
 			"fr": "Village Enseveli Enseveli",
@@ -462,8 +462,8 @@
 		"definition": {
 			"id": 10000297,
 			"zones_id": 10000246,
-			"level_min": 96,
-			"level_max": 110
+			"levelMin": 96,
+			"levelMax": 110
 		},
 		"title": {
 			"fr": "Chuchoplaine",
@@ -476,8 +476,8 @@
 		"definition": {
 			"id": 10000298,
 			"zones_id": 10000260,
-			"level_min": 96,
-			"level_max": 125
+			"levelMin": 96,
+			"levelMax": 125
 		},
 		"title": {
 			"fr": "Territoire de Sthulhu",
@@ -490,8 +490,8 @@
 		"definition": {
 			"id": 10000299,
 			"zones_id": 10000239,
-			"level_min": 96,
-			"level_max": 110
+			"levelMin": 96,
+			"levelMax": 110
 		},
 		"title": {
 			"fr": "Plaine des Riktus",
@@ -504,8 +504,8 @@
 		"definition": {
 			"id": 10000300,
 			"zones_id": 10000244,
-			"level_min": 111,
-			"level_max": 125
+			"levelMin": 111,
+			"levelMax": 125
 		},
 		"title": {
 			"fr": "Château de Harebourg",
@@ -518,8 +518,8 @@
 		"definition": {
 			"id": 10000301,
 			"zones_id": 10000257,
-			"level_min": 111,
-			"level_max": 125
+			"levelMin": 111,
+			"levelMax": 125
 		},
 		"title": {
 			"fr": "Smares",
@@ -532,8 +532,8 @@
 		"definition": {
 			"id": 10000302,
 			"zones_id": 10000262,
-			"level_min": 111,
-			"level_max": 125
+			"levelMin": 111,
+			"levelMax": 125
 		},
 		"title": {
 			"fr": "Montagne des Flaqueux",
@@ -546,8 +546,8 @@
 		"definition": {
 			"id": 10000303,
 			"zones_id": 10000262,
-			"level_min": 111,
-			"level_max": 125
+			"levelMin": 111,
+			"levelMax": 125
 		},
 		"title": {
 			"fr": "Galeries",
@@ -560,8 +560,8 @@
 		"definition": {
 			"id": 10000304,
 			"zones_id": 10000247,
-			"level_min": 126,
-			"level_max": 140
+			"levelMin": 126,
+			"levelMax": 140
 		},
 		"title": {
 			"fr": "Soutewwains",
@@ -574,8 +574,8 @@
 		"definition": {
 			"id": 10000305,
 			"zones_id": 10000247,
-			"level_min": 126,
-			"level_max": 140
+			"levelMin": 126,
+			"levelMax": 140
 		},
 		"title": {
 			"fr": "Glosse Calotte",
@@ -588,8 +588,8 @@
 		"definition": {
 			"id": 10000306,
 			"zones_id": 10000249,
-			"level_min": 126,
-			"level_max": 140
+			"levelMin": 126,
+			"levelMax": 140
 		},
 		"title": {
 			"fr": "La Fungopée",
@@ -602,8 +602,8 @@
 		"definition": {
 			"id": 10000307,
 			"zones_id": 10000257,
-			"level_min": 126,
-			"level_max": 140
+			"levelMin": 126,
+			"levelMax": 140
 		},
 		"title": {
 			"fr": "Phorreurs",
@@ -616,8 +616,8 @@
 		"definition": {
 			"id": 10000308,
 			"zones_id": 10000261,
-			"level_min": 126,
-			"level_max": 140
+			"levelMin": 126,
+			"levelMax": 140
 		},
 		"title": {
 			"fr": "Fourré de Tonkult",
@@ -630,8 +630,8 @@
 		"definition": {
 			"id": 10000309,
 			"zones_id": 10000247,
-			"level_min": 141,
-			"level_max": 155
+			"levelMin": 141,
+			"levelMax": 155
 		},
 		"title": {
 			"fr": "Fowtewesse du Wa",
@@ -644,8 +644,8 @@
 		"definition": {
 			"id": 10000310,
 			"zones_id": 10000263,
-			"level_min": 141,
-			"level_max": 155
+			"levelMin": 141,
+			"levelMax": 155
 		},
 		"title": {
 			"fr": "Macheville",
@@ -658,8 +658,8 @@
 		"definition": {
 			"id": 10000311,
 			"zones_id": 10000264,
-			"level_min": 141,
-			"level_max": 155
+			"levelMin": 141,
+			"levelMax": 155
 		},
 		"title": {
 			"fr": "Marais Salé",
@@ -672,8 +672,8 @@
 		"definition": {
 			"id": 10000312,
 			"zones_id": 10000255,
-			"level_min": 156,
-			"level_max": 170
+			"levelMin": 156,
+			"levelMax": 170
 		},
 		"title": {
 			"fr": "Sbires de Kali",
@@ -686,8 +686,8 @@
 		"definition": {
 			"id": 10000313,
 			"zones_id": 10000261,
-			"level_min": 156,
-			"level_max": 170
+			"levelMin": 156,
+			"levelMax": 170
 		},
 		"title": {
 			"fr": "Tréfonds",
@@ -700,8 +700,8 @@
 		"definition": {
 			"id": 10000314,
 			"zones_id": 10000239,
-			"level_min": 156,
-			"level_max": 170
+			"levelMin": 156,
+			"levelMax": 170
 		},
 		"title": {
 			"fr": "Tréfonds",
@@ -714,8 +714,8 @@
 		"definition": {
 			"id": 10000315,
 			"zones_id": 10000262,
-			"level_min": 156,
-			"level_max": 170
+			"levelMin": 156,
+			"levelMax": 170
 		},
 		"title": {
 			"fr": "Tréfonds",
@@ -728,8 +728,8 @@
 		"definition": {
 			"id": 10000316,
 			"zones_id": 10000263,
-			"level_min": 156,
-			"level_max": 170
+			"levelMin": 156,
+			"levelMax": 170
 		},
 		"title": {
 			"fr": "Tréfonds",
@@ -742,8 +742,8 @@
 		"definition": {
 			"id": 10000317,
 			"zones_id": 10000254,
-			"level_min": 171,
-			"level_max": 185
+			"levelMin": 171,
+			"levelMax": 185
 		},
 		"title": {
 			"fr": "Plage de Moon",
@@ -756,8 +756,8 @@
 		"definition": {
 			"id": 10000318,
 			"zones_id": 10000254,
-			"level_min": 171,
-			"level_max": 185
+			"levelMin": 171,
+			"levelMax": 185
 		},
 		"title": {
 			"fr": "Sous-terrains",
@@ -770,8 +770,8 @@
 		"definition": {
 			"id": 10000319,
 			"zones_id": 10000254,
-			"level_min": 171,
-			"level_max": 185
+			"levelMin": 171,
+			"levelMax": 185
 		},
 		"title": {
 			"fr": "Jungle de Moon",
@@ -784,8 +784,8 @@
 		"definition": {
 			"id": 10000320,
 			"zones_id": 10000264,
-			"level_min": 171,
-			"level_max": 185
+			"levelMin": 171,
+			"levelMax": 185
 		},
 		"title": {
 			"fr": "Village des Pandissans",
@@ -798,8 +798,8 @@
 		"definition": {
 			"id": 10000321,
 			"zones_id": 10000241,
-			"level_min": 171,
-			"level_max": 185
+			"levelMin": 171,
+			"levelMax": 185
 		},
 		"title": {
 			"fr": "Galeries des Gerbouilles",
@@ -812,8 +812,8 @@
 		"definition": {
 			"id": 10000322,
 			"zones_id": 10000241,
-			"level_min": 171,
-			"level_max": 200
+			"levelMin": 171,
+			"levelMax": 200
 		},
 		"title": {
 			"fr": "Forêt Déforestée",
@@ -826,8 +826,8 @@
 		"definition": {
 			"id": 10000323,
 			"zones_id": 10000258,
-			"level_min": 186,
-			"level_max": 200
+			"levelMin": 186,
+			"levelMax": 200
 		},
 		"title": {
 			"fr": "Dragoeufs",
@@ -840,8 +840,8 @@
 		"definition": {
 			"id": 10000324,
 			"zones_id": 10000255,
-			"level_min": 186,
-			"level_max": 200
+			"levelMin": 186,
+			"levelMax": 200
 		},
 		"title": {
 			"fr": "Blérox",
@@ -854,8 +854,8 @@
 		"definition": {
 			"id": 10000325,
 			"zones_id": 10000256,
-			"level_min": 186,
-			"level_max": 200
+			"levelMin": 186,
+			"levelMax": 200
 		},
 		"title": {
 			"fr": "Grotte du Dor'Mor",
@@ -868,8 +868,8 @@
 		"definition": {
 			"id": 10000326,
 			"zones_id": 10000258,
-			"level_min": 186,
-			"level_max": 200
+			"levelMin": 186,
+			"levelMax": 200
 		},
 		"title": {
 			"fr": "Ethernels",
@@ -882,8 +882,8 @@
 		"definition": {
 			"id": 10000327,
 			"zones_id": 10000264,
-			"level_min": 186,
-			"level_max": 200
+			"levelMin": 186,
+			"levelMax": 200
 		},
 		"title": {
 			"fr": "Forêt Calcinée",
@@ -896,8 +896,8 @@
 		"definition": {
 			"id": 10000328,
 			"zones_id": 10000264,
-			"level_min": 186,
-			"level_max": 200
+			"levelMin": 186,
+			"levelMax": 200
 		},
 		"title": {
 			"fr": "Cimetière",
@@ -910,8 +910,8 @@
 		"definition": {
 			"id": 10000329,
 			"zones_id": 10000265,
-			"level_min": 201,
-			"level_max": 215
+			"levelMin": 201,
+			"levelMax": 215
 		},
 		"title": {
 			"fr": "Forêt Dorsale",
@@ -924,8 +924,8 @@
 		"definition": {
 			"id": 10000330,
 			"zones_id": 10000265,
-			"level_min": 201,
-			"level_max": 215
+			"levelMin": 201,
+			"levelMax": 215
 		},
 		"title": {
 			"fr": "Aile Aride",
@@ -938,8 +938,8 @@
 		"definition": {
 			"id": 10000331,
 			"zones_id": 10000265,
-			"level_min": 201,
-			"level_max": 215
+			"levelMin": 201,
+			"levelMax": 215
 		},
 		"title": {
 			"fr": "Rivage Caudal",
@@ -952,8 +952,8 @@
 		"definition": {
 			"id": 10000332,
 			"zones_id": 10000265,
-			"level_min": 201,
-			"level_max": 215
+			"levelMin": 201,
+			"levelMax": 215
 		},
 		"title": {
 			"fr": "Aile Glaciaire",
@@ -966,8 +966,8 @@
 		"definition": {
 			"id": 10000333,
 			"zones_id": 10000246,
-			"level_min": 201,
-			"level_max": 215
+			"levelMin": 201,
+			"levelMax": 215
 		},
 		"title": {
 			"fr": "Intérieur de Grampar",
@@ -980,8 +980,8 @@
 		"definition": {
 			"id": 10000334,
 			"zones_id": 10000246,
-			"level_min": 201,
-			"level_max": 215
+			"levelMin": 201,
+			"levelMax": 215
 		},
 		"title": {
 			"fr": "Toundra",
@@ -994,8 +994,8 @@
 		"definition": {
 			"id": 10000335,
 			"zones_id": 10000246,
-			"level_min": 201,
-			"level_max": 215
+			"levelMin": 201,
+			"levelMax": 215
 		},
 		"title": {
 			"fr": "Banquise des Mansots",
@@ -1008,8 +1008,8 @@
 		"definition": {
 			"id": 10000336,
 			"zones_id": 10000260,
-			"level_min": 216,
-			"level_max": 230
+			"levelMin": 216,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Royaume du désespoir",
@@ -1022,8 +1022,8 @@
 		"definition": {
 			"id": 10000337,
 			"zones_id": 10000260,
-			"level_min": 216,
-			"level_max": 230
+			"levelMin": 216,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Spirale du vide",
@@ -1036,8 +1036,8 @@
 		"definition": {
 			"id": 10000338,
 			"zones_id": 10000260,
-			"level_min": 216,
-			"level_max": 230
+			"levelMin": 216,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Citadelle de l'horreur",
@@ -1050,8 +1050,8 @@
 		"definition": {
 			"id": 10000339,
 			"zones_id": 10000260,
-			"level_min": 216,
-			"level_max": 230
+			"levelMin": 216,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Démentia",
@@ -1064,8 +1064,8 @@
 		"definition": {
 			"id": 10000340,
 			"zones_id": 10000260,
-			"level_min": 216,
-			"level_max": 230
+			"levelMin": 216,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Route des morts",
@@ -1078,8 +1078,8 @@
 		"definition": {
 			"id": 10000341,
 			"zones_id": 10000266,
-			"level_min": 216,
-			"level_max": 230
+			"levelMin": 216,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Prison maritime",
@@ -1092,8 +1092,8 @@
 		"definition": {
 			"id": 10000342,
 			"zones_id": 10000266,
-			"level_min": 216,
-			"level_max": 230
+			"levelMin": 216,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Mine néo-Sufokienne",
@@ -1106,8 +1106,8 @@
 		"definition": {
 			"id": 10000343,
 			"zones_id": 10000266,
-			"level_min": 216,
-			"level_max": 230
+			"levelMin": 216,
+			"levelMax": 230
 		},
 		"title": {
 			"fr": "Le passage",
