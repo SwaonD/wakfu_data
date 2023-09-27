@@ -54,9 +54,10 @@ def check_for_unused_id(first_id: int, current_id: int) -> list:
 		file = Path(CUSTOM_DATA_PATH / file)
 		if file.is_file() and file.suffix == JSON_SUFFIX:
 			data = get_json_data_with_path(file)
-			for item in data:
-				if "definition" in item and "id" in item["definition"]:
-					all_ids.append(item["definition"]["id"])
+			if data:
+				for item in data:
+					if "definition" in item and "id" in item["definition"]:
+						all_ids.append(item["definition"]["id"])
 	unused_ids = []
 	for i in range(first_id, current_id):
 		if i not in all_ids:

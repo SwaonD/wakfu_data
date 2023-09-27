@@ -26,7 +26,7 @@ def	get_json_data_with_path(path: str) -> dict:
 		print(f"get_json_data_with_path failed with path={path}")
 		return None
 
-def	write_json_in_copy(json_path: str, data: dict, dest: Path == None):
+def	write_json_in_copy(json_path: str, data: dict, dest: Path = None):
 	copy_name = f"{Path(json_path).stem}{COPY_ADD}{Path(json_path).suffix}"
 	if dest == None:
 		dest = Path(json_path).parent.joinpath(copy_name)
