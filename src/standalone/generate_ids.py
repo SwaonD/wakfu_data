@@ -19,8 +19,7 @@ def generate_ids(file: Path, is_overwrite: bool):
 	id = json_id_data["id"]
 	unused_ids = check_for_unused_id(FIRST_ID, id)
 	if is_overwrite:
-		unused_ids.extend(list_ids(data))
-	print(unused_ids)
+		unused_ids.extend(get_ids(data))
 	nb_id_added = 0
 	i = 0
 	while i < len(data):
@@ -64,12 +63,11 @@ def check_for_unused_id(first_id: int, current_id: int) -> list:
 			unused_ids.append(i)
 	return unused_ids
 
-def	list_ids(data: list) -> list:
+def	get_ids(data: list) -> list:
 	ids = []
 	for item in data:
 		if "definition" in item:
-			if "id" in item["definition"] \
-					and isinstance(item["definition"]["id"], int):
+			if "id" in item["definition"]:
 				ids.append(item["definition"]["id"])
 	return ids
 
@@ -99,17 +97,17 @@ def get_file():
 
 def replace(file: Path):
 	while True:
-		user_input = input(f"Overwrite {file.name}" \
-				+ f" with {file.stem}{COPY_ADD}{JSON_SUFFIX} ? y/n ")
+		user_input = input(f"Write changes ? y/n ")
 		if user_input.lower() == "y":
 			ID_FILE.unlink()
 			ID_FILE.with_name(ID_FILE_NAME + COPY_ADD + JSON_SUFFIX) \
 					.rename(ID_FILE)
 			file.unlink()
-			file.with_name(file.stem + COPY_ADD + JSON_SUFFIX) \
-					.rename(file)
+			file.with_name(file.stem + COPY_ADD + JSON_SUFFIX).rename(file)
 			return
 		elif user_input.lower() == "n":
+			ID_FILE.with_name(ID_FILE_NAME + COPY_ADD + JSON_SUFFIX).unlink()
+			file.with_name(file.stem + COPY_ADD + JSON_SUFFIX).unlink()
 			return
 		else:
 			print("Please enter 'y' to say Yes or 'n' to say No")
