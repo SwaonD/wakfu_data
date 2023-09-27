@@ -16,6 +16,20 @@
     },
     {
         "definition": {
+            "parentId": 0,
+            "levelMin": 36,
+            "levelMax": 110,
+            "zoneTypeId": 10000389
+        },
+        "title": {
+            "fr": "Amakna",
+            "en": "Amakna",
+            "es": "Amakna",
+            "pt": "Amakna"
+        }
+    },
+    {
+        "definition": {
             "id": 10000239,
             "parentId": 0,
             "levelMin": 36,
@@ -124,7 +138,7 @@
             "parentId": 0,
             "levelMin": 36,
             "levelMax": 170,
-            "zoneTypeId": 0
+            "zoneTypeId": 10000390
         },
         "title": {
             "fr": "Mine d'Amakna",
@@ -135,14 +149,13 @@
     },
     {
         "definition": {
-            "id": 10000345,
             "parentId": 0,
-            "levelMin": 6,
-            "levelMax": 20,
-            "zoneTypeId": 0
+            "levelMin": 1,
+            "levelMax": 230,
+            "zoneTypeId": 10000389
         },
         "title": {
-            "fr": "Egouts d'Astrub",
+            "fr": "Bibliotemple",
             "en": "",
             "es": "",
             "pt": ""
@@ -154,7 +167,21 @@
             "parentId": 0,
             "levelMin": 1,
             "levelMax": 230,
-            "zoneTypeId": 0
+            "zoneTypeId": 10000390
+        },
+        "title": {
+            "fr": "Bibliotemple",
+            "en": "",
+            "es": "",
+            "pt": ""
+        }
+    },
+    {
+        "definition": {
+            "parentId": 0,
+            "levelMin": 1,
+            "levelMax": 230,
+            "zoneTypeId": 10000391
         },
         "title": {
             "fr": "Bibliotemple",
@@ -1019,8 +1046,23 @@
     },
     {
         "definition": {
+            "id": 10000345,
+            "parentId": 0,
+            "levelMin": 6,
+            "levelMax": 20,
+            "zoneTypeId": 10000390
+        },
+        "title": {
+            "fr": "Egouts d'Astrub",
+            "en": "",
+            "es": "",
+            "pt": ""
+        }
+    },
+    {
+        "definition": {
             "id": 10000267,
-            "parentId": 10000251,
+            "parentId": 10000345,
             "levelMin": 6,
             "levelMax": 20,
             "zoneTypeId": 10000391
