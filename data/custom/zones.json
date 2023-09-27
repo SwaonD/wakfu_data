@@ -1,1080 +1,938 @@
 [
 	{
 		"definition": {
-			"id": 10000267,
-			"island_id": 10000251,
-			"level_max": 20,
-			"level_min": 6
+			"id": 10000239,
+			"level_min": 36,
+			"level_max": 110
+		},
+		"title": {
+			"fr": "Amakna",
+			"en": "Amakna",
+			"es": "Amakna",
+			"pt": "Amakna"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000344,
+			"level_min": 36,
+			"level_max": 170
+		},
+		"title": {
+			"fr": "Mine d'Amakna",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000345,
+			"level_min": 6,
+			"level_max": 20
 		},
 		"title": {
 			"fr": "Egouts d'Astrub",
-			"en": "Astrub Sewers",
-			"es": "Alcantarillas de Astrub",
-			"pt": "Esgotos de Astrub"
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000268,
-			"island_id": 10000251,
-			"level_max": 20,
-			"level_min": 6
+			"id": 10000346,
+			"level_min": 1,
+			"level_max": 230
 		},
 		"title": {
-			"fr": "Champs d'Astrub",
-			"en": "Astrub Fields",
-			"es": "Campos de Astrub",
-			"pt": "Campos de Astrub"
+			"fr": "Bibliotemple",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000269,
-			"island_id": 10000251,
-			"level_max": 20,
-			"level_min": 6
+			"id": 10000347,
+			"level_min": 81,
+			"level_max": 95
 		},
 		"title": {
-			"fr": "Tainela",
-			"en": "Tainela",
-			"es": "Tainela",
-			"pt": "Tainela"
+			"fr": "Foire du Trool",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000270,
-			"island_id": 10000251,
-			"level_max": 20,
-			"level_min": 6
+			"id": 10000348,
+			"level_min": 1,
+			"level_max": 230
 		},
 		"title": {
-			"fr": "Cimetière d'Astrub",
-			"en": "Astrub Cemetery",
-			"es": "Cementerio de Astrub",
-			"pt": "Cemitério de Astrub"
+			"fr": "Île de Nowel",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000271,
-			"island_id": 10000251,
-			"level_max": 20,
-			"level_min": 6
+			"id": 10000349,
+			"level_min": 1,
+			"level_max": 230
 		},
 		"title": {
-			"fr": "Plaines d'Astrub",
-			"en": "Astrub Plains",
-			"es": "Llanura de Astrub",
-			"pt": "Planícies de Astrub"
+			"fr": "Mines de la Pandalousie",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000272,
-			"island_id": 10000251,
-			"level_max": 35,
-			"level_min": 21
-		},
-		"title": {
-			"fr": "Forêt d'Astrub",
-			"en": "Astrub Forest",
-			"es": "Bosque de Astrub",
-			"pt": "Floresta de Astrub"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000273,
-			"island_id": 10000251,
-			"level_max": 35,
-			"level_min": 21
-		},
-		"title": {
-			"fr": "Montagnes d'Astrub",
-			"en": "Astrub Mountains",
-			"es": "Montañas de Astrub",
-			"pt": "Montanhas de Astrub"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000274,
-			"island_id": 10000239,
-			"level_max": 50,
-			"level_min": 36
-		},
-		"title": {
-			"fr": "Champs qui chantent",
-			"en": "Singing Fields",
-			"es": "Campos Cantarines",
-			"pt": "Campos Cantantes"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000275,
-			"island_id": 10000239,
-			"level_max": 50,
-			"level_min": 36
-		},
-		"title": {
-			"fr": "Forêt d'Emelka",
-			"en": "Emelka Forest",
-			"es": "Bosque de Emelka",
-			"pt": "Floresta de Emelka"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000276,
-			"island_id": 10000239,
-			"level_max": 50,
-			"level_min": 36
-		},
-		"title": {
-			"fr": "Galeries",
-			"en": "Galleries",
-			"es": "Galerías",
-			"pt": "Galerias"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000277,
-			"island_id": 10000266,
-			"level_max": 50,
-			"level_min": 36
-		},
-		"title": {
-			"fr": "Plage des pirates",
-			"en": "Pirate Beach",
-			"es": "Playa de los piratas",
-			"pt": "Praia dos Piratas"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000278,
-			"island_id": 10000266,
-			"level_max": 50,
-			"level_min": 36
-		},
-		"title": {
-			"fr": "Plage maudite",
-			"en": "Cursed Beach",
-			"es": "Playa maldita",
-			"pt": "Praia Amaldiçoada"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000279,
-			"island_id": 10000241,
-			"level_max": 80,
-			"level_min": 51
-		},
-		"title": {
-			"fr": "Clairière des Mulous",
-			"en": "Boowolf Clearing",
-			"es": "Claro de los milubos",
-			"pt": "Clareira dos Milobos"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000280,
-			"island_id": 10000256,
-			"level_max": 65,
-			"level_min": 51
-		},
-		"title": {
-			"fr": "Plage Sauvage",
-			"en": "Wild Beach",
-			"es": "Playa salvaje",
-			"pt": "Praia Selvagem"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000281,
-			"island_id": 10000262,
-			"level_max": 65,
-			"level_min": 51
-		},
-		"title": {
-			"fr": "La Dune Kane",
-			"en": "Terrana Dune",
-			"es": "Duna Cana",
-			"pt": "Dunas Terrâneas"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000282,
-			"island_id": 10000266,
-			"level_max": 65,
-			"level_min": 51
-		},
-		"title": {
-			"fr": "Caverne des Marteaux-Aigris",
-			"en": "Bitter-Hammer Cavern",
-			"es": "Cueva de los martilloseco",
-			"pt": "Caverna dos Martelos Amargos"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000283,
-			"island_id": 10000240,
-			"level_max": 80,
-			"level_min": 66
-		},
-		"title": {
-			"fr": "Landes de Kelba",
-			"en": "Lands of Kelba",
-			"es": "Landas de Kelba",
-			"pt": "Terras de Kelba"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000284,
-			"island_id": 10000240,
-			"level_max": 80,
-			"level_min": 66
-		},
-		"title": {
-			"fr": "Pics de Kelba",
-			"en": "Kelba Peaks",
-			"es": "Picos de Kelba",
-			"pt": "Picos de Kelba"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000285,
-			"island_id": 10000261,
-			"level_max": 80,
-			"level_min": 66
-		},
-		"title": {
-			"fr": "Plaines de Cania",
-			"en": "Cania Plains",
-			"es": "Llanuras de Cania - Oeste",
-			"pt": "Planícies de Cania"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000286,
-			"island_id": 10000261,
-			"level_max": 80,
-			"level_min": 66
-		},
-		"title": {
-			"fr": "Kara",
-			"en": "Kara",
-			"es": "Kara",
-			"pt": "Kara"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000287,
-			"island_id": 10000261,
-			"level_max": 80,
-			"level_min": 66
-		},
-		"title": {
-			"fr": "Galeries",
-			"en": "Galleries",
-			"es": "Galerías",
-			"pt": "Galerias"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000288,
-			"island_id": 10000241,
-			"level_max": 80,
-			"level_min": 66
-		},
-		"title": {
-			"fr": "Colline Entoilée",
-			"en": "Web-Entangled Hill",
-			"es": "Colina entelada",
-			"pt": "Colina Presa na Teia"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000289,
-			"island_id": 10000242,
-			"level_max": 95,
-			"level_min": 81
-		},
-		"title": {
-			"fr": "Couvent Tripotant",
-			"en": "Messaround Monastery",
-			"es": "Convento del Santo Tocón",
-			"pt": "Convento Empopa"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000290,
-			"island_id": 10000244,
-			"level_max": 95,
-			"level_min": 81
-		},
-		"title": {
-			"fr": "La Banquise",
-			"en": "Ice Floe",
-			"es": "Banquisa",
-			"pt": "Banquisa"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000291,
-			"island_id": 10000245,
-			"level_max": 110,
-			"level_min": 81
-		},
-		"title": {
-			"fr": "Costa Del Gelax",
-			"en": "Costa del Jellix",
-			"es": "Costa de Gelax",
-			"pt": "Costa del Gelax"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000292,
-			"island_id": 10000256,
-			"level_max": 95,
-			"level_min": 81
-		},
-		"title": {
-			"fr": "Grotte Slek",
-			"en": "Schnek Cave",
-			"es": "Cueva de los brizlones",
-			"pt": "Gruta Vermuda"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000293,
-			"island_id": 10000263,
-			"level_max": 95,
-			"level_min": 81
-		},
-		"title": {
-			"fr": "Champs Pabong",
-			"en": "Pabong Fields",
-			"es": "Campos Téril",
-			"pt": "Campos Pabongo"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000294,
-			"island_id": 10000263,
-			"level_max": 95,
-			"level_min": 81
-		},
-		"title": {
-			"fr": "Landes de Sidimote",
-			"en": "Sidimote Moors",
-			"es": "Landas de Sidimote",
-			"pt": "Estepes de Sidimote"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000295,
-			"island_id": 10000263,
-			"level_max": 95,
-			"level_min": 81
-		},
-		"title": {
-			"fr": "Galeries",
-			"en": "Galleries",
-			"es": "Galerías",
-			"pt": "Galerias"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000296,
-			"island_id": 10000244,
-			"level_max": 110,
-			"level_min": 96
-		},
-		"title": {
-			"fr": "Village Enseveli Enseveli",
-			"en": "Snowbound Snowbound Village",
-			"es": "Pueblo Sepultado Sepultado",
-			"pt": "Aldeia Soterrada Soterrada"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000297,
-			"island_id": 10000246,
-			"level_max": 110,
-			"level_min": 96
-		},
-		"title": {
-			"fr": "Chuchoplaine",
-			"en": "Murmoor",
-			"es": "Llanura de los Susurros",
-			"pt": "Sussuplanície"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000298,
-			"island_id": 10000260,
-			"level_max": 125,
-			"level_min": 96
-		},
-		"title": {
-			"fr": "Territoire de Sthulhu",
-			"en": "Sthulhu Territory",
-			"es": "Territorio de Kanz Herbero",
-			"pt": "Território de Sthulhu"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000299,
-			"island_id": 10000239,
-			"level_max": 110,
-			"level_min": 96
-		},
-		"title": {
-			"fr": "Plaine des Riktus",
-			"en": "Riktus Plain",
-			"es": "Llanura de los Riktus",
-			"pt": "Planície dos Riktus"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000300,
-			"island_id": 10000244,
-			"level_max": 125,
-			"level_min": 111
-		},
-		"title": {
-			"fr": "Château de Harebourg",
-			"en": "Harebourg Castle",
-			"es": "Castillo de Kontatrás",
-			"pt": "Castelo Traspafrent"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000301,
-			"island_id": 10000257,
-			"level_max": 125,
-			"level_min": 111
-		},
-		"title": {
-			"fr": "Smares",
-			"en": "Whirlies",
-			"es": "Sámaras",
-			"pt": "Turbilhentos"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000302,
-			"island_id": 10000262,
-			"level_max": 125,
-			"level_min": 111
-		},
-		"title": {
-			"fr": "Montagne des Flaqueux",
-			"en": "Puddly Mountains",
-			"es": "Montaña de los charcosos",
-			"pt": "Montanha dos Charcosos"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000303,
-			"island_id": 10000262,
-			"level_max": 125,
-			"level_min": 111
-		},
-		"title": {
-			"fr": "Galeries",
-			"en": "Galleries",
-			"es": "Galerías",
-			"pt": "Galerias"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000304,
-			"island_id": 10000247,
-			"level_max": 140,
-			"level_min": 126
-		},
-		"title": {
-			"fr": "Soutewwains",
-			"en": "Mowbid Wawwens",
-			"es": "Subtewwáneos Mówbidos",
-			"pt": "Túneis Mówbidos"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000305,
-			"island_id": 10000247,
-			"level_max": 140,
-			"level_min": 126
-		},
-		"title": {
-			"fr": "Glosse Calotte",
-			"en": "The Big Cawwot",
-			"es": "Glan Zanaholia",
-			"pt": "Glande Cenoula"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000306,
-			"island_id": 10000249,
-			"level_max": 140,
-			"level_min": 126
+			"id": 10000350,
+			"level_min": 126,
+			"level_max": 140
 		},
 		"title": {
 			"fr": "La Fungopée",
-			"en": "The Fungopole",
-			"es": "La Fongopea",
-			"pt": "A Fungopeia"
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000307,
-			"island_id": 10000257,
-			"level_max": 140,
-			"level_min": 126
+			"id": 10000351,
+			"level_min": 171,
+			"level_max": 185
 		},
 		"title": {
-			"fr": "Phorreurs",
-			"en": "Drhellers",
-			"es": "Perforatroces",
-			"pt": "Perfuratrozes"
+			"fr": "Sous Terrains de l'île de Moon",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000308,
-			"island_id": 10000261,
-			"level_max": 140,
-			"level_min": 126
+			"id": 10000352,
+			"level_min": null,
+			"level_max": null
 		},
 		"title": {
-			"fr": "Fourré de Tonkult",
-			"en": "Thicket of Yurbut",
-			"es": "Bosquecillo de Túkulo",
-			"pt": "Matagal de Telbrioko"
+			"fr": "Ile de Rok",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000309,
-			"island_id": 10000247,
-			"level_max": 155,
-			"level_min": 141
+			"id": 10000353,
+			"level_min": 126,
+			"level_max": 140
 		},
 		"title": {
-			"fr": "Fowtewesse du Wa",
-			"en": "The Wa's Fowtwess",
-			"es": "Fowtaleza del Wey",
-			"pt": "Fowtaleza do Wei"
+			"fr": "Rez de chaussée de l'écolte d'Huppermagie",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000310,
-			"island_id": 10000263,
-			"level_max": 155,
-			"level_min": 141
+			"id": 10000354,
+			"level_min": 126,
+			"level_max": 140
 		},
 		"title": {
-			"fr": "Macheville",
-			"en": "Gnashville",
-			"es": "Jamelyn",
-			"pt": "Mordidaldeia"
+			"fr": "Etage de l'école d'Huppermagie",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000311,
-			"island_id": 10000264,
-			"level_max": 155,
-			"level_min": 141
+			"id": 10000355,
+			"level_min": null,
+			"level_max": null
 		},
 		"title": {
-			"fr": "Marais Salé",
-			"en": "Salt Marsh",
-			"es": "Pantano salado",
-			"pt": "Pântano Salgado"
+			"fr": "Monde des Douze",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000312,
-			"island_id": 10000255,
-			"level_max": 170,
-			"level_min": 156
+			"id": 10000356,
+			"level_min": null,
+			"level_max": null
 		},
 		"title": {
-			"fr": "Sbires de Kali",
-			"en": "Kali's Henchmen",
-			"es": "Esbirros de Kali",
-			"pt": "Capangas de Kali"
+			"fr": "Inglorium",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000313,
-			"island_id": 10000261,
-			"level_max": 170,
-			"level_min": 156
+			"id": 10000357,
+			"level_min": 1,
+			"level_max": 230
 		},
 		"title": {
-			"fr": "Tréfonds",
-			"en": "Depths",
-			"es": "Profundidades",
-			"pt": "Profundezas"
+			"fr": "Ecaflipus (Arènes)",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000314,
-			"island_id": 10000239,
-			"level_max": 170,
-			"level_min": 156
+			"id": 10000358,
+			"level_min": 1,
+			"level_max": 10
 		},
 		"title": {
-			"fr": "Tréfonds",
-			"en": "Depths",
-			"es": "Profundidades",
-			"pt": "Profundezas"
+			"fr": "Plaines d'Incarnam",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000315,
-			"island_id": 10000262,
-			"level_max": 170,
-			"level_min": 156
+			"id": 10000359,
+			"level_min": 111,
+			"level_max": 170
 		},
 		"title": {
-			"fr": "Tréfonds",
-			"en": "Depths",
-			"es": "Profundidades",
-			"pt": "Profundezas"
+			"fr": "Récif des Shushardes",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000316,
-			"island_id": 10000263,
-			"level_max": 170,
-			"level_min": 156
+			"id": 10000240,
+			"level_min": 66,
+			"level_max": 80
 		},
 		"title": {
-			"fr": "Tréfonds",
-			"en": "Depths",
-			"es": "Profundidades",
-			"pt": "Profundezas"
+			"fr": "Kelba",
+			"en": "Kelba",
+			"es": "Kelba",
+			"pt": "Kelba"
 		}
 	},
 	{
 		"definition": {
-			"id": 10000317,
-			"island_id": 10000254,
-			"level_max": 185,
-			"level_min": 171
+			"id": 10000241,
+			"level_min": 1,
+			"level_max": 230
 		},
 		"title": {
-			"fr": "Plage de Moon",
-			"en": "Moon Beach",
-			"es": "Playa de Moon",
-			"pt": "Praia de Moon"
+			"fr": "Royaume Sadida",
+			"en": "Sadida Kingdom",
+			"es": "Reino Sadida",
+			"pt": "Reino Sadida"
 		}
 	},
 	{
 		"definition": {
-			"id": 10000318,
-			"island_id": 10000254,
-			"level_max": 185,
-			"level_min": 171
+			"id": 10000242,
+			"level_min": 81,
+			"level_max": 95
 		},
 		"title": {
-			"fr": "Sous-terrains",
-			"en": "Underground",
-			"es": "Subsuelo",
-			"pt": "Subterrâneo"
+			"fr": "Ile aux moines",
+			"en": "Monk Island",
+			"es": "Isla de los Monjes",
+			"pt": "Ilha dos Monges"
 		}
 	},
 	{
 		"definition": {
-			"id": 10000319,
-			"island_id": 10000254,
-			"level_max": 185,
-			"level_min": 171
+			"id": 10000243,
+			"level_min": 81,
+			"level_max": 95
 		},
 		"title": {
-			"fr": "Jungle de Moon",
-			"en": "Moon Jungle",
-			"es": "Jungla de Moon",
-			"pt": "Selva de Moon"
+			"fr": "Katrepat",
+			"en": "Forfut",
+			"es": "Kuatropatas",
+			"pt": "Dezist"
 		}
 	},
 	{
 		"definition": {
-			"id": 10000320,
-			"island_id": 10000264,
-			"level_max": 185,
-			"level_min": 171
+			"id": 10000244,
+			"level_min": 81,
+			"level_max": 125
 		},
 		"title": {
-			"fr": "Village des Pandissans",
-			"en": "Pandissident Village",
-			"es": "Pueblo de los pandisidentes",
-			"pt": "Vilarejo dos Pandissidentes"
+			"fr": "Ile Sberg",
+			"en": "Chillberg Island",
+			"es": "Isla Berg",
+			"pt": "Ilha Bergue"
 		}
 	},
 	{
 		"definition": {
-			"id": 10000321,
-			"island_id": 10000241,
-			"level_max": 185,
-			"level_min": 171
+			"id": 10000360,
+			"level_min": 111,
+			"level_max": 125
 		},
 		"title": {
-			"fr": "Galeries des Gerbouilles",
-			"en": "Gerbean Galleries",
-			"es": "Galerías de las gerbilindas",
-			"pt": "Galerias das Gerbelas"
+			"fr": "Vestiges de la Crevasse Perge",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000322,
-			"island_id": 10000241,
-			"level_max": 200,
-			"level_min": 171
+			"id": 10000361,
+			"level_min": 111,
+			"level_max": 125
 		},
 		"title": {
-			"fr": "Forêt Déforestée",
-			"en": "Deforested Forest",
-			"es": "Bosque desforestado",
-			"pt": "Floresta Desflorestada"
+			"fr": "Château de Harebourg",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000323,
-			"island_id": 10000258,
-			"level_max": 200,
-			"level_min": 186
+			"id": 10000362,
+			"level_min": 1,
+			"level_max": 230
 		},
 		"title": {
-			"fr": "Dragoeufs",
-			"en": "Dreggons",
-			"es": "Dragohuevos",
-			"pt": "Dragovos"
+			"fr": "Tour Minérale",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000324,
-			"island_id": 10000255,
-			"level_max": 200,
-			"level_min": 186
+			"id": 10000245,
+			"level_min": 81,
+			"level_max": 110
 		},
 		"title": {
-			"fr": "Blérox",
-			"en": "Badgerox",
-			"es": "Tejaroxores",
-			"pt": "Texox"
+			"fr": "Bilbyza",
+			"en": "Bilbiza",
+			"es": "Bilbyza",
+			"pt": "Bilbyza"
 		}
 	},
 	{
 		"definition": {
-			"id": 10000325,
-			"island_id": 10000256,
-			"level_max": 200,
-			"level_min": 186
+			"id": 10000363,
+			"level_min": 96,
+			"level_max": 110
 		},
 		"title": {
-			"fr": "Grotte du Dor'Mor",
-			"en": "Dor'Mor Cave",
-			"es": "Cueva de Dor'Mor",
-			"pt": "Gruta do Dor'Mor"
+			"fr": "Galazième Dimension",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000326,
-			"island_id": 10000258,
-			"level_max": 200,
-			"level_min": 186
+			"id": 10000246,
+			"level_min": 96,
+			"level_max": 215
 		},
 		"title": {
-			"fr": "Ethernels",
-			"en": "Ethernals",
-			"es": "Éternos",
-			"pt": "Éter-Nos"
+			"fr": "Royaume Chuchoku",
+			"en": "Shhhudoku Kingdom",
+			"es": "Reino Susurrante",
+			"pt": "Reino de Shiudoku"
 		}
 	},
 	{
 		"definition": {
-			"id": 10000327,
-			"island_id": 10000264,
-			"level_max": 200,
-			"level_min": 186
-		},
-		"title": {
-			"fr": "Forêt Calcinée",
-			"en": "Charred Forest",
-			"es": "Bosque calcinado",
-			"pt": "Floresta Calcinada"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000328,
-			"island_id": 10000264,
-			"level_max": 200,
-			"level_min": 186
-		},
-		"title": {
-			"fr": "Cimetière",
-			"en": "Cemetery",
-			"es": "Cementerio",
-			"pt": "Cemitério"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000329,
-			"island_id": 10000265,
-			"level_max": 215,
-			"level_min": 201
-		},
-		"title": {
-			"fr": "Forêt Dorsale",
-			"en": "Dorsal Forest",
-			"es": "Bosque dorsal",
-			"pt": "Floresta Dorsal"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000330,
-			"island_id": 10000265,
-			"level_max": 215,
-			"level_min": 201
-		},
-		"title": {
-			"fr": "Aile Aride",
-			"en": "Arid Wing",
-			"es": "Ala árida",
-			"pt": "Ala Árida"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000331,
-			"island_id": 10000265,
-			"level_max": 215,
-			"level_min": 201
-		},
-		"title": {
-			"fr": "Rivage Caudal",
-			"en": "Caudal Shore",
-			"es": "Orilla caudal",
-			"pt": "Costa Caudal"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000332,
-			"island_id": 10000265,
-			"level_max": 215,
-			"level_min": 201
-		},
-		"title": {
-			"fr": "Aile Glaciaire",
-			"en": "Glacial Wing",
-			"es": "Ala glacial",
-			"pt": "Asa Glacial"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000333,
-			"island_id": 10000246,
-			"level_max": 215,
-			"level_min": 201
+			"id": 10000364,
+			"level_min": 201,
+			"level_max": 215
 		},
 		"title": {
 			"fr": "Intérieur de Grampar",
-			"en": "Inside Grampar",
-			"es": "Interior de Grampar",
-			"pt": "Interior de Vóvz"
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000334,
-			"island_id": 10000246,
-			"level_max": 215,
-			"level_min": 201
-		},
-		"title": {
-			"fr": "Toundra",
-			"en": "Tundra",
-			"es": "Tundra",
-			"pt": "Tundra"
-		}
-	},
-	{
-		"definition": {
-			"id": 10000335,
-			"island_id": 10000246,
-			"level_max": 215,
-			"level_min": 201
+			"id": 10000365,
+			"level_min": 201,
+			"level_max": 215
 		},
 		"title": {
 			"fr": "Banquise des Mansots",
-			"en": "Pingwins' Ice Floe",
-			"es": "Banquisa de los güinos",
-			"pt": "Banquisa dos Pingwins"
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000336,
-			"island_id": 10000260,
-			"level_max": 230,
-			"level_min": 216
+			"id": 10000247,
+			"level_min": 126,
+			"level_max": 155
 		},
 		"title": {
-			"fr": "Royaume du désespoir",
-			"en": "Kingdom of Despair",
-			"es": "Reino de la desesperación",
-			"pt": "Reino do Desespero"
+			"fr": "Ile des Wabbits",
+			"en": "Wabbit Islands",
+			"es": "Isla de los Wabbits",
+			"pt": "Ilha dos Wabbits"
 		}
 	},
 	{
 		"definition": {
-			"id": 10000337,
-			"island_id": 10000260,
-			"level_max": 230,
-			"level_min": 216
+			"id": 10000366,
+			"level_min": 126,
+			"level_max": 155
 		},
 		"title": {
-			"fr": "Spirale du vide",
-			"en": "Void Spiral",
-			"es": "Espiral del vacío",
-			"pt": "Espiral do Vazio"
+			"fr": "Souterrains Wabbit",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000338,
-			"island_id": 10000260,
-			"level_max": 230,
-			"level_min": 216
+			"id": 10000248,
+			"level_min": 51,
+			"level_max": 65
 		},
 		"title": {
-			"fr": "Citadelle de l'horreur",
-			"en": "Citadel of Horror",
-			"es": "Ciudadela del terror",
-			"pt": "Cidadela do Horror"
+			"fr": "Domaine Sauvage",
+			"en": "Wild Estate",
+			"es": "Tierras Salvajes",
+			"pt": "Domínio Selvagem"
 		}
 	},
 	{
 		"definition": {
-			"id": 10000339,
-			"island_id": 10000260,
-			"level_max": 230,
-			"level_min": 216
+			"id": 10000249,
+			"level_min": 111,
+			"level_max": 125
 		},
 		"title": {
-			"fr": "Démentia",
-			"en": "Dementya",
-			"es": "Dementia",
-			"pt": "Demência"
+			"fr": "Saharach",
+			"en": "Ohwymi",
+			"es": "Picahari",
+			"pt": "Espetárida"
 		}
 	},
 	{
 		"definition": {
-			"id": 10000340,
-			"island_id": 10000260,
-			"level_max": 230,
-			"level_min": 216
+			"id": 10000250,
+			"level_min": 141,
+			"level_max": 155
+		},
+		"title": {
+			"fr": "Enutrosor",
+			"en": "Enurado",
+			"es": "Anutropía",
+			"pt": "Enutropia"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000251,
+			"level_min": 6,
+			"level_max": 35
+		},
+		"title": {
+			"fr": "Astrub",
+			"en": "Astrub",
+			"es": "Astrub",
+			"pt": "Astrub"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000252,
+			"level_min": 156,
+			"level_max": 170
+		},
+		"title": {
+			"fr": "Xélorium - Passé",
+			"en": "Xelorium - Past",
+			"es": "Xelorium - Pasado",
+			"pt": "Xelorium - Passado"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000253,
+			"level_min": 156,
+			"level_max": 170
+		},
+		"title": {
+			"fr": "Xélorium - Présent",
+			"en": "Xelorium - Present",
+			"es": "Xelorium - Presente",
+			"pt": "Xelorium - Presente"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000254,
+			"level_min": 171,
+			"level_max": 185
+		},
+		"title": {
+			"fr": "Moon",
+			"en": "Moon",
+			"es": "Moon",
+			"pt": "Moon"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000255,
+			"level_min": 156,
+			"level_max": 200
+		},
+		"title": {
+			"fr": "Haut Flanc",
+			"en": "Upper Slope",
+			"es": "Ladera alta",
+			"pt": "Encosta Alta"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000256,
+			"level_min": null,
+			"level_max": null
+		},
+		"title": {
+			"fr": "Mont Zinit",
+			"en": "Mount Zinit",
+			"es": "Monte Zinit",
+			"pt": "Monte Zinit"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000367,
+			"level_min": 21,
+			"level_max": 35
+		},
+		"title": {
+			"fr": "Plage du Zinit",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000368,
+			"level_min": 51,
+			"level_max": 65
+		},
+		"title": {
+			"fr": "Plage Sauvage",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000369,
+			"level_min": 81,
+			"level_max": 95
+		},
+		"title": {
+			"fr": "Grotte Slek",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000370,
+			"level_min": 186,
+			"level_max": 200
+		},
+		"title": {
+			"fr": "Grotte du Dor'Mor",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000257,
+			"level_min": 111,
+			"level_max": 140
+		},
+		"title": {
+			"fr": "Bas Flanc",
+			"en": "Lower Slope",
+			"es": "Ladera baja",
+			"pt": "Encosta Baixa"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000258,
+			"level_min": 186,
+			"level_max": 200
+		},
+		"title": {
+			"fr": "Sommet",
+			"en": "Summit",
+			"es": "Cima",
+			"pt": "Cume"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000259,
+			"level_min": 141,
+			"level_max": 155
+		},
+		"title": {
+			"fr": "Srambad",
+			"en": "Srambad",
+			"es": "Sramvil",
+			"pt": "Sramvil"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000260,
+			"level_min": null,
+			"level_max": null
+		},
+		"title": {
+			"fr": "Shukrute",
+			"en": "Shustuft Crust",
+			"es": "Fab'hugruta",
+			"pt": "Shukrute"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000371,
+			"level_min": 216,
+			"level_max": 230
 		},
 		"title": {
 			"fr": "Route des morts",
-			"en": "Route of the Dead",
-			"es": "Camino de los muertos",
-			"pt": "Estrada dos Mortos"
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000341,
-			"island_id": 10000266,
-			"level_max": 230,
-			"level_min": 216
+			"id": 10000372,
+			"level_min": 216,
+			"level_max": 230
 		},
 		"title": {
-			"fr": "Prison maritime",
-			"en": "Ocean Prison",
-			"es": "Prisión marítima",
-			"pt": "Prisão Marítima"
+			"fr": "Spirale du vide",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000342,
-			"island_id": 10000266,
-			"level_max": 230,
-			"level_min": 216
+			"id": 10000373,
+			"level_min": 216,
+			"level_max": 230
+		},
+		"title": {
+			"fr": "Citadelle de l'horreur",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000374,
+			"level_min": 216,
+			"level_max": 230
+		},
+		"title": {
+			"fr": "Royaume du désespoir",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000375,
+			"level_min": 4541,
+			"level_max": 12002
+		},
+		"title": {
+			"fr": "Démentia",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000376,
+			"level_min": 216,
+			"level_max": 230
+		},
+		"title": {
+			"fr": "Croisée des âmes déchues",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000377,
+			"level_min": 111,
+			"level_max": 170
+		},
+		"title": {
+			"fr": "Territoire de Sthulhu",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000378,
+			"level_min": null,
+			"level_max": null
+		},
+		"title": {
+			"fr": "Palais de Rushu",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000261,
+			"level_min": 66,
+			"level_max": 140
+		},
+		"title": {
+			"fr": "Bonta",
+			"en": "Bonta",
+			"es": "Bonta",
+			"pt": "Bonta"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000379,
+			"level_min": 66,
+			"level_max": 170
+		},
+		"title": {
+			"fr": "Mine de Bonta",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000262,
+			"level_min": 51,
+			"level_max": 126
+		},
+		"title": {
+			"fr": "Sufokia",
+			"en": "Sufokia",
+			"es": "Sufokia",
+			"pt": "Sufokia"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000380,
+			"level_min": 111,
+			"level_max": 170
+		},
+		"title": {
+			"fr": "Mine de Sufokia",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000263,
+			"level_min": 81,
+			"level_max": 155
+		},
+		"title": {
+			"fr": "Brâkmar",
+			"en": "Brakmar",
+			"es": "Brakmar",
+			"pt": "Brakmar"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000381,
+			"level_min": 81,
+			"level_max": 170
+		},
+		"title": {
+			"fr": "Mine de Brâkmar",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000264,
+			"level_min": 1,
+			"level_max": 230
+		},
+		"title": {
+			"fr": "Vallée de la Pandalousie",
+			"en": "Pandalucia",
+			"es": "Pandalucía",
+			"pt": "Pandaluzia"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000265,
+			"level_min": 201,
+			"level_max": 215
+		},
+		"title": {
+			"fr": "Osamosa",
+			"en": "Osamosa",
+			"es": "Osamosa",
+			"pt": "Osamosa"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000266,
+			"level_min": null,
+			"level_max": null
+		},
+		"title": {
+			"fr": "Ereboria, l'ile maudite",
+			"en": "Ereboria",
+			"es": "Ereboria",
+			"pt": "Ereboria"
+		}
+	},
+	{
+		"definition": {
+			"id": 10000382,
+			"level_min": 216,
+			"level_max": 230
+		},
+		"title": {
+			"fr": "Prison Maritime",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000383,
+			"level_min": 216,
+			"level_max": 230
 		},
 		"title": {
 			"fr": "Mine néo-Sufokienne",
-			"en": "New Sufokian Mine",
-			"es": "Mina neosufokeña",
-			"pt": "Mina Neo-Sufokiana"
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	},
 	{
 		"definition": {
-			"id": 10000343,
-			"island_id": 10000266,
-			"level_max": 230,
-			"level_min": 216
+			"id": 10000384,
+			"level_min": 36,
+			"level_max": 50
 		},
 		"title": {
-			"fr": "Le passage",
-			"en": "The Passage",
-			"es": "El pasaje",
-			"pt": "A Passagem"
+			"fr": "Port d'Ereboria",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000385,
+			"level_min": 36,
+			"level_max": 50
+		},
+		"title": {
+			"fr": "Plage des pirates",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000386,
+			"level_min": 51,
+			"level_max": 65
+		},
+		"title": {
+			"fr": "Caverne des Marteaux-Aigris",
+			"en": "",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000387,
+			"level_min": 36,
+			"level_max": 50
+		},
+		"title": {
+			"fr": "Plage maudite",
+			"en": "",
+			"es": "",
+			"pt": ""
 		}
 	}
 ]

@@ -72,7 +72,8 @@ def put_key_at_position(parent_key: dict, new_key: str, value, pos: int) \
 		if i == pos:
 			new_parent_key[new_key] = value
 			key_added = True
-		new_parent_key[key] = parent_key[key]
-	if not key_added: # and len(parent_key.keys()) > 0
+		if key != new_key:
+			new_parent_key[key] = parent_key[key]
+	if not key_added:
 		new_parent_key[new_key] = value
 	return new_parent_key
