@@ -27,20 +27,22 @@ def generate_ids(file: Path, is_overwrite: bool):
 			new_id =  unused_ids[i]
 		else:
 			new_id = id
+		if ("definition" in data[i] and "id" in data[i]["definition"] \
+				or "id" in data[i]) and not is_overwrite:
+			i += 1
+			continue
 		if "definition" in data[i]:
-			if "id" in data[i]["definition"] and not is_overwrite:
-				i += 1
-				continue
-			else:
-				data[i]["definition"] = put_key_at_position( \
-						data[i]["definition"], "id", new_id, 0)
-				nb_id_added += 1
-		else:
+			data[i]["definition"] = put_key_at_position( \
+					data[i]["definition"], "id", new_id, 0)
+		elif "title" in data[i]:
 			data[i] = put_key_at_position( \
 					data[i], "definition", {"id": new_id}, 0)
-			nb_id_added += 1
+		else:
+			data[i] = put_key_at_position(data[i], "id", new_id, 0)
 		if i >= len(unused_ids):
 			id += 1
+			# increase id only if there is no more unuesed id
+		nb_id_added += 1
 		i += 1
 	json_id_data["id"] = id
 	write_json_in_copy(file, data)
@@ -58,6 +60,8 @@ def check_for_unused_id(first_id: int, current_id: int) -> list:
 				for item in data:
 					if "definition" in item and "id" in item["definition"]:
 						all_ids.append(item["definition"]["id"])
+					elif "id" in item:
+						all_ids.append(item["id"])
 	unused_ids = []
 	for i in range(first_id, current_id):
 		if i not in all_ids:
@@ -67,9 +71,10 @@ def check_for_unused_id(first_id: int, current_id: int) -> list:
 def	get_ids(data: list) -> list:
 	ids = []
 	for item in data:
-		if "definition" in item:
-			if "id" in item["definition"]:
-				ids.append(item["definition"]["id"])
+		if "definition" in item and "id" in item["definition"]:
+			ids.append(item["definition"]["id"])
+		elif "id" in item:
+			ids.append(item["id"])
 	return ids
 
 def	overwrite(file: Path) -> bool:
