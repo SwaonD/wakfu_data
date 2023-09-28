@@ -1,960 +1,960 @@
 [
 	{
 		"id": 10000289,
-		"zoneName": "Krosmoz",
-		"zoneTypeId": "Universe",
+		"zoneName": 10000395,
+		"zoneTypeId": 10000415,
 		"parentId": null,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000343,
-		"zoneName": "Monde des Douze",
-		"zoneTypeId": "World",
+		"zoneName": 10000355,
+		"zoneTypeId": 10000388,
 		"parentId": 10000289,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000345,
-		"zoneName": "Amakna",
-		"zoneTypeId": "Island",
+		"zoneName": 10000239,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 36,
 		"levelMax": 110
 	},
 	{
 		"id": 10000350,
-		"zoneName": "Amakna",
-		"zoneTypeId": "Region",
+		"zoneName": 10000239,
+		"zoneTypeId": 10000390,
 		"parentId": 10000345,
 		"levelMin": 36,
 		"levelMax": 110
 	},
 	{
 		"id": 10000364,
-		"zoneName": "Plaine des Riktus",
-		"zoneTypeId": "Area",
+		"zoneName": 10000299,
+		"zoneTypeId": 10000391,
 		"parentId": 10000350,
 		"levelMin": 96,
 		"levelMax": 110
 	},
 	{
 		"id": 10000368,
-		"zoneName": "Forêt d'Emelka",
-		"zoneTypeId": "Area",
+		"zoneName": 10000275,
+		"zoneTypeId": 10000391,
 		"parentId": 10000350,
 		"levelMin": 36,
 		"levelMax": 50
 	},
 	{
 		"id": 10000369,
-		"zoneName": "Champs qui chantent",
-		"zoneTypeId": "Area",
+		"zoneName": 10000274,
+		"zoneTypeId": 10000391,
 		"parentId": 10000350,
 		"levelMin": 36,
 		"levelMax": 50
 	},
 	{
 		"id": 10000370,
-		"zoneName": "Capitale d'Amakna",
-		"zoneTypeId": "Area",
+		"zoneName": 10000392,
+		"zoneTypeId": 10000391,
 		"parentId": 10000350,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000371,
-		"zoneName": "Mine d'Amakna",
-		"zoneTypeId": "Region",
+		"zoneName": 10000344,
+		"zoneTypeId": 10000390,
 		"parentId": 10000345,
 		"levelMin": 36,
 		"levelMax": 170
 	},
 	{
 		"id": 10000365,
-		"zoneName": "Mine d'Amakna - Galeries",
-		"zoneTypeId": "Area",
+		"zoneName": 10000276,
+		"zoneTypeId": 10000391,
 		"parentId": 10000371,
 		"levelMin": 36,
 		"levelMax": 50
 	},
 	{
 		"id": 10000361,
-		"zoneName": "Mine d'Amakna - Tréfonds",
-		"zoneTypeId": "Area",
+		"zoneName": 10000314,
+		"zoneTypeId": 10000391,
 		"parentId": 10000371,
 		"levelMin": 156,
 		"levelMax": 170
 	},
 	{
 		"id": 10000372,
-		"zoneName": "Bibliotemple",
-		"zoneTypeId": "Island",
+		"zoneName": 10000346,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000373,
-		"zoneName": "Bibliotemple",
-		"zoneTypeId": "Region",
+		"zoneName": 10000346,
+		"zoneTypeId": 10000390,
 		"parentId": 10000372,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000374,
-		"zoneName": "Bibliotemple",
-		"zoneTypeId": "Area",
+		"zoneName": 10000346,
+		"zoneTypeId": 10000391,
 		"parentId": 10000373,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000375,
-		"zoneName": "Foire du Trool",
-		"zoneTypeId": "Island",
+		"zoneName": 10000347,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 81,
 		"levelMax": 95
 	},
 	{
 		"id": 10000377,
-		"zoneName": "Foire du Trool",
-		"zoneTypeId": "Region",
+		"zoneName": 10000347,
+		"zoneTypeId": 10000390,
 		"parentId": 10000375,
 		"levelMin": 81,
 		"levelMax": 95
 	},
 	{
 		"id": 10000382,
-		"zoneName": "Foire du Trool",
-		"zoneTypeId": "Area",
+		"zoneName": 10000347,
+		"zoneTypeId": 10000391,
 		"parentId": 10000377,
 		"levelMin": 81,
 		"levelMax": 95
 	},
 	{
 		"id": 10000383,
-		"zoneName": "Île de Nowel",
-		"zoneTypeId": "Region",
+		"zoneName": 10000348,
+		"zoneTypeId": 10000390,
 		"parentId": 10000375,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000385,
-		"zoneName": "Plaine de Nowel",
-		"zoneTypeId": "Area",
+		"zoneName": 10000416,
+		"zoneTypeId": 10000391,
 		"parentId": 10000383,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000386,
-		"zoneName": "Saharach",
-		"zoneTypeId": "Island",
+		"zoneName": 10000249,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 111,
 		"levelMax": 125
 	},
 	{
 		"id": 10000387,
-		"zoneName": "Saharach",
-		"zoneTypeId": "Region",
+		"zoneName": 10000249,
+		"zoneTypeId": 10000390,
 		"parentId": 10000386,
 		"levelMin": 111,
 		"levelMax": 125
 	},
 	{
 		"id": 10000398,
-		"zoneName": "Saharach",
-		"zoneTypeId": "Area",
+		"zoneName": 10000249,
+		"zoneTypeId": 10000391,
 		"parentId": 10000387,
 		"levelMin": 111,
 		"levelMax": 125
 	},
 	{
 		"id": 10000402,
-		"zoneName": "La Fungopée",
-		"zoneTypeId": "Region",
+		"zoneName": 10000306,
+		"zoneTypeId": 10000390,
 		"parentId": 10000386,
 		"levelMin": 126,
 		"levelMax": 140
 	},
 	{
 		"id": 10000403,
-		"zoneName": "La Fungopée",
-		"zoneTypeId": "Area",
+		"zoneName": 10000306,
+		"zoneTypeId": 10000391,
 		"parentId": 10000402,
 		"levelMin": 126,
 		"levelMax": 140
 	},
 	{
 		"id": 10000406,
-		"zoneName": "Ile de Rok",
-		"zoneTypeId": "Island",
+		"zoneName": 10000352,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000407,
-		"zoneName": "Ile de Rok",
-		"zoneTypeId": "Region",
+		"zoneName": 10000352,
+		"zoneTypeId": 10000390,
 		"parentId": 10000406,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000410,
-		"zoneName": "Ile de Rok",
-		"zoneTypeId": "Area",
+		"zoneName": 10000352,
+		"zoneTypeId": 10000391,
 		"parentId": 10000407,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000417,
-		"zoneName": "Rez de chaussée de l'écolte d'Huppermagie",
-		"zoneTypeId": "Region",
+		"zoneName": 10000353,
+		"zoneTypeId": 10000390,
 		"parentId": 10000406,
 		"levelMin": 126,
 		"levelMax": 140
 	},
 	{
 		"id": 10000418,
-		"zoneName": "Rez de chaussée de l'écolte d'Huppermagie",
-		"zoneTypeId": "Area",
+		"zoneName": 10000353,
+		"zoneTypeId": 10000391,
 		"parentId": 10000417,
 		"levelMin": 126,
 		"levelMax": 140
 	},
 	{
 		"id": 10000419,
-		"zoneName": "Etage de l'école d'Huppermagie",
-		"zoneTypeId": "Region",
+		"zoneName": 10000354,
+		"zoneTypeId": 10000390,
 		"parentId": 10000406,
 		"levelMin": 126,
 		"levelMax": 140
 	},
 	{
 		"id": 10000420,
-		"zoneName": "Etage de l'école d'Huppermagie",
-		"zoneTypeId": "Area",
+		"zoneName": 10000354,
+		"zoneTypeId": 10000391,
 		"parentId": 10000419,
 		"levelMin": 126,
 		"levelMax": 140
 	},
 	{
 		"id": 10000421,
-		"zoneName": "Inglorium",
-		"zoneTypeId": "World",
+		"zoneName": 10000356,
+		"zoneTypeId": 10000388,
 		"parentId": 10000289,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000422,
-		"zoneName": "Inglorium",
-		"zoneTypeId": "Island",
+		"zoneName": 10000356,
+		"zoneTypeId": 10000389,
 		"parentId": 10000421,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000423,
-		"zoneName": "Inglorium",
-		"zoneTypeId": "Region",
+		"zoneName": 10000356,
+		"zoneTypeId": 10000390,
 		"parentId": 10000422,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000424,
-		"zoneName": "Inglorium",
-		"zoneTypeId": "Area",
+		"zoneName": 10000356,
+		"zoneTypeId": 10000391,
 		"parentId": 10000423,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000425,
-		"zoneName": "Ecaflipus (Arènes)",
-		"zoneTypeId": "Island",
+		"zoneName": 10000357,
+		"zoneTypeId": 10000389,
 		"parentId": 10000421,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000426,
-		"zoneName": "Ecaflipus (Arènes)",
-		"zoneTypeId": "Region",
+		"zoneName": 10000357,
+		"zoneTypeId": 10000390,
 		"parentId": 10000425,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000427,
-		"zoneName": "Ecaflipus (Arènes)",
-		"zoneTypeId": "Area",
+		"zoneName": 10000357,
+		"zoneTypeId": 10000391,
 		"parentId": 10000426,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000428,
-		"zoneName": "Plaines d'Incarnam",
-		"zoneTypeId": "World",
+		"zoneName": 10000358,
+		"zoneTypeId": 10000388,
 		"parentId": 10000289,
 		"levelMin": 1,
 		"levelMax": 10
 	},
 	{
 		"id": 10000429,
-		"zoneName": "Plaines d'Incarnam",
-		"zoneTypeId": "Island",
+		"zoneName": 10000358,
+		"zoneTypeId": 10000389,
 		"parentId": 10000428,
 		"levelMin": 1,
 		"levelMax": 10
 	},
 	{
 		"id": 10000430,
-		"zoneName": "Plaines d'Incarnam",
-		"zoneTypeId": "Region",
+		"zoneName": 10000358,
+		"zoneTypeId": 10000390,
 		"parentId": 10000429,
 		"levelMin": 1,
 		"levelMax": 10
 	},
 	{
 		"id": 10000431,
-		"zoneName": "Plaines d'Incarnam",
-		"zoneTypeId": "Area",
+		"zoneName": 10000358,
+		"zoneTypeId": 10000391,
 		"parentId": 10000430,
 		"levelMin": 1,
 		"levelMax": 10
 	},
 	{
 		"id": 10000432,
-		"zoneName": "Récif des Shushardes",
-		"zoneTypeId": "Island",
+		"zoneName": 10000359,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 111,
 		"levelMax": 170
 	},
 	{
 		"id": 10000433,
-		"zoneName": "Récif des Shushardes",
-		"zoneTypeId": "Region",
+		"zoneName": 10000359,
+		"zoneTypeId": 10000390,
 		"parentId": 10000432,
 		"levelMin": 111,
 		"levelMax": 170
 	},
 	{
 		"id": 10000434,
-		"zoneName": "Récif des Shushardes",
-		"zoneTypeId": "Area",
+		"zoneName": 10000359,
+		"zoneTypeId": 10000391,
 		"parentId": 10000433,
 		"levelMin": 111,
 		"levelMax": 170
 	},
 	{
 		"id": 10000435,
-		"zoneName": "Kelba",
-		"zoneTypeId": "Island",
+		"zoneName": 10000240,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 66,
 		"levelMax": 80
 	},
 	{
 		"id": 10000436,
-		"zoneName": "Kelba",
-		"zoneTypeId": "Region",
+		"zoneName": 10000240,
+		"zoneTypeId": 10000390,
 		"parentId": 10000435,
 		"levelMin": 66,
 		"levelMax": 80
 	},
 	{
 		"id": 10000437,
-		"zoneName": "Pics de Kelba",
-		"zoneTypeId": "Area",
+		"zoneName": 10000284,
+		"zoneTypeId": 10000391,
 		"parentId": 10000436,
 		"levelMin": 66,
 		"levelMax": 80
 	},
 	{
 		"id": 10000438,
-		"zoneName": "Landes de Kelba",
-		"zoneTypeId": "Area",
+		"zoneName": 10000283,
+		"zoneTypeId": 10000391,
 		"parentId": 10000436,
 		"levelMin": 66,
 		"levelMax": 80
 	},
 	{
 		"id": 10000439,
-		"zoneName": "Royaume Sadida",
-		"zoneTypeId": "Island",
+		"zoneName": 10000241,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000440,
-		"zoneName": "Royaume Sadida",
-		"zoneTypeId": "Region",
+		"zoneName": 10000241,
+		"zoneTypeId": 10000390,
 		"parentId": 10000439,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000441,
-		"zoneName": "Village",
-		"zoneTypeId": "Area",
+		"zoneName": 10000400,
+		"zoneTypeId": 10000391,
 		"parentId": 10000440,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000442,
-		"zoneName": "Palais du Roi Sheran Sharm",
-		"zoneTypeId": "Area",
+		"zoneName": 10000399,
+		"zoneTypeId": 10000391,
 		"parentId": 10000440,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000443,
-		"zoneName": "Forêt Déforestée",
-		"zoneTypeId": "Area",
+		"zoneName": 10000322,
+		"zoneTypeId": 10000391,
 		"parentId": 10000440,
 		"levelMin": 186,
 		"levelMax": 200
 	},
 	{
 		"id": 10000444,
-		"zoneName": "Galeries des Gerbouilles",
-		"zoneTypeId": "Area",
+		"zoneName": 10000321,
+		"zoneTypeId": 10000391,
 		"parentId": 10000440,
 		"levelMin": 171,
 		"levelMax": 185
 	},
 	{
 		"id": 10000445,
-		"zoneName": "Colline Entoilée",
-		"zoneTypeId": "Area",
+		"zoneName": 10000288,
+		"zoneTypeId": 10000391,
 		"parentId": 10000440,
 		"levelMin": 66,
 		"levelMax": 80
 	},
 	{
 		"id": 10000446,
-		"zoneName": "Clairière des Mulous",
-		"zoneTypeId": "Area",
+		"zoneName": 10000279,
+		"zoneTypeId": 10000391,
 		"parentId": 10000440,
 		"levelMin": 66,
 		"levelMax": 80
 	},
 	{
 		"id": 10000447,
-		"zoneName": "Ile aux moines",
-		"zoneTypeId": "Island",
+		"zoneName": 10000242,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 81,
 		"levelMax": 95
 	},
 	{
 		"id": 10000448,
-		"zoneName": "Ile aux moines",
-		"zoneTypeId": "Region",
+		"zoneName": 10000242,
+		"zoneTypeId": 10000390,
 		"parentId": 10000447,
 		"levelMin": 81,
 		"levelMax": 95
 	},
 	{
 		"id": 10000449,
-		"zoneName": "Ile aux moines",
-		"zoneTypeId": "Area",
+		"zoneName": 10000242,
+		"zoneTypeId": 10000391,
 		"parentId": 10000448,
 		"levelMin": 81,
 		"levelMax": 95
 	},
 	{
 		"id": 10000450,
-		"zoneName": "Katrepat",
-		"zoneTypeId": "Island",
+		"zoneName": 10000243,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 81,
 		"levelMax": 95
 	},
 	{
 		"id": 10000451,
-		"zoneName": "Katrepat",
-		"zoneTypeId": "Region",
+		"zoneName": 10000243,
+		"zoneTypeId": 10000390,
 		"parentId": 10000450,
 		"levelMin": 81,
 		"levelMax": 95
 	},
 	{
 		"id": 10000452,
-		"zoneName": "Katrepat",
-		"zoneTypeId": "Area",
+		"zoneName": 10000243,
+		"zoneTypeId": 10000391,
 		"parentId": 10000451,
 		"levelMin": 81,
 		"levelMax": 95
 	},
 	{
 		"id": 10000453,
-		"zoneName": "Ile Sberg",
-		"zoneTypeId": "Island",
+		"zoneName": 10000244,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 81,
 		"levelMax": 125
 	},
 	{
 		"id": 10000454,
-		"zoneName": "Ile Sberg",
-		"zoneTypeId": "Region",
+		"zoneName": 10000244,
+		"zoneTypeId": 10000390,
 		"parentId": 10000453,
 		"levelMin": 81,
 		"levelMax": 125
 	},
 	{
 		"id": 10000458,
-		"zoneName": "La banquise de Sberg",
-		"zoneTypeId": "Area",
+		"zoneName": 10000401,
+		"zoneTypeId": 10000391,
 		"parentId": 10000454,
 		"levelMin": 81,
 		"levelMax": 125
 	},
 	{
 		"id": 10000459,
-		"zoneName": "Vestiges de la Crevasse Perge",
-		"zoneTypeId": "Region",
+		"zoneName": 10000360,
+		"zoneTypeId": 10000390,
 		"parentId": 10000453,
 		"levelMin": 111,
 		"levelMax": 125
 	},
 	{
 		"id": 10000457,
-		"zoneName": "Village Enseveli Enseveli",
-		"zoneTypeId": "Area",
+		"zoneName": 10000296,
+		"zoneTypeId": 10000391,
 		"parentId": 10000459,
 		"levelMin": 111,
 		"levelMax": 125
 	},
 	{
 		"id": 10000455,
-		"zoneName": "Château de Harebourg",
-		"zoneTypeId": "Region",
+		"zoneName": 10000300,
+		"zoneTypeId": 10000390,
 		"parentId": 10000453,
 		"levelMin": 111,
 		"levelMax": 125
 	},
 	{
 		"id": 10000456,
-		"zoneName": "Château de Harebourg",
-		"zoneTypeId": "Area",
+		"zoneName": 10000300,
+		"zoneTypeId": 10000391,
 		"parentId": 10000455,
 		"levelMin": 111,
 		"levelMax": 125
 	},
 	{
 		"id": 10000460,
-		"zoneName": "Tour Minérale",
-		"zoneTypeId": "Island",
+		"zoneName": 10000362,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000461,
-		"zoneName": "Tour Minérale",
-		"zoneTypeId": "Region",
+		"zoneName": 10000362,
+		"zoneTypeId": 10000390,
 		"parentId": 10000460,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000462,
-		"zoneName": "Tour Minérale",
-		"zoneTypeId": "Area",
+		"zoneName": 10000362,
+		"zoneTypeId": 10000391,
 		"parentId": 10000461,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000463,
-		"zoneName": "Bilbyza",
-		"zoneTypeId": "Island",
+		"zoneName": 10000245,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 81,
 		"levelMax": 110
 	},
 	{
 		"id": 10000464,
-		"zoneName": "Bilbyza",
-		"zoneTypeId": "Region",
+		"zoneName": 10000245,
+		"zoneTypeId": 10000390,
 		"parentId": 10000463,
 		"levelMin": 81,
 		"levelMax": 110
 	},
 	{
 		"id": 10000465,
-		"zoneName": "Costa Del Gelax",
-		"zoneTypeId": "Area",
+		"zoneName": 10000291,
+		"zoneTypeId": 10000391,
 		"parentId": 10000464,
 		"levelMin": 81,
 		"levelMax": 110
 	},
 	{
 		"id": 10000466,
-		"zoneName": "Galaxième Dimension",
-		"zoneTypeId": "Region",
+		"zoneName": 10000363,
+		"zoneTypeId": 10000390,
 		"parentId": 10000463,
 		"levelMin": 96,
 		"levelMax": 110
 	},
 	{
 		"id": 10000467,
-		"zoneName": "Antichambre de la fête",
-		"zoneTypeId": "Area",
+		"zoneName": 10000411,
+		"zoneTypeId": 10000391,
 		"parentId": 10000466,
 		"levelMin": 96,
 		"levelMax": 110
 	},
 	{
 		"id": 10000468,
-		"zoneName": "Royaume Chuchoku",
-		"zoneTypeId": "Island",
+		"zoneName": 10000246,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 96,
 		"levelMax": 215
 	},
 	{
 		"id": 10000469,
-		"zoneName": "Royaume Chuchoku",
-		"zoneTypeId": "Region",
+		"zoneName": 10000246,
+		"zoneTypeId": 10000390,
 		"parentId": 10000468,
 		"levelMin": 96,
 		"levelMax": 215
 	},
 	{
 		"id": 10000475,
-		"zoneName": "Chuchoplaine",
-		"zoneTypeId": "Area",
+		"zoneName": 10000297,
+		"zoneTypeId": 10000391,
 		"parentId": 10000469,
 		"levelMin": 96,
 		"levelMax": 110
 	},
 	{
 		"id": 10000472,
-		"zoneName": "Toundra",
-		"zoneTypeId": "Area",
+		"zoneName": 10000334,
+		"zoneTypeId": 10000391,
 		"parentId": 10000469,
 		"levelMin": 201,
 		"levelMax": 215
 	},
 	{
 		"id": 10000470,
-		"zoneName": "Banquise des Mansots",
-		"zoneTypeId": "Region",
+		"zoneName": 10000335,
+		"zoneTypeId": 10000390,
 		"parentId": 10000468,
 		"levelMin": 201,
 		"levelMax": 215
 	},
 	{
 		"id": 10000471,
-		"zoneName": "Banquise des Mansots",
-		"zoneTypeId": "Area",
+		"zoneName": 10000335,
+		"zoneTypeId": 10000391,
 		"parentId": 10000470,
 		"levelMin": 201,
 		"levelMax": 215
 	},
 	{
 		"id": 10000473,
-		"zoneName": "Intérieur de Grampar",
-		"zoneTypeId": "Region",
+		"zoneName": 10000333,
+		"zoneTypeId": 10000390,
 		"parentId": 10000468,
 		"levelMin": 201,
 		"levelMax": 215
 	},
 	{
 		"id": 10000474,
-		"zoneName": "Intérieur de Grampar",
-		"zoneTypeId": "Area",
+		"zoneName": 10000333,
+		"zoneTypeId": 10000391,
 		"parentId": 10000473,
 		"levelMin": 201,
 		"levelMax": 215
 	},
 	{
 		"id": 10000476,
-		"zoneName": "Ile des Wabbits",
-		"zoneTypeId": "Island",
+		"zoneName": 10000247,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 126,
 		"levelMax": 155
 	},
 	{
 		"id": 10000477,
-		"zoneName": "Ile des Wabbits",
-		"zoneTypeId": "Region",
+		"zoneName": 10000247,
+		"zoneTypeId": 10000390,
 		"parentId": 10000476,
 		"levelMin": 126,
 		"levelMax": 155
 	},
 	{
 		"id": 10000478,
-		"zoneName": "Fowtewesse du Wa",
-		"zoneTypeId": "Area",
+		"zoneName": 10000309,
+		"zoneTypeId": 10000391,
 		"parentId": 10000477,
 		"levelMin": 141,
 		"levelMax": 155
 	},
 	{
 		"id": 10000479,
-		"zoneName": "Glosse Calotte",
-		"zoneTypeId": "Area",
+		"zoneName": 10000305,
+		"zoneTypeId": 10000391,
 		"parentId": 10000477,
 		"levelMin": 126,
 		"levelMax": 140
 	},
 	{
 		"id": 10000480,
-		"zoneName": "Souterrains Wabbit",
-		"zoneTypeId": "Region",
+		"zoneName": 10000366,
+		"zoneTypeId": 10000390,
 		"parentId": 10000476,
 		"levelMin": 126,
 		"levelMax": 155
 	},
 	{
 		"id": 10000481,
-		"zoneName": "Soutewwains Mowbides",
-		"zoneTypeId": "Area",
+		"zoneName": 10000304,
+		"zoneTypeId": 10000391,
 		"parentId": 10000480,
 		"levelMin": 126,
 		"levelMax": 155
 	},
 	{
 		"id": 10000482,
-		"zoneName": "Domaine Sauvage",
-		"zoneTypeId": "Island",
+		"zoneName": 10000248,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 51,
 		"levelMax": 65
 	},
 	{
 		"id": 10000483,
-		"zoneName": "Domaine Sauvage",
-		"zoneTypeId": "Region",
+		"zoneName": 10000248,
+		"zoneTypeId": 10000390,
 		"parentId": 10000482,
 		"levelMin": 51,
 		"levelMax": 65
 	},
 	{
 		"id": 10000484,
-		"zoneName": "Domaine Sauvage",
-		"zoneTypeId": "Area",
+		"zoneName": 10000248,
+		"zoneTypeId": 10000391,
 		"parentId": 10000483,
 		"levelMin": 51,
 		"levelMax": 65
 	},
 	{
 		"id": 10000485,
-		"zoneName": "Enutrosor",
-		"zoneTypeId": "Island",
+		"zoneName": 10000250,
+		"zoneTypeId": 10000389,
 		"parentId": 10000421,
 		"levelMin": 141,
 		"levelMax": 155
 	},
 	{
 		"id": 10000486,
-		"zoneName": "Enutrosor",
-		"zoneTypeId": "Region",
+		"zoneName": 10000250,
+		"zoneTypeId": 10000390,
 		"parentId": 10000485,
 		"levelMin": 141,
 		"levelMax": 155
 	},
 	{
 		"id": 10000487,
-		"zoneName": "Enutrosor",
-		"zoneTypeId": "Area",
+		"zoneName": 10000250,
+		"zoneTypeId": 10000391,
 		"parentId": 10000486,
 		"levelMin": 141,
 		"levelMax": 155
 	},
 	{
 		"id": 10000488,
-		"zoneName": "Astrub",
-		"zoneTypeId": "Island",
+		"zoneName": 10000251,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 6,
 		"levelMax": 35
 	},
 	{
 		"id": 10000489,
-		"zoneName": "Astrub",
-		"zoneTypeId": "Region",
+		"zoneName": 10000251,
+		"zoneTypeId": 10000390,
 		"parentId": 10000488,
 		"levelMin": 6,
 		"levelMax": 35
 	},
 	{
 		"id": 10000490,
-		"zoneName": "Montagnes d'Astrub",
-		"zoneTypeId": "Area",
+		"zoneName": 10000273,
+		"zoneTypeId": 10000391,
 		"parentId": 10000489,
 		"levelMin": 21,
 		"levelMax": 35
 	},
 	{
 		"id": 10000491,
-		"zoneName": "Forêt d'Astrub",
-		"zoneTypeId": "Area",
+		"zoneName": 10000272,
+		"zoneTypeId": 10000391,
 		"parentId": 10000489,
 		"levelMin": 21,
 		"levelMax": 35
 	},
 	{
 		"id": 10000492,
-		"zoneName": "Hameau des Pêcheurs",
-		"zoneTypeId": "Area",
+		"zoneName": 10000393,
+		"zoneTypeId": 10000391,
 		"parentId": 10000489,
 		"levelMin": 6,
 		"levelMax": 20
 	},
 	{
 		"id": 10000493,
-		"zoneName": "Plaines d'Astrub",
-		"zoneTypeId": "Area",
+		"zoneName": 10000271,
+		"zoneTypeId": 10000391,
 		"parentId": 10000489,
 		"levelMin": 6,
 		"levelMax": 20
 	},
 	{
 		"id": 10000494,
-		"zoneName": "Cimetière d'Astrub",
-		"zoneTypeId": "Area",
+		"zoneName": 10000270,
+		"zoneTypeId": 10000391,
 		"parentId": 10000489,
 		"levelMin": 6,
 		"levelMax": 20
 	},
 	{
 		"id": 10000495,
-		"zoneName": "Tainela",
-		"zoneTypeId": "Area",
+		"zoneName": 10000269,
+		"zoneTypeId": 10000391,
 		"parentId": 10000489,
 		"levelMin": 6,
 		"levelMax": 20
 	},
 	{
 		"id": 10000496,
-		"zoneName": "Champs d'Astrub",
-		"zoneTypeId": "Area",
+		"zoneName": 10000268,
+		"zoneTypeId": 10000391,
 		"parentId": 10000489,
 		"levelMin": 6,
 		"levelMax": 20
 	},
 	{
 		"id": 10000497,
-		"zoneName": "Cité d'Astrub",
-		"zoneTypeId": "Area",
+		"zoneName": 10000394,
+		"zoneTypeId": 10000391,
 		"parentId": 10000489,
 		"levelMin": 6,
 		"levelMax": 12
 	},
 	{
 		"id": 10000498,
-		"zoneName": "Egouts d'Astrub",
-		"zoneTypeId": "Region",
+		"zoneName": 10000267,
+		"zoneTypeId": 10000390,
 		"parentId": 10000488,
 		"levelMin": 6,
 		"levelMax": 20
 	},
 	{
 		"id": 10000499,
-		"zoneName": "Egouts d'Astrub",
-		"zoneTypeId": "Area",
+		"zoneName": 10000267,
+		"zoneTypeId": 10000391,
 		"parentId": 10000498,
 		"levelMin": 6,
 		"levelMax": 20
 	},
 	{
 		"id": 10000500,
-		"zoneName": "Xélorium - Passé",
-		"zoneTypeId": "Island",
+		"zoneName": 10000252,
+		"zoneTypeId": 10000389,
 		"parentId": 10000421,
 		"levelMin": 156,
 		"levelMax": 170
 	},
 	{
 		"id": 10000501,
-		"zoneName": "Xélorium - Passé",
-		"zoneTypeId": "Region",
+		"zoneName": 10000252,
+		"zoneTypeId": 10000390,
 		"parentId": 10000500,
 		"levelMin": 156,
 		"levelMax": 170
 	},
 	{
 		"id": 10000502,
-		"zoneName": "Xélorium - Passé",
-		"zoneTypeId": "Area",
+		"zoneName": 10000252,
+		"zoneTypeId": 10000391,
 		"parentId": 10000501,
 		"levelMin": 156,
 		"levelMax": 170
 	},
 	{
 		"id": 10000503,
-		"zoneName": "Xélorium - Présent",
-		"zoneTypeId": "Island",
+		"zoneName": 10000253,
+		"zoneTypeId": 10000389,
 		"parentId": 10000421,
 		"levelMin": 156,
 		"levelMax": 170
 	},
 	{
 		"id": 10000504,
-		"zoneName": "Xélorium - Présent",
-		"zoneTypeId": "Region",
+		"zoneName": 10000253,
+		"zoneTypeId": 10000390,
 		"parentId": 10000503,
 		"levelMin": 156,
 		"levelMax": 170
 	},
 	{
 		"id": 10000505,
-		"zoneName": "Xélorium - Présent",
-		"zoneTypeId": "Area",
+		"zoneName": 10000253,
+		"zoneTypeId": 10000391,
 		"parentId": 10000504,
 		"levelMin": 156,
 		"levelMax": 170
 	},
 	{
 		"id": 10000506,
-		"zoneName": "Moon",
-		"zoneTypeId": "Island",
+		"zoneName": 10000254,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 171,
 		"levelMax": 185
 	},
 	{
 		"id": 10000507,
-		"zoneName": "Moon",
-		"zoneTypeId": "Region",
+		"zoneName": 10000254,
+		"zoneTypeId": 10000390,
 		"parentId": 10000506,
 		"levelMin": 171,
 		"levelMax": 185
 	},
 	{
 		"id": 10000508,
-		"zoneName": "Jungle de Moon",
-		"zoneTypeId": "Area",
+		"zoneName": 10000319,
+		"zoneTypeId": 10000391,
 		"parentId": 10000507,
 		"levelMin": 171,
 		"levelMax": 185
 	},
 	{
 		"id": 10000509,
-		"zoneName": "Plage de Moon",
-		"zoneTypeId": "Area",
+		"zoneName": 10000317,
+		"zoneTypeId": 10000391,
 		"parentId": 10000507,
 		"levelMin": 171,
 		"levelMax": 185
@@ -962,7 +962,7 @@
 	{
 		"id": 10000404,
 		"zoneName": "Sous Terrains de l'île de Moon",
-		"zoneTypeId": "Region",
+		"zoneTypeId": 10000390,
 		"parentId": 10000506,
 		"levelMin": 171,
 		"levelMax": 185
@@ -970,831 +970,831 @@
 	{
 		"id": 10000405,
 		"zoneName": "Sous Terrains de l'île de Moon",
-		"zoneTypeId": "Area",
+		"zoneTypeId": 10000391,
 		"parentId": 10000404,
 		"levelMin": 171,
 		"levelMax": 185
 	},
 	{
 		"id": 10000512,
-		"zoneName": "Mont Zinit",
-		"zoneTypeId": "Island",
+		"zoneName": 10000256,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000513,
-		"zoneName": "Haut Flanc",
-		"zoneTypeId": "Region",
+		"zoneName": 10000255,
+		"zoneTypeId": 10000390,
 		"parentId": 10000512,
 		"levelMin": 156,
 		"levelMax": 200
 	},
 	{
 		"id": 10000514,
-		"zoneName": "Haut Flanc - Sbires de Kali",
-		"zoneTypeId": "Area",
+		"zoneName": 10000312,
+		"zoneTypeId": 10000391,
 		"parentId": 10000513,
 		"levelMin": 156,
 		"levelMax": 170
 	},
 	{
 		"id": 10000515,
-		"zoneName": "Haut Flanc - Blérox",
-		"zoneTypeId": "Area",
+		"zoneName": 10000324,
+		"zoneTypeId": 10000391,
 		"parentId": 10000513,
 		"levelMin": 186,
 		"levelMax": 200
 	},
 	{
 		"id": 10000516,
-		"zoneName": "Grotte du Dor'Mor",
-		"zoneTypeId": "Region",
+		"zoneName": 10000325,
+		"zoneTypeId": 10000390,
 		"parentId": 10000512,
 		"levelMin": 186,
 		"levelMax": 200
 	},
 	{
 		"id": 10000517,
-		"zoneName": "Grotte du Dor'Mor",
-		"zoneTypeId": "Area",
+		"zoneName": 10000325,
+		"zoneTypeId": 10000391,
 		"parentId": 10000516,
 		"levelMin": 186,
 		"levelMax": 200
 	},
 	{
 		"id": 10000518,
-		"zoneName": "Grotte Slek",
-		"zoneTypeId": "Region",
+		"zoneName": 10000292,
+		"zoneTypeId": 10000390,
 		"parentId": 10000512,
 		"levelMin": 81,
 		"levelMax": 95
 	},
 	{
 		"id": 10000519,
-		"zoneName": "Grotte Slek",
-		"zoneTypeId": "Area",
+		"zoneName": 10000292,
+		"zoneTypeId": 10000391,
 		"parentId": 10000518,
 		"levelMin": 81,
 		"levelMax": 95
 	},
 	{
 		"id": 10000520,
-		"zoneName": "Plage Sauvage",
-		"zoneTypeId": "Region",
+		"zoneName": 10000280,
+		"zoneTypeId": 10000390,
 		"parentId": 10000512,
 		"levelMin": 51,
 		"levelMax": 65
 	},
 	{
 		"id": 10000521,
-		"zoneName": "Plage Sauvage",
-		"zoneTypeId": "Area",
+		"zoneName": 10000280,
+		"zoneTypeId": 10000391,
 		"parentId": 10000520,
 		"levelMin": 51,
 		"levelMax": 65
 	},
 	{
 		"id": 10000522,
-		"zoneName": "Plage du Zinit",
-		"zoneTypeId": "Region",
+		"zoneName": 10000367,
+		"zoneTypeId": 10000390,
 		"parentId": 10000512,
 		"levelMin": 21,
 		"levelMax": 35
 	},
 	{
 		"id": 10000523,
-		"zoneName": "Plage du Zinit",
-		"zoneTypeId": "Area",
+		"zoneName": 10000367,
+		"zoneTypeId": 10000391,
 		"parentId": 10000522,
 		"levelMin": 21,
 		"levelMax": 35
 	},
 	{
 		"id": 10000524,
-		"zoneName": "Bas Flanc",
-		"zoneTypeId": "Region",
+		"zoneName": 10000257,
+		"zoneTypeId": 10000390,
 		"parentId": 10000512,
 		"levelMin": 111,
 		"levelMax": 140
 	},
 	{
 		"id": 10000525,
-		"zoneName": "Bas Flanc - Phorreurs",
-		"zoneTypeId": "Area",
+		"zoneName": 10000307,
+		"zoneTypeId": 10000391,
 		"parentId": 10000524,
 		"levelMin": 126,
 		"levelMax": 140
 	},
 	{
 		"id": 10000526,
-		"zoneName": "Bas Flanc - Smares",
-		"zoneTypeId": "Area",
+		"zoneName": 10000301,
+		"zoneTypeId": 10000391,
 		"parentId": 10000524,
 		"levelMin": 111,
 		"levelMax": 125
 	},
 	{
 		"id": 10000527,
-		"zoneName": "Sommet",
-		"zoneTypeId": "Region",
+		"zoneName": 10000258,
+		"zoneTypeId": 10000390,
 		"parentId": 10000512,
 		"levelMin": 186,
 		"levelMax": 200
 	},
 	{
 		"id": 10000528,
-		"zoneName": "Sommet - Ethernels",
-		"zoneTypeId": "Area",
+		"zoneName": 10000326,
+		"zoneTypeId": 10000391,
 		"parentId": 10000527,
 		"levelMin": 186,
 		"levelMax": 200
 	},
 	{
 		"id": 10000529,
-		"zoneName": "Sommet - Dragoeufs",
-		"zoneTypeId": "Area",
+		"zoneName": 10000323,
+		"zoneTypeId": 10000391,
 		"parentId": 10000527,
 		"levelMin": 186,
 		"levelMax": 200
 	},
 	{
 		"id": 10000530,
-		"zoneName": "Srambad",
-		"zoneTypeId": "Island",
+		"zoneName": 10000259,
+		"zoneTypeId": 10000389,
 		"parentId": 10000421,
 		"levelMin": 141,
 		"levelMax": 155
 	},
 	{
 		"id": 10000531,
-		"zoneName": "Srambad",
-		"zoneTypeId": "Region",
+		"zoneName": 10000259,
+		"zoneTypeId": 10000390,
 		"parentId": 10000530,
 		"levelMin": 141,
 		"levelMax": 155
 	},
 	{
 		"id": 10000532,
-		"zoneName": "Srambad",
-		"zoneTypeId": "Area",
+		"zoneName": 10000259,
+		"zoneTypeId": 10000391,
 		"parentId": 10000531,
 		"levelMin": 141,
 		"levelMax": 155
 	},
 	{
 		"id": 10000533,
-		"zoneName": "Shukrute",
-		"zoneTypeId": "World",
+		"zoneName": 10000260,
+		"zoneTypeId": 10000388,
 		"parentId": 10000289,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000534,
-		"zoneName": "Route des morts",
-		"zoneTypeId": "Island",
+		"zoneName": 10000340,
+		"zoneTypeId": 10000389,
 		"parentId": 10000533,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000535,
-		"zoneName": "Route des morts",
-		"zoneTypeId": "Region",
+		"zoneName": 10000340,
+		"zoneTypeId": 10000390,
 		"parentId": 10000534,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000536,
-		"zoneName": "Route des morts",
-		"zoneTypeId": "Area",
+		"zoneName": 10000340,
+		"zoneTypeId": 10000391,
 		"parentId": 10000535,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000537,
-		"zoneName": "Citadelle de l'horreur",
-		"zoneTypeId": "Island",
+		"zoneName": 10000338,
+		"zoneTypeId": 10000389,
 		"parentId": 10000533,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000538,
-		"zoneName": "Citadelle de l'horreur",
-		"zoneTypeId": "Region",
+		"zoneName": 10000338,
+		"zoneTypeId": 10000390,
 		"parentId": 10000537,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000539,
-		"zoneName": "Citadelle de l'horreur",
-		"zoneTypeId": "Area",
+		"zoneName": 10000338,
+		"zoneTypeId": 10000391,
 		"parentId": 10000538,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000540,
-		"zoneName": "Spirale du vide",
-		"zoneTypeId": "Island",
+		"zoneName": 10000337,
+		"zoneTypeId": 10000389,
 		"parentId": 10000533,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000541,
-		"zoneName": "Spirale du vide",
-		"zoneTypeId": "Region",
+		"zoneName": 10000337,
+		"zoneTypeId": 10000390,
 		"parentId": 10000540,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000542,
-		"zoneName": "Spirale du vide",
-		"zoneTypeId": "Area",
+		"zoneName": 10000337,
+		"zoneTypeId": 10000391,
 		"parentId": 10000541,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000543,
-		"zoneName": "Royaume du désespoir",
-		"zoneTypeId": "Island",
+		"zoneName": 10000336,
+		"zoneTypeId": 10000389,
 		"parentId": 10000533,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000544,
-		"zoneName": "Royaume du désespoir",
-		"zoneTypeId": "Region",
+		"zoneName": 10000336,
+		"zoneTypeId": 10000390,
 		"parentId": 10000543,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000545,
-		"zoneName": "Royaume du désespoir",
-		"zoneTypeId": "Area",
+		"zoneName": 10000336,
+		"zoneTypeId": 10000391,
 		"parentId": 10000544,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000546,
-		"zoneName": "Territoire de Sthulhu",
-		"zoneTypeId": "Island",
+		"zoneName": 10000298,
+		"zoneTypeId": 10000389,
 		"parentId": 10000533,
 		"levelMin": 111,
 		"levelMax": 170
 	},
 	{
 		"id": 10000547,
-		"zoneName": "Territoire de Sthulhu",
-		"zoneTypeId": "Region",
+		"zoneName": 10000298,
+		"zoneTypeId": 10000390,
 		"parentId": 10000546,
 		"levelMin": 111,
 		"levelMax": 170
 	},
 	{
 		"id": 10000548,
-		"zoneName": "Territoire de Sthulhu",
-		"zoneTypeId": "Area",
+		"zoneName": 10000298,
+		"zoneTypeId": 10000391,
 		"parentId": 10000547,
 		"levelMin": 111,
 		"levelMax": 170
 	},
 	{
 		"id": 10000549,
-		"zoneName": "Démentia",
-		"zoneTypeId": "Island",
+		"zoneName": 10000339,
+		"zoneTypeId": 10000389,
 		"parentId": 10000533,
 		"levelMin": 4541,
 		"levelMax": 12002
 	},
 	{
 		"id": 10000550,
-		"zoneName": "Démentia",
-		"zoneTypeId": "Region",
+		"zoneName": 10000339,
+		"zoneTypeId": 10000390,
 		"parentId": 10000549,
 		"levelMin": 4541,
 		"levelMax": 12002
 	},
 	{
 		"id": 10000551,
-		"zoneName": "Démentia",
-		"zoneTypeId": "Area",
+		"zoneName": 10000339,
+		"zoneTypeId": 10000391,
 		"parentId": 10000550,
 		"levelMin": 4541,
 		"levelMax": 12002
 	},
 	{
 		"id": 10000552,
-		"zoneName": "Croisée des âmes déchues",
-		"zoneTypeId": "Island",
+		"zoneName": 10000376,
+		"zoneTypeId": 10000389,
 		"parentId": 10000533,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000553,
-		"zoneName": "Croisée des âmes déchues",
-		"zoneTypeId": "Region",
+		"zoneName": 10000376,
+		"zoneTypeId": 10000390,
 		"parentId": 10000552,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000554,
-		"zoneName": "Croisée des âmes déchues",
-		"zoneTypeId": "Area",
+		"zoneName": 10000376,
+		"zoneTypeId": 10000391,
 		"parentId": 10000553,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000555,
-		"zoneName": "Palais de Rushu",
-		"zoneTypeId": "Island",
+		"zoneName": 10000378,
+		"zoneTypeId": 10000389,
 		"parentId": 10000533,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000556,
-		"zoneName": "Palais de Rushu",
-		"zoneTypeId": "Region",
+		"zoneName": 10000378,
+		"zoneTypeId": 10000390,
 		"parentId": 10000555,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000557,
-		"zoneName": "Palais de Rushu",
-		"zoneTypeId": "Area",
+		"zoneName": 10000378,
+		"zoneTypeId": 10000391,
 		"parentId": 10000556,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000558,
-		"zoneName": "Bonta",
-		"zoneTypeId": "Island",
+		"zoneName": 10000261,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 66,
 		"levelMax": 140
 	},
 	{
 		"id": 10000559,
-		"zoneName": "Bonta",
-		"zoneTypeId": "Region",
+		"zoneName": 10000261,
+		"zoneTypeId": 10000390,
 		"parentId": 10000558,
 		"levelMin": 66,
 		"levelMax": 140
 	},
 	{
 		"id": 10000560,
-		"zoneName": "Capitale de Bonta",
-		"zoneTypeId": "Area",
+		"zoneName": 10000409,
+		"zoneTypeId": 10000391,
 		"parentId": 10000559,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000561,
-		"zoneName": "Fourré de Tonkult",
-		"zoneTypeId": "Area",
+		"zoneName": 10000308,
+		"zoneTypeId": 10000391,
 		"parentId": 10000559,
 		"levelMin": 126,
 		"levelMax": 140
 	},
 	{
 		"id": 10000562,
-		"zoneName": "Kara",
-		"zoneTypeId": "Area",
+		"zoneName": 10000286,
+		"zoneTypeId": 10000391,
 		"parentId": 10000559,
 		"levelMin": 66,
 		"levelMax": 80
 	},
 	{
 		"id": 10000563,
-		"zoneName": "Plaines de Cania",
-		"zoneTypeId": "Area",
+		"zoneName": 10000285,
+		"zoneTypeId": 10000391,
 		"parentId": 10000559,
 		"levelMin": 66,
 		"levelMax": 80
 	},
 	{
 		"id": 10000564,
-		"zoneName": "Mine de Bonta",
-		"zoneTypeId": "Region",
+		"zoneName": 10000379,
+		"zoneTypeId": 10000390,
 		"parentId": 10000558,
 		"levelMin": 66,
 		"levelMax": 170
 	},
 	{
 		"id": 10000565,
-		"zoneName": "Mine de Bonta - Galeries",
-		"zoneTypeId": "Area",
+		"zoneName": 10000287,
+		"zoneTypeId": 10000391,
 		"parentId": 10000564,
 		"levelMin": 66,
 		"levelMax": 80
 	},
 	{
 		"id": 10000566,
-		"zoneName": "Mine de Bonta - Tréfonds",
-		"zoneTypeId": "Area",
+		"zoneName": 10000313,
+		"zoneTypeId": 10000391,
 		"parentId": 10000564,
 		"levelMin": 156,
 		"levelMax": 170
 	},
 	{
 		"id": 10000567,
-		"zoneName": "Sufokia",
-		"zoneTypeId": "Island",
+		"zoneName": 10000262,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 51,
 		"levelMax": 126
 	},
 	{
 		"id": 10000568,
-		"zoneName": "Sufokia",
-		"zoneTypeId": "Region",
+		"zoneName": 10000262,
+		"zoneTypeId": 10000390,
 		"parentId": 10000567,
 		"levelMin": 51,
 		"levelMax": 126
 	},
 	{
 		"id": 10000569,
-		"zoneName": "Capitale de Sufokia",
-		"zoneTypeId": "Area",
+		"zoneName": 10000412,
+		"zoneTypeId": 10000391,
 		"parentId": 10000568,
 		"levelMin": 51,
 		"levelMax": 126
 	},
 	{
 		"id": 10000570,
-		"zoneName": "Montagne des Flaqueux",
-		"zoneTypeId": "Area",
+		"zoneName": 10000302,
+		"zoneTypeId": 10000391,
 		"parentId": 10000568,
 		"levelMin": 111,
 		"levelMax": 125
 	},
 	{
 		"id": 10000571,
-		"zoneName": "Dune Kane",
-		"zoneTypeId": "Area",
+		"zoneName": 10000281,
+		"zoneTypeId": 10000391,
 		"parentId": 10000568,
 		"levelMin": 51,
 		"levelMax": 65
 	},
 	{
 		"id": 10000572,
-		"zoneName": "Mine de Sufokia",
-		"zoneTypeId": "Region",
+		"zoneName": 10000380,
+		"zoneTypeId": 10000390,
 		"parentId": 10000567,
 		"levelMin": 111,
 		"levelMax": 170
 	},
 	{
 		"id": 10000573,
-		"zoneName": "Mine de Sufokia - Galeries",
-		"zoneTypeId": "Area",
+		"zoneName": 10000303,
+		"zoneTypeId": 10000391,
 		"parentId": 10000572,
 		"levelMin": 111,
 		"levelMax": 125
 	},
 	{
 		"id": 10000574,
-		"zoneName": "Mine de Sufokia - Tréfonds",
-		"zoneTypeId": "Area",
+		"zoneName": 10000315,
+		"zoneTypeId": 10000391,
 		"parentId": 10000572,
 		"levelMin": 156,
 		"levelMax": 170
 	},
 	{
 		"id": 10000575,
-		"zoneName": "Brâkmar",
-		"zoneTypeId": "Island",
+		"zoneName": 10000263,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 81,
 		"levelMax": 155
 	},
 	{
 		"id": 10000576,
-		"zoneName": "Brâkmar",
-		"zoneTypeId": "Region",
+		"zoneName": 10000263,
+		"zoneTypeId": 10000390,
 		"parentId": 10000575,
 		"levelMin": 81,
 		"levelMax": 155
 	},
 	{
 		"id": 10000577,
-		"zoneName": "Capitale de Brâkmar",
-		"zoneTypeId": "Area",
+		"zoneName": 10000408,
+		"zoneTypeId": 10000391,
 		"parentId": 10000576,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000578,
-		"zoneName": "Macheville",
-		"zoneTypeId": "Area",
+		"zoneName": 10000310,
+		"zoneTypeId": 10000391,
 		"parentId": 10000576,
 		"levelMin": 141,
 		"levelMax": 155
 	},
 	{
 		"id": 10000579,
-		"zoneName": "Landes de Sidimote",
-		"zoneTypeId": "Area",
+		"zoneName": 10000294,
+		"zoneTypeId": 10000391,
 		"parentId": 10000576,
 		"levelMin": 81,
 		"levelMax": 95
 	},
 	{
 		"id": 10000580,
-		"zoneName": "Champs Pabong",
-		"zoneTypeId": "Area",
+		"zoneName": 10000293,
+		"zoneTypeId": 10000391,
 		"parentId": 10000576,
 		"levelMin": 81,
 		"levelMax": 95
 	},
 	{
 		"id": 10000581,
-		"zoneName": "Mine de Brâkmar",
-		"zoneTypeId": "Region",
+		"zoneName": 10000381,
+		"zoneTypeId": 10000390,
 		"parentId": 10000575,
 		"levelMin": 81,
 		"levelMax": 170
 	},
 	{
 		"id": 10000582,
-		"zoneName": "Mine de Brâkmar - Galeries",
-		"zoneTypeId": "Area",
+		"zoneName": 10000295,
+		"zoneTypeId": 10000391,
 		"parentId": 10000581,
 		"levelMin": 81,
 		"levelMax": 95
 	},
 	{
 		"id": 10000583,
-		"zoneName": "Mine de Brâkmar - Tréfonds",
-		"zoneTypeId": "Area",
+		"zoneName": 10000316,
+		"zoneTypeId": 10000391,
 		"parentId": 10000581,
 		"levelMin": 156,
 		"levelMax": 170
 	},
 	{
 		"id": 10000584,
-		"zoneName": "Vallée de la Pandalousie",
-		"zoneTypeId": "Island",
+		"zoneName": 10000264,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000585,
-		"zoneName": "Vallée de la Pandalousie",
-		"zoneTypeId": "Region",
+		"zoneName": 10000264,
+		"zoneTypeId": 10000390,
 		"parentId": 10000584,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000586,
-		"zoneName": "Port de Chendu",
-		"zoneTypeId": "Area",
+		"zoneName": 10000396,
+		"zoneTypeId": 10000391,
 		"parentId": 10000585,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000587,
-		"zoneName": "Sommet des Mille Brumes",
-		"zoneTypeId": "Area",
+		"zoneName": 10000397,
+		"zoneTypeId": 10000391,
 		"parentId": 10000585,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000588,
-		"zoneName": "Cimetière",
-		"zoneTypeId": "Area",
+		"zoneName": 10000328,
+		"zoneTypeId": 10000391,
 		"parentId": 10000585,
 		"levelMin": 186,
 		"levelMax": 200
 	},
 	{
 		"id": 10000589,
-		"zoneName": "Forêt Calcinée",
-		"zoneTypeId": "Area",
+		"zoneName": 10000327,
+		"zoneTypeId": 10000391,
 		"parentId": 10000585,
 		"levelMin": 186,
 		"levelMax": 200
 	},
 	{
 		"id": 10000590,
-		"zoneName": "Village des Pandissans",
-		"zoneTypeId": "Area",
+		"zoneName": 10000320,
+		"zoneTypeId": 10000391,
 		"parentId": 10000585,
 		"levelMin": 171,
 		"levelMax": 185
 	},
 	{
 		"id": 10000591,
-		"zoneName": "Marais Salé",
-		"zoneTypeId": "Area",
+		"zoneName": 10000311,
+		"zoneTypeId": 10000391,
 		"parentId": 10000585,
 		"levelMin": 141,
 		"levelMax": 155
 	},
 	{
 		"id": 10000592,
-		"zoneName": "Mines de la Pandalousie",
-		"zoneTypeId": "Region",
+		"zoneName": 10000349,
+		"zoneTypeId": 10000390,
 		"parentId": 10000584,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000593,
-		"zoneName": "Mines de la Pandalousie",
-		"zoneTypeId": "Area",
+		"zoneName": 10000349,
+		"zoneTypeId": 10000391,
 		"parentId": 10000592,
 		"levelMin": 1,
 		"levelMax": 230
 	},
 	{
 		"id": 10000594,
-		"zoneName": "Osamosa",
-		"zoneTypeId": "Island",
+		"zoneName": 10000265,
+		"zoneTypeId": 10000389,
 		"parentId": 10000421,
 		"levelMin": 201,
 		"levelMax": 215
 	},
 	{
 		"id": 10000595,
-		"zoneName": "Osamosa",
-		"zoneTypeId": "Region",
+		"zoneName": 10000265,
+		"zoneTypeId": 10000390,
 		"parentId": 10000594,
 		"levelMin": 201,
 		"levelMax": 215
 	},
 	{
 		"id": 10000596,
-		"zoneName": "Laboratoire d'Osamodas",
-		"zoneTypeId": "Area",
+		"zoneName": 10000413,
+		"zoneTypeId": 10000391,
 		"parentId": 10000595,
 		"levelMin": 201,
 		"levelMax": 215
 	},
 	{
 		"id": 10000597,
-		"zoneName": "Îlot des Voyageurs Dimensionnels",
-		"zoneTypeId": "Area",
+		"zoneName": 10000414,
+		"zoneTypeId": 10000391,
 		"parentId": 10000595,
 		"levelMin": 201,
 		"levelMax": 215
 	},
 	{
 		"id": 10000598,
-		"zoneName": "Aile Glaciaire",
-		"zoneTypeId": "Area",
+		"zoneName": 10000332,
+		"zoneTypeId": 10000391,
 		"parentId": 10000595,
 		"levelMin": 201,
 		"levelMax": 215
 	},
 	{
 		"id": 10000599,
-		"zoneName": "Rivage Caudal",
-		"zoneTypeId": "Area",
+		"zoneName": 10000331,
+		"zoneTypeId": 10000391,
 		"parentId": 10000595,
 		"levelMin": 201,
 		"levelMax": 215
 	},
 	{
 		"id": 10000600,
-		"zoneName": "Aile Aride",
-		"zoneTypeId": "Area",
+		"zoneName": 10000330,
+		"zoneTypeId": 10000391,
 		"parentId": 10000595,
 		"levelMin": 201,
 		"levelMax": 215
 	},
 	{
 		"id": 10000601,
-		"zoneName": "Forêt Dorsale",
-		"zoneTypeId": "Area",
+		"zoneName": 10000329,
+		"zoneTypeId": 10000391,
 		"parentId": 10000595,
 		"levelMin": 201,
 		"levelMax": 215
 	},
 	{
 		"id": 10000602,
-		"zoneName": "Ereboria, l'ile maudite",
-		"zoneTypeId": "Island",
+		"zoneName": 10000266,
+		"zoneTypeId": 10000389,
 		"parentId": 10000343,
 		"levelMin": null,
 		"levelMax": null
 	},
 	{
 		"id": 10000603,
-		"zoneName": "Mine néo-Sufokienne",
-		"zoneTypeId": "Region",
+		"zoneName": 10000342,
+		"zoneTypeId": 10000390,
 		"parentId": 10000602,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000604,
-		"zoneName": "Mine néo-Sufokienne",
-		"zoneTypeId": "Area",
+		"zoneName": 10000342,
+		"zoneTypeId": 10000391,
 		"parentId": 10000603,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000605,
-		"zoneName": "Prison maritime",
-		"zoneTypeId": "Region",
+		"zoneName": 10000341,
+		"zoneTypeId": 10000390,
 		"parentId": 10000602,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000606,
-		"zoneName": "Prison maritime",
-		"zoneTypeId": "Area",
+		"zoneName": 10000341,
+		"zoneTypeId": 10000391,
 		"parentId": 10000605,
 		"levelMin": 216,
 		"levelMax": 230
 	},
 	{
 		"id": 10000607,
-		"zoneName": "Caverne des Marteaux-Aigris",
-		"zoneTypeId": "Region",
+		"zoneName": 10000282,
+		"zoneTypeId": 10000390,
 		"parentId": 10000602,
 		"levelMin": 51,
 		"levelMax": 65
 	},
 	{
 		"id": 10000608,
-		"zoneName": "Caverne des Marteaux-Aigris",
-		"zoneTypeId": "Area",
+		"zoneName": 10000282,
+		"zoneTypeId": 10000391,
 		"parentId": 10000607,
 		"levelMin": 51,
 		"levelMax": 65
 	},
 	{
 		"id": 10000609,
-		"zoneName": "Plage maudite",
-		"zoneTypeId": "Region",
+		"zoneName": 10000278,
+		"zoneTypeId": 10000390,
 		"parentId": 10000602,
 		"levelMin": 36,
 		"levelMax": 50
 	},
 	{
 		"id": 10000610,
-		"zoneName": "Plage maudite",
-		"zoneTypeId": "Area",
+		"zoneName": 10000278,
+		"zoneTypeId": 10000391,
 		"parentId": 10000609,
 		"levelMin": 36,
 		"levelMax": 50
 	},
 	{
 		"id": 10000611,
-		"zoneName": "Plage des pirates",
-		"zoneTypeId": "Region",
+		"zoneName": 10000277,
+		"zoneTypeId": 10000390,
 		"parentId": 10000602,
 		"levelMin": 36,
 		"levelMax": 50
 	},
 	{
 		"id": 10000612,
-		"zoneName": "Plage des pirates",
-		"zoneTypeId": "Area",
+		"zoneName": 10000277,
+		"zoneTypeId": 10000391,
 		"parentId": 10000611,
 		"levelMin": 36,
 		"levelMax": 50
 	},
 	{
 		"id": 10000510,
-		"zoneName": "Port d'Ereboria",
-		"zoneTypeId": "Region",
+		"zoneName": 10000384,
+		"zoneTypeId": 10000390,
 		"parentId": 0,
 		"levelMin": 36,
 		"levelMax": 50
 	},
 	{
 		"id": 10000613,
-		"zoneName": "Port d'Ereboria",
-		"zoneTypeId": "Area",
+		"zoneName": 10000384,
+		"zoneTypeId": 10000391,
 		"parentId": 10000510,
 		"levelMin": 36,
 		"levelMax": 50
