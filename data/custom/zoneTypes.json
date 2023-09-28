@@ -4,10 +4,10 @@
 			"id": 10000415
 		},
 		"title": {
-			"fr": "",
+			"fr": "Univers",
 			"en": "Universe",
-			"es": "",
-			"pt": ""
+			"es": "Universo",
+			"pt": "Universo"
 		}
 	},
 	{
@@ -15,10 +15,10 @@
 			"id": 10000388
 		},
 		"title": {
-			"fr": "",
+			"fr": "Monde",
 			"en": "World",
-			"es": "",
-			"pt": ""
+			"es": "Mundo",
+			"pt": "Mundo"
 		}
 	},
 	{
@@ -26,10 +26,10 @@
 			"id": 10000389
 		},
 		"title": {
-			"fr": "",
+			"fr": "Île",
 			"en": "Island",
-			"es": "",
-			"pt": ""
+			"es": "Isla",
+			"pt": "Ilha"
 		}
 	},
 	{
@@ -37,10 +37,10 @@
 			"id": 10000390
 		},
 		"title": {
-			"fr": "",
+			"fr": "Région",
 			"en": "Region",
-			"es": "",
-			"pt": ""
+			"es": "Región",
+			"pt": "Região"
 		}
 	},
 	{
@@ -48,10 +48,10 @@
 			"id": 10000391
 		},
 		"title": {
-			"fr": "",
+			"fr": "Zone",
 			"en": "Area",
-			"es": "",
-			"pt": ""
+			"es": "Área",
+			"pt": "Área"
 		}
 	}
 ]
