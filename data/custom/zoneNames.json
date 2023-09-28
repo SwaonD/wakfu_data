@@ -133,10 +133,10 @@
     },
     {
         "definition": {
-            "id": 10000349
+            "id": 10000416
         },
         "title": {
-            "fr": "Mines de la Pandalousie",
+            "fr": "Plaine de Nowel",
             "en": "",
             "es": "",
             "pt": ""
@@ -144,10 +144,10 @@
     },
     {
         "definition": {
-            "id": 10000350
+            "id": 10000349
         },
         "title": {
-            "fr": "La Fungopée",
+            "fr": "Mines de la Pandalousie",
             "en": "",
             "es": "",
             "pt": ""
@@ -342,17 +342,6 @@
     },
     {
         "definition": {
-            "id": 10000289
-        },
-        "title": {
-            "fr": "Couvent Tripotant",
-            "en": "Messaround Monastery",
-            "es": "Convento del Santo Tocón",
-            "pt": "Convento Empopa"
-        }
-    },
-    {
-        "definition": {
             "id": 10000243
         },
         "title": {
@@ -412,17 +401,6 @@
         },
         "title": {
             "fr": "Vestiges de la Crevasse Perge",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000361
-        },
-        "title": {
-            "fr": "Château de Harebourg",
             "en": "",
             "es": "",
             "pt": ""
@@ -529,28 +507,6 @@
     },
     {
         "definition": {
-            "id": 10000364
-        },
-        "title": {
-            "fr": "Intérieur de Grampar",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000365
-        },
-        "title": {
-            "fr": "Banquise des Mansots",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
             "id": 10000247
         },
         "title": {
@@ -587,7 +543,7 @@
             "id": 10000304
         },
         "title": {
-            "fr": "Soutewwains",
+            "fr": "Soutewwains Mowbides",
             "en": "Mowbid Wawwens",
             "es": "Subtewwáneos Mówbidos",
             "pt": "Túneis Mówbidos"
@@ -738,17 +694,6 @@
     },
     {
         "definition": {
-            "id": 10000345
-        },
-        "title": {
-            "fr": "Egouts d'Astrub",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
             "id": 10000267
         },
         "title": {
@@ -818,7 +763,7 @@
             "id": 10000318
         },
         "title": {
-            "fr": "Sous-terrains",
+            "fr": "Sous-Terrains de l'Île de Moon",
             "en": "Underground",
             "es": "Subsuelo",
             "pt": "Subterrâneo"
@@ -851,7 +796,7 @@
             "id": 10000324
         },
         "title": {
-            "fr": "Blérox",
+            "fr": "Haut Flanc - Blérox",
             "en": "Badgerox",
             "es": "Tejaroxores",
             "pt": "Texox"
@@ -862,7 +807,7 @@
             "id": 10000312
         },
         "title": {
-            "fr": "Sbires de Kali",
+            "fr": "Haut Flanc - Sbires de Kali",
             "en": "Kali's Henchmen",
             "es": "Esbirros de Kali",
             "pt": "Capangas de Kali"
@@ -925,39 +870,6 @@
     },
     {
         "definition": {
-            "id": 10000368
-        },
-        "title": {
-            "fr": "Plage Sauvage",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000369
-        },
-        "title": {
-            "fr": "Grotte Slek",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000370
-        },
-        "title": {
-            "fr": "Grotte du Dor'Mor",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
             "id": 10000257
         },
         "title": {
@@ -972,7 +884,7 @@
             "id": 10000307
         },
         "title": {
-            "fr": "Phorreurs",
+            "fr": "Bas Flanc - Phorreurs",
             "en": "Drhellers",
             "es": "Perforatroces",
             "pt": "Perfuratrozes"
@@ -983,7 +895,7 @@
             "id": 10000301
         },
         "title": {
-            "fr": "Smares",
+            "fr": "Bas Flanc - Smares",
             "en": "Whirlies",
             "es": "Sámaras",
             "pt": "Turbilhentos"
@@ -1005,7 +917,7 @@
             "id": 10000326
         },
         "title": {
-            "fr": "Ethernels",
+            "fr": "Sommet - Ethernels",
             "en": "Ethernals",
             "es": "Éternos",
             "pt": "Éter-Nos"
@@ -1016,7 +928,7 @@
             "id": 10000323
         },
         "title": {
-            "fr": "Dragoeufs",
+            "fr": "Sommet - Dragoeufs",
             "en": "Dreggons",
             "es": "Dragohuevos",
             "pt": "Dragovos"
@@ -1112,76 +1024,10 @@
     },
     {
         "definition": {
-            "id": 10000371
-        },
-        "title": {
-            "fr": "Route des morts",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000372
-        },
-        "title": {
-            "fr": "Spirale du vide",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000373
-        },
-        "title": {
-            "fr": "Citadelle de l'horreur",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000374
-        },
-        "title": {
-            "fr": "Royaume du désespoir",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000375
-        },
-        "title": {
-            "fr": "Démentia",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
             "id": 10000376
         },
         "title": {
             "fr": "Croisée des âmes déchues",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000377
-        },
-        "title": {
-            "fr": "Territoire de Sthulhu",
             "en": "",
             "es": "",
             "pt": ""
@@ -1541,17 +1387,6 @@
     },
     {
         "definition": {
-            "id": 10000343
-        },
-        "title": {
-            "fr": "Le passage",
-            "en": "The Passage",
-            "es": "El pasaje",
-            "pt": "A Passagem"
-        }
-    },
-    {
-        "definition": {
             "id": 10000342
         },
         "title": {
@@ -1607,65 +1442,10 @@
     },
     {
         "definition": {
-            "id": 10000382
-        },
-        "title": {
-            "fr": "Prison Maritime",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000383
-        },
-        "title": {
-            "fr": "Mine néo-Sufokienne",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
             "id": 10000384
         },
         "title": {
             "fr": "Port d'Ereboria",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000385
-        },
-        "title": {
-            "fr": "Plage des pirates",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000386
-        },
-        "title": {
-            "fr": "Caverne des Marteaux-Aigris",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000387
-        },
-        "title": {
-            "fr": "Plage maudite",
             "en": "",
             "es": "",
             "pt": ""
@@ -1706,17 +1486,6 @@
     },
     {
         "definition": {
-            "id": 10000398
-        },
-        "title": {
-            "fr": "Soutewwains Mowbides",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
             "id": 10000399
         },
         "title": {
@@ -1750,72 +1519,6 @@
     },
     {
         "definition": {
-            "id": 10000402
-        },
-        "title": {
-            "fr": "Bas Flanc - Smares",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000403
-        },
-        "title": {
-            "fr": "Bas Flanc - Phorreurs",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000404
-        },
-        "title": {
-            "fr": "Haut Flanc - Sbires de Kali",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000405
-        },
-        "title": {
-            "fr": "Haut Flanc - Blérox",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000406
-        },
-        "title": {
-            "fr": "Sommet - Dragoeufs",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000407
-        },
-        "title": {
-            "fr": "Sommet - Ethernels",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
             "id": 10000408
         },
         "title": {
@@ -1831,17 +1534,6 @@
         },
         "title": {
             "fr": "Capitale de Bonta",
-            "en": "",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000410
-        },
-        "title": {
-            "fr": "île aux Moines",
             "en": "",
             "es": "",
             "pt": ""

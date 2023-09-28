@@ -66,6 +66,8 @@ def check_for_unused_id(first_id: int, current_id: int) -> list:
 	for i in range(first_id, current_id):
 		if i not in all_ids:
 			unused_ids.append(i)
+	if len(unused_ids) > 0:
+		print(f"unused ids found : {unused_ids}")
 	return unused_ids
 
 def	get_ids(data: list) -> list:
