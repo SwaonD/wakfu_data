@@ -1,57 +1,57 @@
 [
-    {
-        "definition": {
-            "id": 10000415
-        },
-        "title": {
-            "fr": "",
-            "en": "Universe",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000388
-        },
-        "title": {
-            "fr": "",
-            "en": "World",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000389
-        },
-        "title": {
-            "fr": "",
-            "en": "Island",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000390
-        },
-        "title": {
-            "fr": "",
-            "en": "Region",
-            "es": "",
-            "pt": ""
-        }
-    },
-    {
-        "definition": {
-            "id": 10000391
-        },
-        "title": {
-            "fr": "",
-            "en": "Area",
-            "es": "",
-            "pt": ""
-        }
-    }
+	{
+		"definition": {
+			"id": 10000415
+		},
+		"title": {
+			"fr": "",
+			"en": "Universe",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000388
+		},
+		"title": {
+			"fr": "",
+			"en": "World",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000389
+		},
+		"title": {
+			"fr": "",
+			"en": "Island",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000390
+		},
+		"title": {
+			"fr": "",
+			"en": "Region",
+			"es": "",
+			"pt": ""
+		}
+	},
+	{
+		"definition": {
+			"id": 10000391
+		},
+		"title": {
+			"fr": "",
+			"en": "Area",
+			"es": "",
+			"pt": ""
+		}
+	}
 ]

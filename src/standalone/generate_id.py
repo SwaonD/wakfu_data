@@ -10,7 +10,7 @@ ID_FILE_NAME = "current_id"
 ID_FILE = Path(__file__).resolve().parent / f"{ID_FILE_NAME}.json"
 FIRST_ID = 10000000
 
-def generate_ids(file: Path, is_overwrite: bool):
+def generate_id(file: Path, is_overwrite: bool):
 	"""
 	Generate ids in a new wakfu custom json file
 	"""
@@ -19,18 +19,18 @@ def generate_ids(file: Path, is_overwrite: bool):
 	id = json_id_data["id"]
 	unused_ids = check_for_unused_id(FIRST_ID, id)
 	if is_overwrite:
-		unused_ids.extend(get_ids(data))
+		unused_ids.extend(get_id(data))
 	nb_id_added = 0
 	i = 0
 	while i < len(data):
-		if i < len(unused_ids):
-			new_id =  unused_ids[i]
-		else:
-			new_id = id
 		if ("definition" in data[i] and "id" in data[i]["definition"] \
 				or "id" in data[i]) and not is_overwrite:
 			i += 1
 			continue
+		if len(unused_ids) > 0:
+			new_id =  unused_ids.pop(0)
+		else:
+			new_id = id
 		if "definition" in data[i]:
 			data[i]["definition"] = put_key_at_position( \
 					data[i]["definition"], "id", new_id, 0)
@@ -39,7 +39,7 @@ def generate_ids(file: Path, is_overwrite: bool):
 					data[i], "definition", {"id": new_id}, 0)
 		else:
 			data[i] = put_key_at_position(data[i], "id", new_id, 0)
-		if i >= len(unused_ids):
+		if len(unused_ids) == 0:
 			id += 1
 			# increase id only if there is no more unuesed id
 		nb_id_added += 1
@@ -70,7 +70,7 @@ def check_for_unused_id(first_id: int, current_id: int) -> list:
 		print(f"unused ids found : {unused_ids}")
 	return unused_ids
 
-def	get_ids(data: list) -> list:
+def	get_id(data: list) -> list:
 	ids = []
 	for item in data:
 		if "definition" in item and "id" in item["definition"]:
@@ -122,5 +122,5 @@ def replace(file: Path):
 
 if __name__ == "__main__":
 	file = get_file()
-	generate_ids(file, overwrite(file))
+	generate_id(file, overwrite(file))
 	replace(file)
