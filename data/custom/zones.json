@@ -136,10 +136,18 @@
 		"levelMax": 95
 	},
 	{
+		"id": 10000318,
+		"zoneNameId": 10000348,
+		"zoneTypeId": 10000389,
+		"parentId": 10000343,
+		"levelMin": 1,
+		"levelMax": 230
+	},
+	{
 		"id": 10000383,
 		"zoneNameId": 10000348,
 		"zoneTypeId": 10000390,
-		"parentId": 10000375,
+		"parentId": 10000318,
 		"levelMin": 1,
 		"levelMax": 230
 	},
