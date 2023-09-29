@@ -5,9 +5,9 @@
 		},
 		"title": {
 			"fr": "Monde des Douze",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "World of Twelve",
+			"es": "Mundo de los Doce",
+			"pt": "Mundo dos Doze"
 		}
 	},
 	{
@@ -27,7 +27,7 @@
 		},
 		"title": {
 			"fr": "Mine d'Amakna - Tréfonds",
-			"en": "Depths",
+			"en": "Amakna Mine - Depths",
 			"es": "Profundidades",
 			"pt": "Profundezas"
 		}
@@ -49,7 +49,7 @@
 		},
 		"title": {
 			"fr": "Mine d'Amakna - Galeries",
-			"en": "Galleries",
+			"en": "Amakna Mine - Galleries",
 			"es": "Galerías",
 			"pt": "Galerias"
 		}
@@ -82,9 +82,9 @@
 		},
 		"title": {
 			"fr": "Capitale d'Amakna",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Amakna Capital",
+			"es": "Capital de Amakna",
+			"pt": "Capital de Amakna"
 		}
 	},
 	{
@@ -93,9 +93,9 @@
 		},
 		"title": {
 			"fr": "Mine d'Amakna",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Amakna Mine",
+			"es": "Mina de Amakna",
+			"pt": "Mina de Amakna"
 		}
 	},
 	{
@@ -104,9 +104,9 @@
 		},
 		"title": {
 			"fr": "Bibliotemple",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Temple of Scriptures",
+			"es": "Bibliotemplo",
+			"pt": "Bibliotemplo"
 		}
 	},
 	{
@@ -115,9 +115,9 @@
 		},
 		"title": {
 			"fr": "Foire du Trool",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Trool Fair",
+			"es": "Feria del Trool",
+			"pt": "Feira do Trool"
 		}
 	},
 	{
@@ -126,9 +126,9 @@
 		},
 		"title": {
 			"fr": "Île de Nowel",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Kwismas Island",
+			"es": "Isla de Nawidad",
+			"pt": "Ilha de Nataw"
 		}
 	},
 	{
@@ -137,9 +137,9 @@
 		},
 		"title": {
 			"fr": "Plaine de Nowel",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Kwismas Plain",
+			"es": "Llanura de Nawidad",
+			"pt": "Planície de Nataw"
 		}
 	},
 	{
@@ -148,9 +148,9 @@
 		},
 		"title": {
 			"fr": "Mines de la Pandalousie",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Pandalucia Mines",
+			"es": "Minas de Pandalucía",
+			"pt": "Minas da Pandaluzia"
 		}
 	},
 	{
@@ -159,9 +159,9 @@
 		},
 		"title": {
 			"fr": "Sous Terrains de l'Île de Moon",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Moon Island Tunnels",
+			"es": "Subterráneos de la isla de Moon",
+			"pt": "Subterrâneos da ilha de Moon"
 		}
 	},
 	{
@@ -170,9 +170,9 @@
 		},
 		"title": {
 			"fr": "Ile de Rok",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Rok Island",
+			"es": "Isla de Rok",
+			"pt": "Ilha de Rok"
 		}
 	},
 	{
@@ -181,9 +181,9 @@
 		},
 		"title": {
 			"fr": "Rez de chaussée de l'écolte d'Huppermagie",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Huppermage School - Downstairs",
+			"es": "Planta baja de la escuela de hipermagia",
+			"pt": "Térreo da escola de Huppermagia"
 		}
 	},
 	{
@@ -192,9 +192,9 @@
 		},
 		"title": {
 			"fr": "Etage de l'école d'Huppermagie",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Huppermage School - Upstairs",
+			"es": "Planta alta de la escuela de hipermagia",
+			"pt": "Andar superior da escola de Huppermagia"
 		}
 	},
 	{
@@ -203,9 +203,9 @@
 		},
 		"title": {
 			"fr": "Inglorium",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Ingloriom",
+			"es": "Inglorium",
+			"pt": "Ingloriom"
 		}
 	},
 	{
@@ -214,9 +214,9 @@
 		},
 		"title": {
 			"fr": "Ecaflipus (Arènes)",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Ecaflipus (Arenas)",
+			"es": "Zurcalia (Arenas)",
+			"pt": "Ecafliperama (Arenas)"
 		}
 	},
 	{
@@ -225,9 +225,9 @@
 		},
 		"title": {
 			"fr": "Plaines d'Incarnam",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Incarnam Plains",
+			"es": "Llanuras de Incarnam",
+			"pt": "Planícies de Incarnam"
 		}
 	},
 	{
@@ -236,9 +236,9 @@
 		},
 		"title": {
 			"fr": "Récif des Shushardes",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Shusnitch Reef",
+			"es": "Arrecife de kiryuks",
+			"pt": "Recife dos Shushapas"
 		}
 	},
 	{
@@ -401,9 +401,9 @@
 		},
 		"title": {
 			"fr": "Vestiges de la Crevasse Perge",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Ruins of the Asparah Gorge",
+			"es": "Vestigios de la grieta Bú",
+			"pt": "Ruínas do Desfiladeiro Aspara"
 		}
 	},
 	{
@@ -412,9 +412,9 @@
 		},
 		"title": {
 			"fr": "Tour Minérale",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Mineral Tower",
+			"es": "Torre Mineral",
+			"pt": "Torre Mineral"
 		}
 	},
 	{
@@ -445,9 +445,9 @@
 		},
 		"title": {
 			"fr": "Galaxième Dimension",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Jellith Dimension",
+			"es": "Gelexta Dimension",
+			"pt": "Gelatésima Dimensäo"
 		}
 	},
 	{
@@ -555,9 +555,9 @@
 		},
 		"title": {
 			"fr": "Souterrains Wabbit",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Wabbit Tunnels",
+			"es": "Subterráneos de los Wabbits",
+			"pt": "Túneis Wabbit"
 		}
 	},
 	{
@@ -643,9 +643,9 @@
 		},
 		"title": {
 			"fr": "Hameau des Pêcheurs",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Fishermen's Hamlet",
+			"es": "Aldea de los pescadores",
+			"pt": "Aldeia dos Pescadores"
 		}
 	},
 	{
@@ -709,9 +709,9 @@
 		},
 		"title": {
 			"fr": "Cité d'Astrub",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Astrub City",
+			"es": "Ciudad de Astrub",
+			"pt": "Cidade de Astrub"
 		}
 	},
 	{
@@ -760,17 +760,6 @@
 	},
 	{
 		"definition": {
-			"id": 10000318
-		},
-		"title": {
-			"fr": "Sous-Terrains de l'Île de Moon",
-			"en": "Underground",
-			"es": "Subsuelo",
-			"pt": "Subterrâneo"
-		}
-	},
-	{
-		"definition": {
 			"id": 10000317
 		},
 		"title": {
@@ -797,9 +786,9 @@
 		},
 		"title": {
 			"fr": "Haut Flanc - Blérox",
-			"en": "Badgerox",
-			"es": "Tejaroxores",
-			"pt": "Texox"
+			"en": "Upper Slope - Badgerox",
+			"es": "Ladera alta - Tejaroxores",
+			"pt": "Encosta Alta - Texox"
 		}
 	},
 	{
@@ -808,9 +797,9 @@
 		},
 		"title": {
 			"fr": "Haut Flanc - Sbires de Kali",
-			"en": "Kali's Henchmen",
-			"es": "Esbirros de Kali",
-			"pt": "Capangas de Kali"
+			"en": "Upper Slope - Kali's Henchmen",
+			"es": "Ladera alta - Esbirros de Kali",
+			"pt": "Encosta Alta - Capangas de Kali"
 		}
 	},
 	{
@@ -863,9 +852,9 @@
 		},
 		"title": {
 			"fr": "Plage du Zinit",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Zinit Beach",
+			"es": "Playa del Zinit",
+			"pt": "Praia do Zinit"
 		}
 	},
 	{
@@ -885,9 +874,9 @@
 		},
 		"title": {
 			"fr": "Bas Flanc - Phorreurs",
-			"en": "Drhellers",
-			"es": "Perforatroces",
-			"pt": "Perfuratrozes"
+			"en": "Lower Slope - Drhellers",
+			"es": "Ladera baja - Perforatroces",
+			"pt": "Encosta Baixa - Perfuratrozes"
 		}
 	},
 	{
@@ -896,9 +885,9 @@
 		},
 		"title": {
 			"fr": "Bas Flanc - Smares",
-			"en": "Whirlies",
-			"es": "Sámaras",
-			"pt": "Turbilhentos"
+			"en": "Lower Slope - Whirlies",
+			"es": "Ladera baja - Sámaras",
+			"pt": "Encosta Baixa - Turbilhentos"
 		}
 	},
 	{
@@ -918,9 +907,9 @@
 		},
 		"title": {
 			"fr": "Sommet - Ethernels",
-			"en": "Ethernals",
-			"es": "Éternos",
-			"pt": "Éter-Nos"
+			"en": "Summit - Ethernals",
+			"es": "Cima - Éternos",
+			"pt": "Cume - Éter-Nos"
 		}
 	},
 	{
@@ -929,9 +918,9 @@
 		},
 		"title": {
 			"fr": "Sommet - Dragoeufs",
-			"en": "Dreggons",
-			"es": "Dragohuevos",
-			"pt": "Dragovos"
+			"en": "Summit - Dreggons",
+			"es": "Cima - Dragohuevos",
+			"pt": "Cume - Dragovos"
 		}
 	},
 	{
@@ -1028,9 +1017,9 @@
 		},
 		"title": {
 			"fr": "Croisée des âmes déchues",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Fallen Souls' Crossing",
+			"es": "Encrucijada de las almas caídas",
+			"pt": "Encruzilhada das Almas Decaídas"
 		}
 	},
 	{
@@ -1039,9 +1028,9 @@
 		},
 		"title": {
 			"fr": "Palais de Rushu",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Rushu's Palace",
+			"es": "Palacio de Rushu",
+			"pt": "Palácio de Rushu"
 		}
 	},
 	{
@@ -1061,9 +1050,9 @@
 		},
 		"title": {
 			"fr": "Mine de Bonta - Tréfonds",
-			"en": "Depths",
-			"es": "Profundidades",
-			"pt": "Profundezas"
+			"en": "Bonta Mine - Depths",
+			"es": "Mina de Bonta - Profundidades",
+			"pt": "Mina de Bonta - Profundezas"
 		}
 	},
 	{
@@ -1083,9 +1072,9 @@
 		},
 		"title": {
 			"fr": "Mine de Bonta - Galeries",
-			"en": "Galleries",
-			"es": "Galerías",
-			"pt": "Galerias"
+			"en": "Bonta Mine - Galleries",
+			"es": "Mina de Bonta - Galerías",
+			"pt": "Mina de Bonta - Galerias"
 		}
 	},
 	{
@@ -1106,7 +1095,7 @@
 		"title": {
 			"fr": "Plaines de Cania",
 			"en": "Cania Plains",
-			"es": "Llanuras de Cania - Oeste",
+			"es": "Llanuras de Cania",
 			"pt": "Planícies de Cania"
 		}
 	},
@@ -1116,9 +1105,9 @@
 		},
 		"title": {
 			"fr": "Mine de Bonta",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Bonta Mine",
+			"es": "Mina de Bonta",
+			"pt": "Mina de Bonta"
 		}
 	},
 	{
@@ -1138,9 +1127,9 @@
 		},
 		"title": {
 			"fr": "Mine de Sufokia - Tréfonds",
-			"en": "Depths",
-			"es": "Profundidades",
-			"pt": "Profundezas"
+			"en": "Sufokia Mine - Depths",
+			"es": "Mina de Sufokia - Profundidades",
+			"pt": "Mina de Sufokia - Profundezas"
 		}
 	},
 	{
@@ -1149,9 +1138,9 @@
 		},
 		"title": {
 			"fr": "Mine de Sufokia - Galeries",
-			"en": "Galleries",
-			"es": "Galerías",
-			"pt": "Galerias"
+			"en": "Sufokia Mine - Galleries",
+			"es": "Mina de Sufokia - Galerías",
+			"pt": "Mina de Sufokia - Galerias"
 		}
 	},
 	{
@@ -1182,9 +1171,9 @@
 		},
 		"title": {
 			"fr": "Mine de Sufokia",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Sufokia Mine",
+			"es": "Mina de Sufokia",
+			"pt": "Mina de Sufokia"
 		}
 	},
 	{
@@ -1204,9 +1193,9 @@
 		},
 		"title": {
 			"fr": "Mine de Brâkmar - Tréfonds",
-			"en": "Depths",
-			"es": "Profundidades",
-			"pt": "Profundezas"
+			"en": "Brakmar Mine - Depths",
+			"es": "Mina de Brakmar - Profundidades",
+			"pt": "Mina de Brakmar - Profundezas"
 		}
 	},
 	{
@@ -1226,9 +1215,9 @@
 		},
 		"title": {
 			"fr": "Mine de Brâkmar - Galeries",
-			"en": "Galleries",
-			"es": "Galerías",
-			"pt": "Galerias"
+			"en": "Brakmar Mine - Galleries",
+			"es": "Mina de Brakmar - Galerías",
+			"pt": "Mina de Brakmar - Galerias"
 		}
 	},
 	{
@@ -1259,9 +1248,9 @@
 		},
 		"title": {
 			"fr": "Mine de Brâkmar",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Brakmar Mine",
+			"es": "Mina de Brakmar",
+			"pt": "Mina de Brakmar"
 		}
 	},
 	{
@@ -1270,9 +1259,9 @@
 		},
 		"title": {
 			"fr": "Vallée de la Pandalousie",
-			"en": "Pandalucia",
-			"es": "Pandalucía",
-			"pt": "Pandaluzia"
+			"en": "Pandalucia Valley",
+			"es": "Valle de Pandalucía",
+			"pt": "Vale da Pandaluzia"
 		}
 	},
 	{
@@ -1380,9 +1369,9 @@
 		},
 		"title": {
 			"fr": "Ereboria, l'ile maudite",
-			"en": "Ereboria",
-			"es": "Ereboria",
-			"pt": "Ereboria"
+			"en": "Ereboria, the Cursed Island",
+			"es": "Ereboria, la isla maldita",
+			"pt": "Ereboria, a ilha amaldiçoada"
 		}
 	},
 	{
@@ -1446,9 +1435,9 @@
 		},
 		"title": {
 			"fr": "Port d'Ereboria",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Ereboria Harbor",
+			"es": "Puerto de Ereboria",
+			"pt": "Porto de Ereboria"
 		}
 	},
 	{
@@ -1457,9 +1446,9 @@
 		},
 		"title": {
 			"fr": "Krosmoz",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Krosmoz",
+			"es": "Krosmoz",
+			"pt": "Krosmoz"
 		}
 	},
 	{
@@ -1468,9 +1457,9 @@
 		},
 		"title": {
 			"fr": "Port de Chendu",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Chendu Harbor",
+			"es": "Puerto de Chendú",
+			"pt": "Porto de Chendu"
 		}
 	},
 	{
@@ -1479,9 +1468,9 @@
 		},
 		"title": {
 			"fr": "Sommet des Mille Brumes",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Summit of a Thousand Mists",
+			"es": "Cumbre de las Mil Brumas",
+			"pt": "Cume das Mil Brumas"
 		}
 	},
 	{
@@ -1490,9 +1479,9 @@
 		},
 		"title": {
 			"fr": "Palais du Roi Sheran Sharm",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "King Sheran Sharm's Palace",
+			"es": "Palacio del rey Sheran Sharm",
+			"pt": "Palácio do Rei Sheran Sharm"
 		}
 	},
 	{
@@ -1501,9 +1490,9 @@
 		},
 		"title": {
 			"fr": "Village",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Village",
+			"es": "Pueblo",
+			"pt": "Vilarejo"
 		}
 	},
 	{
@@ -1512,9 +1501,9 @@
 		},
 		"title": {
 			"fr": "La banquise de Sberg",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Chillberg Ice Floe",
+			"es": "Banquisa de Berg",
+			"pt": "Banquisa de Bergue"
 		}
 	},
 	{
@@ -1523,9 +1512,9 @@
 		},
 		"title": {
 			"fr": "Capitale de Brâkmar",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Capital of Brakmar",
+			"es": "Capital de Brakmar",
+			"pt": "Capital de Brakmar"
 		}
 	},
 	{
@@ -1534,9 +1523,9 @@
 		},
 		"title": {
 			"fr": "Capitale de Bonta",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Capital of Bonta",
+			"es": "Capital de Bonta",
+			"pt": "Capital de Bonta"
 		}
 	},
 	{
@@ -1545,9 +1534,9 @@
 		},
 		"title": {
 			"fr": "Antichambre de la fête",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Party Antechamber",
+			"es": "Antecámara de la fiesta",
+			"pt": "Antecâmara da Festa"
 		}
 	},
 	{
@@ -1556,9 +1545,9 @@
 		},
 		"title": {
 			"fr": "Capitale de Sufokia",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Capital of Sufokia",
+			"es": "Capital de Sufokia",
+			"pt": "Capital de Sufokia"
 		}
 	},
 	{
@@ -1567,9 +1556,9 @@
 		},
 		"title": {
 			"fr": "Laboratoire d'Osamodas",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Osamodas's Laboratory",
+			"es": "Laboratorio de Osamodas",
+			"pt": "Laboratório de Osamodas"
 		}
 	},
 	{
@@ -1578,9 +1567,9 @@
 		},
 		"title": {
 			"fr": "Îlot des Voyageurs Dimensionnels",
-			"en": "",
-			"es": "",
-			"pt": ""
+			"en": "Dimensional Voyagers'Island",
+			"es": "Islote de los viajeros dimensionales",
+			"pt": "Ilha dos Viajantes Dimensionals"
 		}
 	}
 ]

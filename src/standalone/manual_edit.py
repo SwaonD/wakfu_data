@@ -10,5 +10,7 @@ zones_file = CUSTOM_DATA_PATH / "zones.json"
 zones_data = get_json_data_with_path(zones_file)
 # edit data here
 
+# ile de nowel en tant que ile et nono region
+
 # edit data here
 write_json_in_copy(zones_file, zones_data)
