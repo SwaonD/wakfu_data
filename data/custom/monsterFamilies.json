@@ -1,18 +1,6 @@
 [
 	{
 		"definition": {
-			"id": 10000141,
-			"level": 5
-		},
-		"title": {
-			"fr": "Embryâmes",
-			"en": "Embrysouls",
-			"es": "Embrialmas",
-			"pt": "Embrialmas"
-		}
-	},
-	{
-		"definition": {
 			"id": 10000142,
 			"level": 20
 		},
